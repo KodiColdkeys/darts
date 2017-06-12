@@ -1,20 +1,20 @@
 <item>
 <title>2015 Grand Slam Of Darts</title>
-<utube>|PLnJp9laBeYwnuXkUN34-eb72c9-pfy7RV</utube>
+<utube>PLnJp9laBeYwnuXkUN34-eb72c9-pfy7RV</utube>
 <thumbnail>special://home/addons/plugin.video.darts/resources/2015 Grand Slam.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/gC56sPzxo7g/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>2015 World Darts Championship</title>
-<utube>|PLZxPj4ksDAuhhcm0T8k3pi-BKqA8f1Fmj</utube>
+<utube>PLZxPj4ksDAuhhcm0T8k3pi-BKqA8f1Fmj</utube>
 <thumbnail>special://home/addons/plugin.video.darts/resources/PDC Worlds 2015.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/0qtekDQI0nU/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>2015 World Series Of Darts Finals</title>
-<utube>|PLnJp9laBeYwkKv6Fy5HbwMn_M8vparKvS</utube>
+<utube>PLnJp9laBeYwkKv6Fy5HbwMn_M8vparKvS</utube>
 <thumbnail>special://home/addons/plugin.video.darts/resources/2015 World Series of Darts Finals.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/l5ZVsmJh098/maxresdefault.jpg</fanart>
 </item>
