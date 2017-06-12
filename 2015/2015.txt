@@ -1,11 +1,4 @@
 <item>
-<title>Ant Man</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>2015 Grand Slam Of Darts</title>
 <link>https://www.youtube.com/playlist/PLnJp9laBeYwnuXkUN34-eb72c9-pfy7RV</link>
 <thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/2015 Grand Slam.jpg</thumbnail>
