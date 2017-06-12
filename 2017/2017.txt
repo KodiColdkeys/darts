@@ -8,7 +8,7 @@
 <item>
 <title>2017 European Darts Matchplay</title>
 <utube>|PLYJ3r6AEHB6qibOLpF0oNSI9WlUfxWzrc</utube>
-<thumbnail>special://home/addons/plugin.video.darts/resources/European Darts Matchplay.jpg</thumbnail>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/European Darts Matchplay.jpg</thumbnail>
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
