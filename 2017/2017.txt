@@ -1,20 +1,104 @@
 <item>
 <title>2017 Premier League of Darts</title>
-<link>https://www.youtube.com/playlist/PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</link>
+<utube>|PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</utube>
 <thumbnail>https://i.ytimg.com/vi/OUfL5MUGCsU/hqdefault.jpg</thumbnail>
-<fanart>https://sportnieuws.nl/app/uploads/2017/02/PL17.jpg</fanart>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
 <item>
 <title>2017 European Darts Matchplay</title>
-<link>https://www.youtube.com/playlist/PLYJ3r6AEHB6qibOLpF0oNSI9WlUfxWzrc</link>
+<utube>|PLYJ3r6AEHB6qibOLpF0oNSI9WlUfxWzrc</utube>
 <thumbnail>special://home/addons/plugin.video.darts/resources/European Darts Matchplay.jpg</thumbnail>
-<fanart>https://www.pdc-europe.tv/wp-content/uploads/2016/10/edm_2016_061_26750651590_o.jpg</fanart>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
 <item>
 <title>2017 World Cup of Darts</title>
-<link>https://www.youtube.com/playlist/PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</link>
+<utube>|PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</utube>
 <thumbnail>http://cdn1.viagogo.net/img/cat/16074/1/17.jpg</thumbnail>
-<fanart>http://dartworld.pl/wp-content/uploads/2017/01/bandicam-2017-01-02-22-14-36-342.jpg</fanart>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 EADC Pro Tour</title>
+<utube>|PLZxPj4ksDAujNyt2zXAlZ10ZJGrWBVHzS</utube>
+<thumbnail>http://images.performgroup.com/di/library/pdc/e/1/boris-koltsov-2015-william-hill-world-darts-championship-lawrence-lustig-pdc_1h54pc4bi04jn13sq8n04t3p8z.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 World Darts Championship EADC Qualifier</title>
+<utube>|PLZxPj4ksDAujowvg1UQ8NSnPsomDRIOIl</utube>
+<thumbnail>https://i.ytimg.com/vi/gYzX2kIQ0hk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Dubai Duty Free Darts Masters</title>
+<utube>|PLYJ3r6AEHB6o5P-EX3E3PwCQxyCUFcQgO</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Dubain Masters.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Gibraltar Darts Trophy</title>
+<utube>|PLYJ3r6AEHB6pJYJMR5t3baQoyIjJbPO48</utube>
+<thumbnail>https://i.ytimg.com/vi/MRp9Ok7JRRA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 European Darts Grand Prix</title>
+<utube>|PLYJ3r6AEHB6p20SHJoklQ8AzvhfTxGiFB</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Eropean Darts Grand Prix.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 German Darts Masters</title>
+<utube>|PLYJ3r6AEHB6o2Em7O5b1FlWV6KRJeEd3-</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/gERMAN maSTERS.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 German Darts Open</title>
+<utube>|PLMYrbKMmyUBkrHsjxXeaz7VfDmN-4yKhk</utube>
+<thumbnail>https://i.ytimg.com/vi/Brbz8i4N-A8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 German Darts Championship - Hildesheim</title>
+<utube>|PLMYrbKMmyUBm__350nT2Qw6yKVxxu_xdg</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/German Darts Championship.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Coral UK Open</title>
+<utube>|PLYJ3r6AEHB6qOvEYM4KFnln9CCWb3Uzet</utube>
+<thumbnail>https://i.ytimg.com/vi/aLZXYKZiADI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Unibet Masters</title>
+<utube>|PLMYrbKMmyUBlBakIuWm9heMrC0zRatkDB</utube>
+<thumbnail>https://i.ytimg.com/vi/zZAu7OOAtrk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO World Darts Championship</title>
+<utube>|PLYJ3r6AEHB6p0RlEoUjwwr1oMQEbgYWhd</utube>
+<thumbnail>https://i.ytimg.com/vi/AS4lPFjScxE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>2017 William Hill World Darts Championship</title>
+<utube>|PLMYrbKMmyUBlBivReir3eYNkJXo93Pq40</utube>
+<thumbnail>https://i.ytimg.com/vi/JJTWZMDGd3I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
