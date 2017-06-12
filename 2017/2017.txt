@@ -1,0 +1,20 @@
+<item>
+<title>2017 Premier League of Darts</title>
+<link>https://www.youtube.com/playlist/PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</link>
+<thumbnail>https://i.ytimg.com/vi/OUfL5MUGCsU/hqdefault.jpg</thumbnail>
+<fanart>https://sportnieuws.nl/app/uploads/2017/02/PL17.jpg</fanart>
+</item>
+
+<item>
+<title>2017 European Darts Matchplay</title>
+<link>https://www.youtube.com/playlist/PLYJ3r6AEHB6qibOLpF0oNSI9WlUfxWzrc</link>
+<thumbnail>special://home/addons/plugin.video.darts/resources/European Darts Matchplay.jpg</thumbnail>
+<fanart>https://www.pdc-europe.tv/wp-content/uploads/2016/10/edm_2016_061_26750651590_o.jpg</fanart>
+</item>
+
+<item>
+<title>2017 World Cup of Darts</title>
+<link>https://www.youtube.com/playlist/PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</link>
+<thumbnail>http://cdn1.viagogo.net/img/cat/16074/1/17.jpg</thumbnail>
+<fanart>http://dartworld.pl/wp-content/uploads/2017/01/bandicam-2017-01-02-22-14-36-342.jpg</fanart>
+</item>

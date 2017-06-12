@@ -1,0 +1,20 @@
+<item>
+<title>2016 Cash Converters Players Championship Finals</title>
+<link>https://www.youtube.com/playlist/PLMYrbKMmyUBm7rdbeVt1BVY4UbLlsM8Nc</link>
+<thumbnail>https://i.ytimg.com/vi/VQX3bkvDyN0/hqdefault.jpg</thumbnail>
+<fanart>https://www.livepdc.tv/sites/default/files/video_thumbnails/0_nxxu6wqn.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Singha Beer Grand Slam Of Darts</title>
+<link>https://www.youtube.com/playlist/PLMYrbKMmyUBl5K-lBfxaTUKrBkXTipNp-</link>
+<thumbnail>https://joshsdartistry.files.wordpress.com/2016/08/singha-beer-grand-slam-of-darts_1cmkzuk6jwko41tuseltf672gu.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2oENOoDYBS0/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Unibet European Championships</title>
+<link>https://www.youtube.com/playlist/PLMYrbKMmyUBktIQuQr4doYukbcnGkbLg9</link>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/European Darts Championship.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/qfbmbt_q6j0/maxresdefault.jpg</fanart>
+</item>

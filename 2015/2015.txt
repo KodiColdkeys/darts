@@ -1,0 +1,27 @@
+<item>
+<title>Ant Man</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>2015 Grand Slam Of Darts</title>
+<link>https://www.youtube.com/playlist/PLnJp9laBeYwnuXkUN34-eb72c9-pfy7RV</link>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/2015 Grand Slam.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/gC56sPzxo7g/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2015 World Darts Championship</title>
+<link>https://www.youtube.com/playlist/PLZxPj4ksDAuhhcm0T8k3pi-BKqA8f1Fmj</link>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/PDC Worlds 2015.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/0qtekDQI0nU/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2015 World Series Of Darts Finals</title>
+<link>https://www.youtube.com/playlist/PLnJp9laBeYwkKv6Fy5HbwMn_M8vparKvS</link>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/2015 World Series of Darts Finals.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/l5ZVsmJh098/maxresdefault.jpg</fanart>
+</item>
