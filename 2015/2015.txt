@@ -205,6 +205,7 @@
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </item>
 
+<item>
 <title>2015 BDO World Championship</title>
 <utube>|PLZxPj4ksDAuj4hawQsACxLKrI-ePQNPM5</utube>
 <thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/bdo 2015.jpg</thumbnail>
