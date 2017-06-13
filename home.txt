@@ -6,7 +6,7 @@
 <name>2017</name>
 <thumbnail>https://i.ytimg.com/vi/S7HXyKrMw-A/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sU4wUi</externallink>
-<fanart>https://pcforum.hu/assets/site.pc/text/videos/youtube-MHTizZ_XcUM/darts-wp--dyn--shareimg.jpg</fanart>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -14,7 +14,7 @@
 <name>2016</name>
 <thumbnail>https://i.ytimg.com/vi/2qFhhFZUfwM/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sUlgL9</externallink>
-<fanart>https://i.ytimg.com/vi/LERqPFjRarU/maxresdefault.jpg</fanart>
+<fanart>http://i.imgur.com/Pl4N7UZb.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -22,7 +22,7 @@
 <name>2015</name>
 <thumbnail>https://i.ytimg.com/vi/stmlGQDBwGk/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sU1hMy</externallink>
-<fanart>https://i.ytimg.com/vi/sEA3zlQpoVQ/maxresdefault.jpg</fanart>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
