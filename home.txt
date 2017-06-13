@@ -29,7 +29,7 @@
 <channel>
 <name>2014</name>
 <thumbnail>https://i.ytimg.com/vi/stmlGQDBwGk/hqdefault.jpg</thumbnail>
-<externallink></externallink>
+<externallink>http://bit.ly/2swCote</externallink>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
