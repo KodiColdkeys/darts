@@ -28,9 +28,65 @@
 
 <channel>
 <name>2014</name>
-<thumbnail>https://i.ytimg.com/vi/stmlGQDBwGk/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/GMBJqPL5bJM/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2swCote</externallink>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2013</name>
+<thumbnail>https://i1.ytimg.com/vi/LEUNkQszPRw/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2tgrzci</externallink>
+<fanart>http://i.imgur.com/09n6bLd.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Darts Channels</name>
+<thumbnail>http://i.imgur.com/Sv4Kgxs.jpg</thumbnail>
+<externallink>http://bit.ly/2tguyRY</externallink>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Soft Darts</name>
+<thumbnail>http://i.imgur.com/Lt9IlBq.jpg</thumbnail>
+<externallink>http://bit.ly/2tgv5mQ</externallink>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Soft Darts Channels</name>
+<thumbnail>http://i.imgur.com/dmaJZ8Q.jpg</thumbnail>
+<externallink>http://bit.ly/2tgle0p</externallink>
+<fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Perfect Tour 2017</name>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<externallink>http://bit.ly/2tglht7</externallink>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Perfect Tour 2016</name>
+<thumbnail>http://i.imgur.com/cRkNYW7.jpg</thumbnail>
+<externallink>http://bit.ly/2tgnIvT</externallink>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Perfect Tour 2015</name>
+<thumbnail>http://i.imgur.com/wWSXktx.jpg</thumbnail>
+<externallink>http://bit.ly/2tgiCzA</externallink>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
