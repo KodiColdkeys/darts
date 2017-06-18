@@ -64,7 +64,14 @@
 <item>
 <title>2014 Hong Kong Open</title>
 <utube>|PL_N6kDYT8UDxstEZnVd4OuJmxlyNpD_DY</utube>
-<thumbnail>https://i.ytimg.com/vi/R_KZjENZ3gk/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/ySUQUkG.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
+</item>
+
+<item>
+<title>2014 WDF Asia Pacific Cup XVII</title>
+<utube>|PL152bjytsMC5udB_-Vp8nq4srMpQKpg3g</utube>
+<thumbnail>https://i.ytimg.com/vi/CmYYK9iosh0/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
