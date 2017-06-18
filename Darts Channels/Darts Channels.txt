@@ -1,11 +1,4 @@
 <item>
-<title></title>
-<utube>|</utube>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>Professional Darts Corporation</title>
 <utube>UCRvCwDp_1DwOlOpnlJf9iYw|</utube>
 <thumbnail>http://i.imgur.com/4KORJKR.jpg</thumbnail>
