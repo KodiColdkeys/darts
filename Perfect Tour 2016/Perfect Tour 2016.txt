@@ -1,0 +1,146 @@
+<item>
+<title>2016 PERFECT Tour Round 1</title>
+<utube>|PLvRlxnmr3Xp8Ciw4mZ54fJYG12BV5g4Nk</utube>
+<thumbnail>https://i.ytimg.com/vi/t1ECA6ulSUg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 2</title>
+<utube>|PLvRlxnmr3Xp-7BbKttwmSGZ71nLMzyBo_</utube>
+<thumbnail>https://i.ytimg.com/vi/DeME0ZAG_qk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 3 Sapporo</title>
+<utube>|PLvRlxnmr3Xp_aXLPWV-8irMBgSEK-Lleo</utube>
+<thumbnail>https://i.ytimg.com/vi/u8buynjaOy0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 4 Chiba</title>
+<utube>|PLvRlxnmr3Xp-MXSSmYUnO9Ey3OvJlPkkh</utube>
+<thumbnail>https://i.ytimg.com/vi/fW-9vvPIKV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 5 Kobe</title>
+<utube>|PLvRlxnmr3Xp9jJMOG-aobp9WlO7g45VGo</utube>
+<thumbnail>https://i.ytimg.com/vi/A6a_dW34tto/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 6 Fukuoka</title>
+<utube>|PLvRlxnmr3Xp9hJVcwVKe9_ywsxDJDFH08</utube>
+<thumbnail>https://i.ytimg.com/vi/rKy4d2Hiqic/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 7 Sendai</title>
+<utube>|PLvRlxnmr3Xp9Fj87hmuizLdsk0xrj5gby</utube>
+<thumbnail>https://i.ytimg.com/vi/rijiiEy3A6k/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 8 Gifu</title>
+<utube>|PLvRlxnmr3Xp_Zzwr8f4anGZnG89O3FnMO</utube>
+<thumbnail>https://i.ytimg.com/vi/JCXS0BDhli0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 9 Yokohama</title>
+<utube>|PLvRlxnmr3Xp9SdLuqAfJcK15hwKURvlw3</utube>
+<thumbnail>https://i.ytimg.com/vi/qLhLGWaGI44/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 10 Fukushima</title>
+<utube>|PLvRlxnmr3Xp9-hCyTfOzV0mQex8WlLgjF</utube>
+<thumbnail>https://i.ytimg.com/vi/K5te7RtgqAU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 11 Kyoto</title>
+<utube>|PLvRlxnmr3Xp8M1oSqNpz5XirxLst73CTQ</utube>
+<thumbnail>https://i.ytimg.com/vi/5-a7MV6Zj1w/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 12 Yokohama</title>
+<utube>|PLvRlxnmr3Xp-smnz66THtrLbWBmYyAjgQ</utube>
+<thumbnail>https://i.ytimg.com/vi/GGTHZRfRBE4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 13 Hiroshima</title>
+<utube>|PLvRlxnmr3Xp_kzeF_oZ-dwB_EYaZWNTTx</utube>
+<thumbnail>https://i.ytimg.com/vi/KODfUT_NVRQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 14 Ishikawa</title>
+<utube>|PLvRlxnmr3Xp8cR2u_1jW0PVhmmbuGFt8F</utube>
+<thumbnail>https://i.ytimg.com/vi/_HX0osmhnAM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 15 Niigata</title>
+<utube>|PLvRlxnmr3Xp9VXxF4aqGPAGg37VKZf6iy</utube>
+<thumbnail>https://i.ytimg.com/vi/aKuxbviTT1I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 16 Shizuoka</title>
+<utube>|PLvRlxnmr3Xp_-yuqQAVTtnwUfVxQ9Vr_c</utube>
+<thumbnail>https://i.ytimg.com/vi/gIQC2NIJlSw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 17 Yokohama</title>
+<utube>|PLvRlxnmr3Xp_zO2OHiNNMD_rTuKxnDSO4</utube>
+<thumbnail>https://i.ytimg.com/vi/uCln52_hvbU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 18 Kumamoto</title>
+<utube>|PLvRlxnmr3Xp-HYdhYRyVCw5li2Yn6CenE</utube>
+<thumbnail>https://i.ytimg.com/vi/MQPkncg5ifY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Round 19 Nagoya</title>
+<utube>|PLvRlxnmr3Xp-HehdIwkeg8UYo3FqrJLyD</utube>
+<thumbnail>https://i.ytimg.com/vi/u8buynjaOy0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Tour Final Battle / Chiba</title>
+<utube>|PLvRlxnmr3Xp8RR5s8kmNFNOh5XyCFYHlp</utube>
+<thumbnail>https://i.ytimg.com/vi/sNK-QXlCLaI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>
+
+<item>
+<title>2016 PERFECT Challenge Tournament</title>
+<utube>|PLvRlxnmr3Xp9KYLSohySIIGDZyx3v1z8J</utube>
+<thumbnail>http://i.imgur.com/cRkNYW7.jpg</thumbnail>
+<fanart>http://i.imgur.com/lAMr63j.jpg</fanart>
+</item>

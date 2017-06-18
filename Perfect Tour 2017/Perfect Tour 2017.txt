@@ -1,0 +1,97 @@
+<item>
+<title>2017 PERFECT Tour Round 1 Yokohama</title>
+<utube>|PLlbpunow7plgvtX6OkZqVBJSB8fwKKIZt</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 2 Kitakyushu</title>
+<utube>|PLlbpunow7plggqzrRNVvDnFhFbolMmPv4</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 3 Tokyo</title>
+<utube>|PLlbpunow7plgZlbio7VQBcWsvadANmOl-</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 4 Hiroshima</title>
+<utube>|PLlbpunow7plgkSTjr3FUEvTUSfLbmOJ1P</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 5 Ishikawa</title>
+<utube>|PLlbpunow7plh2i4DI4SzWSYztkczSDh6V</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 6 Shizuoka</title>
+<utube>|PLlbpunow7plhTPXM0lnbi5UsadjDEDeUO</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 7 Tokyo</title>
+<utube>|PLlbpunow7plhJFQ3YsNtGd5ALgF5bvNdF</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 8 Fukushima</title>
+<utube>|PLlbpunow7pljvnMQ8GWLDdcwjnX2RcldI</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 9 Fukuoka</title>
+<utube>|PLlbpunow7plgLz5H8on4OJG9GwAZKJapk</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 10 Yokohama</title>
+<utube>|PLlbpunow7plhdW32Wl_puTzZZh4KQoeZ4</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 11 Tokyo</title>
+<utube>|PLlbpunow7pljarpCLVpaCoVhlU3ZZO-Io</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 12 Hokkaido</title>
+<utube>|PLlbpunow7plhNsm2tFlsw9dvHb-g9VpNF</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 13 Nagoya</title>
+<utube>|PLlbpunow7plizm8Pw2M1huWzfToXHcDZ_</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 14 Kobe</title>
+<utube>|PLlbpunow7plgXTqUlGaHsyLCpU-Ks7X56</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>

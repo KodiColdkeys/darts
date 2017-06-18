@@ -1,0 +1,90 @@
+<item>
+<title>2015 PERFECT Tour Round 6 Sendai</title>
+<utube>|PLvRlxnmr3Xp_Z21AeXaoeAT86t-KLDDWm</utube>
+<thumbnail>https://i.ytimg.com/vi/pvOzRMKve9M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 7 Gifu</title>
+<utube>|PLvRlxnmr3Xp_A-nhKMsgVQLXAIhogh14-</utube>
+<thumbnail>https://i.ytimg.com/vi/3zQgj5eTtRk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 8 Hiroshima</title>
+<utube>|PLvRlxnmr3Xp8g1mNUwlGYEybhtsQ-YqTo</utube>
+<thumbnail>https://i.ytimg.com/vi/GsL2Ac8Abf0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 9 Okinawa</title>
+<utube>|PLvRlxnmr3Xp9tn6F_jdJdG0pDFJjJ7fqg</utube>
+<thumbnail>https://i.ytimg.com/vi/A6a_dW34tto/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 10 Yokohama</title>
+<utube>|PLvRlxnmr3Xp-OTMspo4MgckaPVRFMaSuN</utube>
+<thumbnail>https://i.ytimg.com/vi/t1ECA6ulSUg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 11 Ishikawa</title>
+<utube>|PLvRlxnmr3Xp_tJf76CaRiED056FEXdtOU</utube>
+<thumbnail>https://i.ytimg.com/vi/5-a7MV6Zj1w/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 12 Nagoya</title>
+<utube>|PLvRlxnmr3Xp9voHBlDkIf4bszNIMg2hBz</utube>
+<thumbnail>https://i.ytimg.com/vi/fW-9vvPIKV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 13 Niigata</title>
+<utube>|PLvRlxnmr3Xp-_2LiSGMLQ1lb_XpMhckjV</utube>
+<thumbnail>https://i.ytimg.com/vi/KODfUT_NVRQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 14 Shizuoka</title>
+<utube>|PLvRlxnmr3Xp_CjkhWST6uPsh6sYw40_Lo</utube>
+<thumbnail>https://i.ytimg.com/vi/K5te7RtgqAU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 15 Yokohama</title>
+<utube>|PLvRlxnmr3Xp9r8qeB4rXilCZB7Bgw81-_</utube>
+<thumbnail>https://i.ytimg.com/vi/aj283vAP1p8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Round 16 Kumamoto</title>
+<utube>|PLvRlxnmr3Xp-k91RrV9kjt6dwlZQjunfQ</utube>
+<thumbnail>https://i.ytimg.com/vi/KODfUT_NVRQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Tour Final Battle / Chiba</title>
+<utube>|PLvRlxnmr3Xp95D_wme16YKni1sEZ12Qq7</utube>
+<thumbnail>https://i.ytimg.com/vi/gIQC2NIJlSw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
+
+<item>
+<title>2015 PERFECT Challenge Tournament</title>
+<utube>|PLvRlxnmr3Xp_yXVRRVihRHPCfAxLL9XuP</utube>
+<thumbnail>http://i.imgur.com/cRkNYW7.jpg</thumbnail>
+<fanart>http://i.imgur.com/VAm0NuR.jpg</fanart>
+</item>
