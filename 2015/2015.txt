@@ -110,7 +110,7 @@
 
 <title>2015 Hong Kong Open</title>
 <utube>|PL_N6kDYT8UDzN5s7ySXqYNBPMHdOuMKRi</utube>
-<thumbnail>https://i.ytimg.com/vi/-BJl0c8tgZU/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/ySUQUkG.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </item>
 
