@@ -134,7 +134,7 @@
 <item>
 <title>2016 Hong Kong Open</title>
 <utube>|PL_N6kDYT8UDy7hvaVrF4rzNrtzt-EcIc_</utube>
-<thumbnail>https://img.youtube.com/vi/wLXBdxTfE5Y/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/ySUQUkG.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </item>
 
@@ -212,5 +212,12 @@
 <title>2016 PDC Unibet Masters</title>
 <utube>|PLZxPj4ksDAuh6bM-EkdIV3-Z-IeRnhHhp</utube>
 <thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/2016 PDC Unibet Masters.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Thessaloniki Masters</title>
+<utube>|PLG53mTKhOlXKe73Y8nBk78B-V1UJlbceu</utube>
+<thumbnail>http://i.imgur.com/uY46vTU.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </item>
