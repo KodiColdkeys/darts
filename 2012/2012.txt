@@ -1,0 +1,62 @@
+<item>
+<title>2012 World Cup of Darts</title>
+<utube>|PLZxPj4ksDAuhTcZSpNAa1NG0TLs_k1SQh</utube>
+<thumbnail>https://i.ytimg.com/vi/Slg-ZMZEl8E/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 World Matchplay</title>
+<utube>|PLZxPj4ksDAugGo3w72YHA5_DXhZ7YXVhY</utube>
+<thumbnail>https://i.ytimg.com/vi/WeduVi_FlH8/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 Zuiderduin Masters</title>
+<utube>|PLdyudnNs1n2AgTnsVSYX3Kis0fpX56Z0V</utube>
+<thumbnail>https://i.ytimg.com/vi/779BCsfASOY/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 Dutch Open Darts</title>
+<utube>|PLdyudnNs1n2DjXptHBsnVgjDcP-rCSK1z</utube>
+<thumbnail>https://i.ytimg.com/vi/oZgvz-Gwp90/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 European Darts Championship</title>
+<utube>|PLZxPj4ksDAugThXT7P4iN88gHtvo_wRJ7</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/European Darts Championship.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 Premier League</title>
+<utube>|PLZxPj4ksDAuioNLmmN7e4QnCdYIQucm3d</utube>
+<thumbnail>https://i.ytimg.com/vi/ct_3BCvDXJM/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 World Grand Prix</title>
+<utube>|PLZxPj4ksDAugD_MYGMMQtJPwaXkv5SPPj</utube>
+<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/World Grand Prix.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 Swedish Open</title>
+<utube>|PLgevH23uNsvG5pRMrSZDgKck_kMcpVeeO</utube>
+<thumbnail>https://i.ytimg.com/vi/e9vpb2xEAtI/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>2012 Scandinavian Darts Tour</title>
+<utube>|PLo1IpPIuu3cYpE9ffrRnvu1mXb0UVzMjY</utube>
+<thumbnail>https://i.ytimg.com/vi/XkJFSTbKyK8/hqdefault.jpg</thumbnail>
+<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+</item>
