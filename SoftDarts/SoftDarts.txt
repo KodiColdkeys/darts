@@ -83,6 +83,20 @@
 </item>
 
 <item>
+<title>2016 Premium Stage</title>
+<utube>|PLfbpz-Ixs5DgycWCM3fMoHVBUVL9DxbE6</utube>
+<thumbnail>https://i.ytimg.com/vi/7dBPqZoJBLU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Bullshooter 31</title>
+<utube>|PLsJAEOXkuMbxST0l8OvC2ZLqA2yKVlepd</utube>
+<thumbnail>https://i.ytimg.com/vi/-p24EscYkPA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2016 DARTSLIVE.TV 10th Anniversary Match</title>
 <utube>|PLpTwcm92EEzPz5m_bH_f4sex__MRCDXnE</utube>
 <thumbnail>https://i.ytimg.com/vi/eq6GM8Z4moQ/hqdefault.jpg</thumbnail>
@@ -251,6 +265,20 @@
 </item>
 
 <item>
+<title>2014 Bullshooter 29</title>
+<utube>|PLsJAEOXkuMbyY8FJlgzaqqJEhp9sWHEfe</utube>
+<thumbnail>https://i.ytimg.com/vi/neyFsexbfyM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
+<title>2013 Bullshooter 28</title>
+<utube>|PLsJAEOXkuMbyrFOV_V8LHA6peNj7FGebW</utube>
+<thumbnail>https://i1.ytimg.com/vi/sGmOBSkoeBI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2013 Phoenix Official League (Japan Championships)</title>
 <utube>|PLFdi7vBtrTVKWCbFh1BX8YxmyawvdtkWS</utube>
 <thumbnail>http://i.imgur.com/9zzbocu.jpg</thumbnail>
@@ -314,6 +342,13 @@
 </item>
 
 <item>
+<title>2012 DARTSLIVE.TV Japan Woody Workshop</title>
+<utube>|PL1KYmz2fgFbI4u8XLfKGE56oY1rEw-zse</utube>
+<thumbnail>https://i.ytimg.com/vi/5ZTebNS7exE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2012 DARTSLIVE.TV The World</title>
 <utube>|PLB7D2126CFD877224</utube>
 <thumbnail>http://i.imgur.com/gS2w7v2.jpg</thumbnail>
@@ -324,6 +359,27 @@
 <title>2011 DARTSLIVE.TV The World</title>
 <utube>|PL0EF61EF40048792E</utube>
 <thumbnail>https://i.ytimg.com/vi/YQ8Wn0UKA0Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
+<title>2011 Soft Darts Tournament TACHIBANA</title>
+<utube>|PLiYfIzas-H3mm4Mu_dioeTPi02Y7dZSjL</utube>
+<thumbnail>https://i.ytimg.com/vi/yBtbOxZuLE8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
+<title>2011 Asia International 1st day</title>
+<utube>|PL178F997AE6721169</utube>
+<thumbnail>https://i.ytimg.com/vi/VDkGcCdrNQg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
+<title>2011 Asia International 2nd day</title>
+<utube>|PL6B7C825F774B9A36</utube>
+<thumbnail>https://i.ytimg.com/vi/RcsWhxzSh-k/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
 </item>
 
