@@ -20,6 +20,27 @@
 </item>
 
 <item>
+<title>DutchDarts (Dutch commentary)</title>
+<utube>UCqWWHUn36FDxuzdxWUio-RQ|</utube>
+<thumbnail>http://i.imgur.com/lcjskA4.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
+<title>Hampshire Darts</title>
+<utube>UCW0v2axY9zk4b0kLRL-FosQ|</utube>
+<thumbnail>http://i.imgur.com/VTTheNN.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
+<title>England Darts Organisation</title>
+<utube>UC-yI8lC6IXPovowatvxjn1g|</utube>
+<thumbnail>http://i.imgur.com/4EsqUFI.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
 <title>Darts Incidents and Moments</title>
 <utube>UClVfhYNYGQo-8ahrf6_NBVw|</utube>
 <thumbnail>http://i.imgur.com/0DonACw.jpg</thumbnail>
@@ -51,6 +72,27 @@
 <title>DartsFab HD</title>
 <utube>UCjHoi5SAV3tykmeDnr-Npxg|</utube>
 <thumbnail>http://i.imgur.com/uKgcajH.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
+<title>The Lantern Navan</title>
+<utube>UCXpuq3Gr9cKl9a-04N7ynCQ|</utube>
+<thumbnail>http://i.imgur.com/oz1P0Uq.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
+<title>Irish National Darts Organisation</title>
+<utube>UCimWbfjCrBOqVqdTxGuOIOg|</utube>
+<thumbnail>http://i.imgur.com/3GO1Vv5.jpg</thumbnail>
+<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+</item>
+
+<item>
+<title>Tipperary Darts Masters TV</title>
+<utube>UC8aV10WcKgECtrfSx8wwxaw|</utube>
+<thumbnail>http://i.imgur.com/pn0jfaM.jpg</thumbnail>
 <fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
 </item>
 
