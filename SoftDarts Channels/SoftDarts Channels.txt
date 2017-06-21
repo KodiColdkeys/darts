@@ -6,6 +6,20 @@
 </item>
 
 <item>
+<title>National Dart Association</title>
+<utube>UCwxU0zn1InuCcrlw2Z72dxQ|</utube>
+<thumbnail>http://i.imgur.com/31cglUH.jpg</thumbnail>
+<fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
+</item>
+
+<item>
+<title>RedEye Rhino</title>
+<utube>UCVCxnNu6d9u6JzkuSdxyjnA|</utube>
+<thumbnail>http://i.imgur.com/2Vivc1Q.jpg</thumbnail>
+<fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
+</item>
+
+<item>
 <title>Hong Kong Tour.TV</title>
 <utube>UC0HqqZDpEF7lTNB_cRC8wlw|</utube>
 <thumbnail>http://i.imgur.com/YoFjliv.jpg</thumbnail>
@@ -44,6 +58,13 @@
 <title>DARTS YU CHANNEL</title>
 <utube>UCwwXvuW6jknceskts0yxLFQ|</utube>
 <thumbnail>http://i.imgur.com/mryb0wL.jpg</thumbnail>
+<fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
+</item>
+
+<item>
+<title>MaeshimagumiTV</title>
+<utube>UCZbYMSjmCLwBXrE2_YwAd2g|</utube>
+<thumbnail>http://i.imgur.com/g5fi9J2.jpg</thumbnail>
 <fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
 </item>
 
