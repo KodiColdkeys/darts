@@ -1,0 +1,62 @@
+<item>
+<title>2008 Phil Taylor and John Part invade Japan</title>
+<utube>|PLF78C68AF72025CDC</utube>
+<thumbnail>https://i3.ytimg.com/vi/CVXU2xZOLkY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 The League of Legends: John Lowe vs. Eric Bristow</title>
+<utube>|PL2FE7E5DC0A4E9E45</utube>
+<thumbnail>https://i.ytimg.com/vi/zchkhOp7VZo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 Premier League</title>
+<utube>|PLZxPj4ksDAujDGjHVwIhnd8vEHAYuO275</utube>
+<thumbnail>https://i.ytimg.com/vi/ct_3BCvDXJM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 Grand Slam of Darts</title>
+<utube>|PLB894552554D99776</utube>
+<thumbnail>https://i.ytimg.com/vi/niDhPUQS1Es/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 World Championship</title>
+<utube>|PLZxPj4ksDAujNCzxLSInj3vd_ItSmaNg2</utube>
+<thumbnail>https://i.ytimg.com/vi/TZFUZvxXzd8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 Zuiderduin Masters</title>
+<utube>|PLdyudnNs1n2AUIGTDQZAQw75K6RtF8xHU</utube>
+<thumbnail>https://i.ytimg.com/vi/ri-vYfTaeE8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 Dutch Open Darts</title>
+<utube>|PLdyudnNs1n2Bj69Z_jrUxqmY_TDoO7kzn</utube>
+<thumbnail>https://i.ytimg.com/vi/kcgPE_inV2I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 UK Open Darts</title>
+<utube>|PLZxPj4ksDAuhZcujxZl7x9MGXs3UlNag-</utube>
+<thumbnail>https://i.ytimg.com/vi/863vVWwyVyM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
+
+<item>
+<title>2008 Final Matchplay</title>
+<utube>|PLZxPj4ksDAugU0IxV9ORqBviuKYdFJNE3</utube>
+<thumbnail>https://i2.ytimg.com/vi/cjS2B52jBbU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</item>
