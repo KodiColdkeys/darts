@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>2005 Vertex of Heptagon - Unicorn Legends In Japan</title>
+<utube>|PL098362959F622515</utube>
+<thumbnail>https://i.ytimg.com/vi/XjOGBz56qOw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2013 - 2017 Soft Darts World Championship The World</title>
 <utube>|PLpTwcm92EEzMC0wysCtH-lK3BxRMAobzB</utube>
 <thumbnail>https://i.ytimg.com/vi/8XZi80WnEo0/hqdefault.jpg</thumbnail>
