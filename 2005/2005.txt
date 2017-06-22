@@ -1,19 +1,89 @@
 <item>
-<title>2005 Vertex of Heptagon - Unicorn Legends In Japan</title>
-<utube>|PL098362959F622515</utube>
-<thumbnail>https://i.ytimg.com/vi/XjOGBz56qOw/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
-</item>
-
-<item>
-<title>2005 PDC World Final Phil Taylor v Marc Dudbridge</title>
+<title>2005 PDC World Final Phil Taylor V Marc Dudbridge</title>
 <utube>3oUEuweq3uQ</utube>
 <thumbnail>https://i.ytimg.com/vi/3oUEuweq3uQ/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
 
 <item>
-<title>2005 World Matchplay Final Lloyd v Part</title>
+<title>2005 PDC World Darts SF Dudbridge V Mardle</title>
+<utube>DjcN1f06sGM</utube>
+<thumbnail>https://i.ytimg.com/vi/DjcN1f06sGM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 PDC World Darts QF Lloyd V Mardle</title>
+<utube>CvvB6oekm8o</utube>
+<thumbnail>https://i.ytimg.com/vi/CvvB6oekm8o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 PDC World Darts QF Taylor V Painter</title>
+<utube>IZtPme4KQa0</utube>
+<thumbnail>https://i.ytimg.com/vi/IZtPme4KQa0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 PDC World Darts QF Ovens V Dudbridge</title>
+<utube>BQuMsXDBJ14</utube>
+<thumbnail>https://i.ytimg.com/vi/BQuMsXDBJ14/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 PDC UK Open SF Taylor V Scholten</title>
+<utube>-VPU4KNDhrk</utube>
+<thumbnail>https://i.ytimg.com/vi/-VPU4KNDhrk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 PDC UK Open Last 16 Taylor V Part</title>
+<utube>E0qxwAfaF94</utube>
+<thumbnail>https://i.ytimg.com/vi/E0qxwAfaF94/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Premier League Darts Week 6 Taylor V Part</title>
+<utube>a9RU9ztog3A</utube>
+<thumbnail>https://i.ytimg.com/vi/a9RU9ztog3A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Darts World Masters Final van Barneveld V Klemme</title>
+<utube>gvvm03JAfWA</utube>
+<thumbnail>https://i.ytimg.com/vi/gvvm03JAfWA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO Ladies World Masters Final Gulliver V Hoenselaar</title>
+<utube>4dceQg6i20M</utube>
+<thumbnail>https://i.ytimg.com/vi/4dceQg6i20M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Darts World Masters SF van Barneveld V Adams</title>
+<utube>NQipI8k7RH4</utube>
+<thumbnail>https://i.ytimg.com/vi/NQipI8k7RH4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Darts World Masters SF Walton V Klemme</title>
+<utube>5Efb9WZuJ-w</utube>
+<thumbnail>https://i.ytimg.com/vi/5Efb9WZuJ-w/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 World Matchplay Final Lloyd V Part</title>
 <utube>aK09c_9C3cw</utube>
 <thumbnail>https://i.ytimg.com/vi/aK09c_9C3cw/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
@@ -37,5 +107,110 @@
 <title>2005 World Matchplay QF John Part V Phil Taylor</title>
 <utube>Bl3hifl3d9o</utube>
 <thumbnail>https://i.ytimg.com/vi/Bl3hifl3d9o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship Final van Barneveld V Adams</title>
+<utube>uHUkywGG0iU</utube>
+<thumbnail>https://i.ytimg.com/vi/uHUkywGG0iU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship Ladies Semi Final Gulliver V Manley</title>
+<utube>3RR-nJzETfk</utube>
+<thumbnail>https://i.ytimg.com/vi/3RR-nJzETfk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship Semi Final van Barneveld V Fitton</title>
+<utube>KHMsqQZzZu8</utube>
+<thumbnail>https://i.ytimg.com/vi/KHMsqQZzZu8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship Semi Final Adams V Whitlock</title>
+<utube>8ctrtuBA9I4</utube>
+<thumbnail>https://i.ytimg.com/vi/8ctrtuBA9I4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship QF Whitlock V Brandies</title>
+<utube>-u2tY7_7gfQ</utube>
+<thumbnail>https://i.ytimg.com/vi/-u2tY7_7gfQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship QF van Barneveld V van der Voort</title>
+<utube>-TAv1pRn_Us</utube>
+<thumbnail>https://i.ytimg.com/vi/-TAv1pRn_Us/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship QF Jan Dekker V Richie George</title>
+<utube>E78Yggo3Hkw</utube>
+<thumbnail>https://i.ytimg.com/vi/E78Yggo3Hkw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship QF Fitton V Thornton</title>
+<utube>wRNvLsQuptw</utube>
+<thumbnail>https://i.ytimg.com/vi/wRNvLsQuptw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship Quarter Finals</title>
+<utube>ff7heSDSS2U</utube>
+<thumbnail>https://i.ytimg.com/vi/ff7heSDSS2U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 2nd Round</title>
+<utube>RV4lStPWfoo</utube>
+<thumbnail>https://i.ytimg.com/vi/RV4lStPWfoo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 2nd Round</title>
+<utube>MgQVDUnUW6E</utube>
+<thumbnail>https://i.ytimg.com/vi/MgQVDUnUW6E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 1st/2nd Round</title>
+<utube>IIgDc8JjtSg</utube>
+<thumbnail>https://i.ytimg.com/vi/IIgDc8JjtSg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 1st Round</title>
+<utube>jntP3oQFqK0</utube>
+<thumbnail>https://i.ytimg.com/vi/jntP3oQFqK0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 1st Round</title>
+<utube>862Efwv9dV8</utube>
+<thumbnail>https://i.ytimg.com/vi/862Efwv9dV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 BDO World Championship 1st Round</title>
+<utube>pEtX6uq6IRM</utube>
+<thumbnail>https://i.ytimg.com/vi/pEtX6uq6IRM/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
