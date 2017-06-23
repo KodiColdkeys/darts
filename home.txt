@@ -107,6 +107,22 @@
 </channel>
 
 <channel>
+<name>2004</name>
+<thumbnail>https://i.ytimg.com/vi/f4XjLJmPUjE/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2sI1TFp</externallink>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2003</name>
+<thumbnail>https://i.ytimg.com/vi/CCBBLnB6_QI/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2sIflcu</externallink>
+<fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <name>Darts Channels</name>
 <thumbnail>http://i.imgur.com/Sv4Kgxs.jpg</thumbnail>
 <externallink>http://bit.ly/2tguyRY</externallink>
