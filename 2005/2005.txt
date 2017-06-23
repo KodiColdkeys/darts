@@ -190,7 +190,7 @@
 <item>
 <title>2005 BDO World Championship 1st/2nd Round</title>
 <utube>IIgDc8JjtSg</utube>
-<thumbnail>https://i.ytimg.com/vi/IIgDc8JjtSg/hqdefault.jpg</thumbnail>
+<thumbnail>https://i1.ytimg.com/vi/jvMpll_5EZA/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
 
