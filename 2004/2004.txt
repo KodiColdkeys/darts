@@ -1,0 +1,293 @@
+<item>
+<title>2004 Eric Bristow Darts Exhibition</title>
+<utube>vnH1aNzVf2Y</utube>
+<thumbnail>https://i.ytimg.com/vi/opm07RGt8Uk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Final - Taylor V Painter</title>
+<utube>LkM2Ei_KuFE</utube>
+<thumbnail>https://i.ytimg.com/vi/LkM2Ei_KuFE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World SF Kevin Painter V Bob Anderson</title>
+<utube>iBr_qdohWwg</utube>
+<thumbnail>https://i.ytimg.com/vi/iBr_qdohWwg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World QF Taylor V Warriner</title>
+<utube>PW7V9GGi_-o</utube>
+<thumbnail>https://i.ytimg.com/vi/PW7V9GGi_-o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World QF Painter V Dudbridge</title>
+<utube>mOcULhtrJEM</utube>
+<thumbnail>https://i.ytimg.com/vi/mOcULhtrJEM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Last 16 Deller V Manley</title>
+<utube>cHyGxhZVuX0</utube>
+<thumbnail>https://i.ytimg.com/vi/cHyGxhZVuX0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Last 16 Painter V Baxter</title>
+<utube>HxmLDLzIhIM</utube>
+<thumbnail>https://i.ytimg.com/vi/HxmLDLzIhIM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World R3 Keith Deller V Dave Askew</title>
+<utube>ew9hHd01sg4</utube>
+<thumbnail>https://i.ytimg.com/vi/ew9hHd01sg4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 The Showdown</title>
+<utube>|PLF7CDE335CC9718E9</utube>
+<thumbnail>https://i.ytimg.com/vi/45hqtcrIgRM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Masters of Darts - PDC V BDO</title>
+<utube>|PL502BB870BAA7472C</utube>
+<thumbnail>https://i.ytimg.com/vi/6uUteqnInRA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC PDC UK Open Phil Taylor V Mark Chapman</title>
+<utube>vRfE2zVZ9W4</utube>
+<thumbnail>https://i.ytimg.com/vi/vRfE2zVZ9W4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Matchplay QF John Part V Andy Jenkins</title>
+<utube>6RVD7nw30jg</utube>
+<thumbnail>https://i.ytimg.com/vi/6RVD7nw30jg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Matchplay Last 16 John Part V Bob Anderson</title>
+<utube>nolw4cX4Q-c</utube>
+<thumbnail>https://i.ytimg.com/vi/nolw4cX4Q-c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 PDC World Matchplay R2 Roland Scholten V Jamie Harvey</title>
+<utube>tzAXm2WdVNs</utube>
+<thumbnail>https://i.ytimg.com/vi/tzAXm2WdVNs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Final King V O'Shea</title>
+<utube>II9ci-RMTGw</utube>
+<thumbnail>https://i.ytimg.com/vi/II9ci-RMTGw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Semi Final King V David</title>
+<utube>YRwS1Jj8dUo</utube>
+<thumbnail>https://i.ytimg.com/vi/YRwS1Jj8dUo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters QF King V Atkins</title>
+<utube>QAgSeTk3NPE</utube>
+<thumbnail>https://i.ytimg.com/vi/QAgSeTk3NPE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters QF O'Shea V Richardson</title>
+<utube>SeUdqnS7_Rk</utube>
+<thumbnail>https://i.ytimg.com/vi/SeUdqnS7_Rk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters QF Adams V Hankey</title>
+<utube>-5em3oIWcqM</utube>
+<thumbnail>https://i.ytimg.com/vi/-5em3oIWcqM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 van Barneveld V Hofstra</title>
+<utube>zqX2_fMQ5o0</utube>
+<thumbnail>https://i.ytimg.com/vi/zqX2_fMQ5o0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 Hankey V Stompe</title>
+<utube>hik9RMaYNZY</utube>
+<thumbnail>https://i.ytimg.com/vi/hik9RMaYNZY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 Adams V Farmer</title>
+<utube>xuRFlv6Del8</utube>
+<thumbnail>https://i.ytimg.com/vi/xuRFlv6Del8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 World Grand Prix Final Alan Warriner v Colin Lloyd</title>
+<utube>s-fKsEm01kA</utube>
+<thumbnail>https://i.ytimg.com/vi/s-fKsEm01kA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 World Grand Prix Andy Callaby v Phil Taylor</title>
+<utube>E_oW0ovqPpo</utube>
+<thumbnail>https://i.ytimg.com/vi/E_oW0ovqPpo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship Final Andy Fordham V Mervyn King</title>
+<utube>2l8-j5VKcFQ</utube>
+<thumbnail>https://i.ytimg.com/vi/2l8-j5VKcFQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship SemiFinal Andy Fordham V Raymond van Barneveld</title>
+<utube>Dmf42hh3a88</utube>
+<thumbnail>https://i.ytimg.com/vi/Dmf42hh3a88/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship QF King V Atkins</title>
+<utube>QAgSeTk3NPE</utube>
+<thumbnail>https://i.ytimg.com/vi/QAgSeTk3NPE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO Ladies World Championship QF Bywaters V Edberg</title>
+<utube>4QksC_f4WH4</utube>
+<thumbnail>https://i.ytimg.com/vi/4QksC_f4WH4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship Last 16/QF Matches</title>
+<utube>kD_0TgK4Clw</utube>
+<thumbnail>https://i.ytimg.com/vi/kD_0TgK4Clw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R2 O'Shea vs Robson</title>
+<utube>zPSMqjj_a2Q</utube>
+<thumbnail>https://i.ytimg.com/vi/zPSMqjj_a2Q/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R2 King V Komula</title>
+<utube>k7ALoyDbvPg</utube>
+<thumbnail>https://i.ytimg.com/vi/k7ALoyDbvPg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R2 Hankey V Bunting</title>
+<utube>d1966gp6vLY</utube>
+<thumbnail>https://i.ytimg.com/vi/d1966gp6vLY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R2 van Barneveld V Hogan</title>
+<utube>u5FCmvh-kKU</utube>
+<thumbnail>https://i.ytimg.com/vi/u5FCmvh-kKU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R2 Davies V Duke</title>
+<utube>zwQMI9rHzTY</utube>
+<thumbnail>https://i.ytimg.com/vi/zwQMI9rHzTY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship Round 1 Matches</title>
+<utube>0Q3wPMyoqgk</utube>
+<thumbnail>https://i.ytimg.com/vi/0Q3wPMyoqgk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 G Anderson V O'Shea</title>
+<utube>SzEpUxMK4mc</utube>
+<thumbnail>https://i.ytimg.com/vi/SzEpUxMK4mc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 Wade V Greatbatch</title>
+<utube>9IZd4vU-47o</utube>
+<thumbnail>https://i.ytimg.com/vi/9IZd4vU-47o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 Hankey V Monk</title>
+<utube>G_hucykB0HE</utube>
+<thumbnail>https://i.ytimg.com/vi/G_hucykB0HE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 Fordham V Derbyshire</title>
+<utube>Pv8zhIorbAk</utube>
+<thumbnail>https://i.ytimg.com/vi/Pv8zhIorbAk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 Robson V Coote</title>
+<utube>uO_4BzNLOUo</utube>
+<thumbnail>https://i.ytimg.com/vi/uO_4BzNLOUo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 Darryl Fitton V Tony David</title>
+<utube>6yZMHwAVS_E</utube>
+<thumbnail>https://i.ytimg.com/vi/6yZMHwAVS_E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 West V Reed</title>
+<utube>PjUUehZRgqs</utube>
+<thumbnail>https://i.ytimg.com/vi/PjUUehZRgqs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
