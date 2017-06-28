@@ -1,63 +1,63 @@
 <item>
 <title>2014 The Unibet Masters</title>
 <utube>|PLZxPj4ksDAujUJBpOJsrqaHsog7oTt6es</utube>
-<thumbnail>https://i.ytimg.com/vi/pG9KX9bi2r4/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/IVVM21g.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Grand Slam Of Darts</title>
 <utube>|PLZxPj4ksDAuisP3HrRVdvHGKKZGvzMyb9</utube>
-<thumbnail>https://i.ytimg.com/vi/Ueg7NPxvQZI/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/8AQ5MGY.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Players Championship Finals</title>
 <utube>|PLZxPj4ksDAug-jzhtP5wxbPRkV4MYHtDD</utube>
-<thumbnail>https://i.ytimg.com/vi/7o_JYTs2Lyk/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/TKFgQ0f.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 European Darts Championship</title>
 <utube>|PLZxPj4ksDAuj-uykhJYtNTOxns3GCuOcY</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/European Darts Championship.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/6svYo7s.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 HAL Open</title>
 <utube>|PLdyudnNs1n2A_CXXYXIh88U1r0-ACl8i5</utube>
-<thumbnail>https://i.ytimg.com/vi/-PJB6ia4gyA/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/8MFb0e8.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Zuiderduin Masters</title>
 <utube>|PLdyudnNs1n2AwSHDugy_shgj-eN1dnTPV</utube>
-<thumbnail>https://i.ytimg.com/vi/EWdiDvGTKmQ/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/buscNJD.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 World Grand Prix</title>
 <utube>|PLZxPj4ksDAuiynsoS90TfCj41PIevPZsq</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/World Grand Prix.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Wa355lB.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 European Darts Trophy</title>
 <utube>|PLZxPj4ksDAug-ji4XxxJoiAn0rSSqzHC7</utube>
-<thumbnail>https://i.ytimg.com/vi/WgUVKWQDXVs/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/xjLdJrD.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 European Darts Grand Prix</title>
 <utube>|PLZxPj4ksDAuiBaVlibmWYvibF84TzyoTT</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Eropean Darts Grand Prix.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/bA3RQEh.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
@@ -71,132 +71,132 @@
 <item>
 <title>2014 WDF Asia Pacific Cup XVII</title>
 <utube>|PL152bjytsMC5udB_-Vp8nq4srMpQKpg3g</utube>
-<thumbnail>https://i.ytimg.com/vi/CmYYK9iosh0/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Mc9GVPD.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Singapore Darts Masters</title>
 <utube>|PLZxPj4ksDAuikvLKv7oReOtYfQytkDkSk</utube>
-<thumbnail>https://i.ytimg.com/vi/cQiO6ZaNtZo/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/RnIGFDO.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Sydney Darts Masters</title>
 <utube>|PLZxPj4ksDAujG-jNi-HLnDMBg1W-CtXtu</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Sydney Darts masters.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/bwKJxhR.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 World Cup of Darts</title>
 <utube>|PLZxPj4ksDAuidRgEoOILSbS83v_ehFSXA</utube>
-<thumbnail>https://i.ytimg.com/vi/dizuWxHmeDE/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/vHQKl4p.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 World Matchplay</title>
 <utube>|PLZxPj4ksDAujNNrEugSaOjwUiFENJIREv</utube>
-<thumbnail>https://i.ytimg.com/vi/hOspAz_S8n8/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Ph0H8Xv.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 European Darts Open</title>
 <utube>|PLZxPj4ksDAuhZHjDCF26TrkAy6Ku76dMv</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Eropean Darts Open.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Dkn7yAN.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Dutch Darts Masters</title>
 <utube>|PLZxPj4ksDAugzmBqPFLmn8Ik90m4tF4fP</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Dutch Masters.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/bthg043.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Gibraltar Darts Trophy</title>
 <utube>|PLZxPj4ksDAuh0B3FGYcMmd5_bLgSrq7u7</utube>
-<thumbnail>https://i1.ytimg.com/vi/knO7Yft9jDc/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/mEum26P.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Austrian Darts Open</title>
 <utube>|PLZxPj4ksDAujCZNQ2vWrmvRQHP7nQyJlQ</utube>
-<thumbnail>https://i.ytimg.com/vi/ewGFKHwwaEU/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/BIkZgHk.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 BDO England Open</title>
 <utube>|PLZxPj4ksDAuiR28mfdMx-RjpIDmmTSgNZ</utube>
-<thumbnail>https://i.ytimg.com/vi/AZGRhOmUDzw/0.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/RwisMGo.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Dubai Duty Free Darts Masters</title>
 <utube>|PLZxPj4ksDAug9aOYNUjds1ChGvlyjoij9</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/Dubain Masters.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/HDYIXNn.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Premier League</title>
 <utube>|PLZxPj4ksDAugGe30BNuL0qGzkmZoscRR_</utube>
-<thumbnail>https://i.ytimg.com/vi/g9CxZM-k2Co/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/WmsCeES.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 BDO Welsh Open</title>
 <utube>|PLiRrgTbeMG_ppPoXPpT_oRlXIbx_NHqlQ</utube>
-<thumbnail>https://i.ytimg.com/vi/imEuqho8LcU/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Og0i56C.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 BDO Pontins International</title>
 <utube>|PLZxPj4ksDAujRQkBwTECW_HqPuiU6nbIf</utube>
-<thumbnail>https://i.ytimg.com/vi/Y0W7SXeC0PE/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/KWRkWVf.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 World Championship</title>
 <utube>|PLZxPj4ksDAuh7ERIMYRjkQgLhg3MyN9Tb</utube>
-<thumbnail>https://i.ytimg.com/vi/h-3R2jsZnLo/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/zyu9rIr.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Dutch Open Darts</title>
 <utube>|PLdyudnNs1n2AtuScZUwcx8txTGlqUTwhh</utube>
-<thumbnail>https://i.ytimg.com/vi/FqH5LLbFW6Y/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/sHbLNd2.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 Coral UK Open</title>
 <utube>|PLZxPj4ksDAuiKvPjYqabVqRQxMKltDsDN</utube>
-<thumbnail>https://i.ytimg.com/vi/ecei0_32jyA/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/bNB47bb.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 PDC German Darts Championship</title>
 <utube>|PLiRrgTbeMG_p_ZO8X0Zm7YtBLfKQoPPcf</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/German Darts Championship.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/FZHBRh7.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
 
 <item>
 <title>2014 German Darts Masters</title>
 <utube>|PLZxPj4ksDAuj_73muzdjrCCp5BKm5pdI_</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/gERMAN maSTERS.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/dTIbd1X.jpg</thumbnail>
 <fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
 </item>
