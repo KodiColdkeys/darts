@@ -1,14 +1,21 @@
 <item>
 <title>2006 World Matchplay</title>
 <utube>|PLZxPj4ksDAuh2YZPaIFyED4ZTw26t-vUL</utube>
-<thumbnail>https://i.ytimg.com/vi/ZQmQUWxEg04/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/aAZoKjW.jpg</thumbnail>
 <fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
 </item>
 
 <item>
 <title>2006 Winmau World Masters</title>
 <utube>|PLZxPj4ksDAuhPlZMQqUKZmkfwQt0ScTiV</utube>
-<thumbnail>https://i.ytimg.com/vi/Ru_QvAXxpxE/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/fpGev0c.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 Las Vegas Desert Classic Final John Part V Raymond Van Barneveld</title>
+<utube>1Q6qMObQ6F8</utube>
+<thumbnail>https://i.ytimg.com/vi/1Q6qMObQ6F8/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
 </item>
 
@@ -37,6 +44,41 @@
 <title>2006 PDC World QF Peter Manley V Adrian Lewis</title>
 <utube>90bXD5cLPY4</utube>
 <thumbnail>https://i.ytimg.com/vi/90bXD5cLPY4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 PDC World R3 Lewis V Scholten</title>
+<utube>-4fq0Yg5ZbU</utube>
+<thumbnail>https://i.ytimg.com/vi/-4fq0Yg5ZbU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 PDC World R2 Kuczynski V van der Rassel</title>
+<utube>xyY9eeFx_X4</utube>
+<thumbnail>https://i.ytimg.com/vi/xyY9eeFx_X4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 PDC World R1 Lewis V Fleet</title>
+<utube>PbuVQanI-0o</utube>
+<thumbnail>https://i.ytimg.com/vi/PbuVQanI-0o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 PDC World R1 Lloyd V Welding</title>
+<utube>coqGFkcBNTI</utube>
+<thumbnail>https://i.ytimg.com/vi/coqGFkcBNTI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 PDC Premier League SF Roland Scholten V Raymond Van Barneveld</title>
+<utube>-jkanAkZx4w</utube>
+<thumbnail>https://i.ytimg.com/vi/-jkanAkZx4w/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
 </item>
 
@@ -79,5 +121,117 @@
 <title>2006 BDO World Championship Final van Barneveld v Klaasen</title>
 <utube>Tn359EeAOAo</utube>
 <thumbnail>https://i.ytimg.com/vi/Tn359EeAOAo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship QF Klaasen V Hogan</title>
+<utube>sgHMVbuTcwA</utube>
+<thumbnail>https://i.ytimg.com/vi/sgHMVbuTcwA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 van Barneveld V Anderson</title>
+<utube>po21Cv6jbaA</utube>
+<thumbnail>https://i.ytimg.com/vi/po21Cv6jbaA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 O'Shea V van der Voort</title>
+<utube>1TtkINAPN5M</utube>
+<thumbnail>https://i.ytimg.com/vi/1TtkINAPN5M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 King V Klaasen</title>
+<utube>ZIoS-KR7JK8</utube>
+<thumbnail>https://i.ytimg.com/vi/ZIoS-KR7JK8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 Whitlock V Hanvidge</title>
+<utube>STWIVKVhaao</utube>
+<thumbnail>https://i.ytimg.com/vi/STWIVKVhaao/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 Greatbatch V Laursen</title>
+<utube>dDt7jAhxRfo</utube>
+<thumbnail>https://i.ytimg.com/vi/dDt7jAhxRfo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 Veitch V Roberts</title>
+<utube>zAhCK1wZpU4</utube>
+<thumbnail>https://i.ytimg.com/vi/zAhCK1wZpU4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 Adams V Atkins</title>
+<utube>Vvp3PKe4h6A</utube>
+<thumbnail>https://i.ytimg.com/vi/Vvp3PKe4h6A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R2 Hogan V Essers</title>
+<utube>fbqZ7LdOaXU</utube>
+<thumbnail>https://i.ytimg.com/vi/fbqZ7LdOaXU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 incl. Gulliver V Littler</title>
+<utube>862Efwv9dV8</utube>
+<thumbnail>https://i.ytimg.com/vi/862Efwv9dV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 Klaasen V Harbour</title>
+<utube>fwEKohJi4gg</utube>
+<thumbnail>https://i.ytimg.com/vi/fwEKohJi4gg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 Fordham V Whitlock</title>
+<utube>PsgT8Pmo7OA</utube>
+<thumbnail>https://i.ytimg.com/vi/PsgT8Pmo7OA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 Anderson V Robson</title>
+<utube>W26c7jFSdRg</utube>
+<thumbnail>https://i.ytimg.com/vi/W26c7jFSdRg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 Atkins V Porter</title>
+<utube>e2AXwvNVZyU</utube>
+<thumbnail>https://i.ytimg.com/vi/e2AXwvNVZyU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 Adams V Fitton</title>
+<utube>VFQo6p7WL6I</utube>
+<thumbnail>https://i.ytimg.com/vi/VFQo6p7WL6I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2006 BDO World Championship R1 O'Shea V West,Greatbatch V de Ruiter</title>
+<utube>3MD6mAL6wro</utube>
+<thumbnail>https://i.ytimg.com/vi/3MD6mAL6wro/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
 </item>
