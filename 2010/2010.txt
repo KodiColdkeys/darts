@@ -1,62 +1,62 @@
 <item>
 <title>2010 Zuiderduin Masters</title>
 <utube>|PLdyudnNs1n2Ax7V2r0auAbuHfV-SqO9TN</utube>
-<thumbnail>https://i.ytimg.com/vi/ri-vYfTaeE8/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/buscNJD.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 Dutch Open Darts</title>
 <utube>|PLdyudnNs1n2DIF11CA49iRIs7Tuw8TYzk</utube>
-<thumbnail>https://i.ytimg.com/vi/jUwgh5B6ck8/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/kYec3K5.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 Grand Slam of Darts</title>
 <utube>|PLZxPj4ksDAugrG5vwwVqw8Rm7rH5eiNLf</utube>
-<thumbnail>https://i.ytimg.com/vi/qn9MW2odXpY/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/0tZuPhR.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 World Matchplay</title>
 <utube>|PLZxPj4ksDAuhUamtVdMIVsZ8aLIsEWflD</utube>
-<thumbnail>https://i.ytimg.com/vi/IfMcSTt51xE/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/MjypRTb.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 World Darts Championship</title>
 <utube>|PLZxPj4ksDAuiVO-XFOW4fEAiLnAM08vrm</utube>
-<thumbnail>https://i.ytimg.com/vi/OKEyQQFQWRY/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/fobE96M.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 World Cup of Darts</title>
 <utube>|PLZxPj4ksDAuhq4Y2UbDQTLMB4n3pv2Hqw</utube>
-<thumbnail>https://i.ytimg.com/vi/A4yJdYmDWQQ/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/ziJnNCs.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 Premier League</title>
 <utube>|PLZxPj4ksDAujHGP5flnbcV91QXErui3Id</utube>
-<thumbnail>https://i.ytimg.com/vi/00-H0cHaazQ/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/uNqufR4.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 Premier League Finals - Phil Taylor vs James Wade</title>
 <utube>|PL0943D46752460865</utube>
-<thumbnail>https://i.ytimg.com/vi/wvnP2VwQb6E/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/5qzNXkw.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
 
 <item>
 <title>2010 Totesport Players Championship</title>
 <utube>|PL79BD9AAF3D928135</utube>
-<thumbnail>https://i.ytimg.com/vi/OlCXqUlsaaY/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/I1Uq79R.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </item>
