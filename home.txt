@@ -78,7 +78,7 @@
 <name>2008</name>
 <thumbnail>https://i.ytimg.com/vi/K-B86whWAHM/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2rDwG55</externallink>
-<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+<fanart>http://i.imgur.com/Im4QHAv.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -119,6 +119,30 @@
 <thumbnail>https://i.ytimg.com/vi/CCBBLnB6_QI/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sIflcu</externallink>
 <fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2002</name>
+<thumbnail>https://i.ytimg.com/vi/V7HsS529AGU/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2tl1I5F</externallink>
+<fanart>http://i.imgur.com/ZTV5Ra9.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2001</name>
+<thumbnail>https://i.ytimg.com/vi/OamxSxHrST8/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2tl2waT</externallink>
+<fanart>http://i.imgur.com/aHFBYZC.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2000</name>
+<thumbnail>https://i.ytimg.com/vi/MBDrxdn0x44/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2tl1USt</externallink>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
