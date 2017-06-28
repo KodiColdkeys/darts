@@ -1,49 +1,49 @@
 <item>
 <title>2007 PDC World Finals - Taylor vs Barney</title>
 <utube>|PLDAED71D5AB652DD1</utube>
-<thumbnail>https://i.ytimg.com/vi/nj1bc5Wa2ro/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Q5G24S4.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 International Dart League - BDO/PDC</title>
 <utube>|PLF5444FA556BEAC3F</utube>
-<thumbnail>https://i.ytimg.com/vi/AzIEZ5Q9ylM/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/xEVSg7g.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 World Grand Prix</title>
 <utube>|PLZxPj4ksDAujcJCGALU7RHQfPWUJPSD7S</utube>
-<thumbnail>special://home/addons/plugin.video.renegadesdarts/resources/World Grand Prix.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/Wa355lB.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 World Darts Trophy</title>
 <utube>|PLB3A5732CB81D124E</utube>
-<thumbnail>https://i.ytimg.com/vi/berNkYQk0Ac/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/GLq6Gb0.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 World Matchplay</title>
 <utube>|PLZxPj4ksDAujk5o37OoWHE9hHFgwsVe2F</utube>
-<thumbnail>https://i.ytimg.com/vi/m97JWfQfHx8/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/62Vx9yB.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 World Matchplay</title>
 <utube>|PL1DB693ED19559DB5</utube>
-<thumbnail>https://i.ytimg.com/vi/m97JWfQfHx8/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/62Vx9yB.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
 <item>
 <title>2007 Belgium Open</title>
 <utube>|PLdyudnNs1n2BNnyK-9xic3DuzVc4s9laQ</utube>
-<thumbnail>https://i.ytimg.com/vi/CEc-QfShTe8/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/1CuuK9_dHG4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
 </item>
 
