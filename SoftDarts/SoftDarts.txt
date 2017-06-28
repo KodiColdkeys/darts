@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>2017 DARTSLIVE.TV Singapore Open</title>
+<utube>|PLBL_wH2OnFc12ps0XbBqXDyy0HHthtArQ</utube>
+<thumbnail>http://i.imgur.com/0NqTDfz.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2013 - 2017 Soft Darts World Championship The World</title>
 <utube>|PLpTwcm92EEzMC0wysCtH-lK3BxRMAobzB</utube>
 <thumbnail>https://i.ytimg.com/vi/8XZi80WnEo0/hqdefault.jpg</thumbnail>
