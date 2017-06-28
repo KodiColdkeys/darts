@@ -48,9 +48,30 @@
 </item>
 
 <item>
+<title>2005 Premier League Darts Week 3 Taylor V Dudbridge</title>
+<utube>ZiSc70OZCf4</utube>
+<thumbnail>https://i.ytimg.com/vi/ZiSc70OZCf4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
 <title>2005 Premier League Darts Week 6 Taylor V Part</title>
 <utube>a9RU9ztog3A</utube>
 <thumbnail>https://i.ytimg.com/vi/a9RU9ztog3A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Premier League Darts Week 7 Lloyd V Scholten</title>
+<utube>y2n1nuS9QE0</utube>
+<thumbnail>https://i.ytimg.com/vi/y2n1nuS9QE0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
+<title>2005 Premier League Darts Week 8 Taylor V Dudbridge</title>
+<utube>q2-q0D-Kke4</utube>
+<thumbnail>https://i.ytimg.com/vi/q2-q0D-Kke4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
 
@@ -111,6 +132,13 @@
 </item>
 
 <item>
+<title>2005 World Matchplay R2 Phil Taylor V Dennis Priestley</title>
+<utube>n4i5qPs2OmI</utube>
+<thumbnail>https://i.ytimg.com/vi/n4i5qPs2OmI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</item>
+
+<item>
 <title>2005 BDO World Championship Final van Barneveld V Adams</title>
 <utube>uHUkywGG0iU</utube>
 <thumbnail>https://i.ytimg.com/vi/uHUkywGG0iU/hqdefault.jpg</thumbnail>
@@ -118,21 +146,21 @@
 </item>
 
 <item>
-<title>2005 BDO World Championship Ladies Semi Final Gulliver V Manley</title>
+<title>2005 BDO World Championship Ladies SF Gulliver V Manley</title>
 <utube>3RR-nJzETfk</utube>
 <thumbnail>https://i.ytimg.com/vi/3RR-nJzETfk/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
 
 <item>
-<title>2005 BDO World Championship Semi Final van Barneveld V Fitton</title>
+<title>2005 BDO World Championship SF van Barneveld V Fitton</title>
 <utube>KHMsqQZzZu8</utube>
 <thumbnail>https://i.ytimg.com/vi/KHMsqQZzZu8/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </item>
 
 <item>
-<title>2005 BDO World Championship Semi Final Adams V Whitlock</title>
+<title>2005 BDO World Championship SF Adams V Whitlock</title>
 <utube>8ctrtuBA9I4</utube>
 <thumbnail>https://i.ytimg.com/vi/8ctrtuBA9I4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
