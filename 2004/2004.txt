@@ -57,14 +57,14 @@
 <item>
 <title>2004 The Showdown</title>
 <utube>|PLF7CDE335CC9718E9</utube>
-<thumbnail>https://i.ytimg.com/vi/45hqtcrIgRM/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/3L0KorW.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
 <item>
 <title>2004 Masters of Darts - PDC V BDO</title>
 <utube>|PL502BB870BAA7472C</utube>
-<thumbnail>https://i.ytimg.com/vi/6uUteqnInRA/hqdefault.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/W7vn5Ku.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
@@ -104,9 +104,16 @@
 </item>
 
 <item>
-<title>2004 Darts World Masters Semi Final King V David</title>
+<title>2004 Darts World Masters SF King V David</title>
 <utube>YRwS1Jj8dUo</utube>
 <thumbnail>https://i.ytimg.com/vi/YRwS1Jj8dUo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters SF Hankey V O'Shea</title>
+<utube>E2TUHWA1-Iw</utube>
+<thumbnail>https://i.ytimg.com/vi/E2TUHWA1-Iw/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
@@ -121,6 +128,13 @@
 <title>2004 Darts World Masters QF O'Shea V Richardson</title>
 <utube>SeUdqnS7_Rk</utube>
 <thumbnail>https://i.ytimg.com/vi/SeUdqnS7_Rk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters QF David V Hofstra</title>
+<utube>dziAhfqqsso</utube>
+<thumbnail>https://i.ytimg.com/vi/dziAhfqqsso/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
@@ -146,9 +160,37 @@
 </item>
 
 <item>
+<title>2004 Darts World Masters Last 16 King V Bunting</title>
+<utube>Td7rfh9E5e8</utube>
+<thumbnail>https://i.ytimg.com/vi/Td7rfh9E5e8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
 <title>2004 Darts World Masters Last 16 Adams V Farmer</title>
 <utube>xuRFlv6Del8</utube>
 <thumbnail>https://i.ytimg.com/vi/xuRFlv6Del8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 West V Richardson</title>
+<utube>pEb2uspzRk0</utube>
+<thumbnail>https://i.ytimg.com/vi/pEb2uspzRk0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 O'Shea V Walton</title>
+<utube>vDETM3mgEg0</utube>
+<thumbnail>https://i.ytimg.com/vi/vDETM3mgEg0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 Darts World Masters Last 16 David V Sorensen</title>
+<utube>3ZJPhKCeoGk</utube>
+<thumbnail>https://i.ytimg.com/vi/3ZJPhKCeoGk/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
@@ -174,16 +216,16 @@
 </item>
 
 <item>
-<title>2004 BDO World Darts Championship SemiFinal Andy Fordham V Raymond van Barneveld</title>
+<title>2004 BDO World Darts Championship SF Andy Fordham V Raymond van Barneveld</title>
 <utube>Dmf42hh3a88</utube>
 <thumbnail>https://i.ytimg.com/vi/Dmf42hh3a88/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
 <item>
-<title>2004 BDO World Darts Championship QF King V Atkins</title>
-<utube>QAgSeTk3NPE</utube>
-<thumbnail>https://i.ytimg.com/vi/QAgSeTk3NPE/hqdefault.jpg</thumbnail>
+<title>2004 BDO World Darts Championship QF King V Davies</title>
+<utube>zWFS89ciaEY</utube>
+<thumbnail>https://i.ytimg.com/vi/zWFS89ciaEY/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
@@ -240,6 +282,13 @@
 <title>2004 BDO World Darts Championship Round 1 Matches</title>
 <utube>0Q3wPMyoqgk</utube>
 <thumbnail>https://i.ytimg.com/vi/0Q3wPMyoqgk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</item>
+
+<item>
+<title>2004 BDO World Darts Championship R1 van Barneveld V Hogan</title>
+<utube>u5FCmvh-kKU</utube>
+<thumbnail>https://i.ytimg.com/vi/u5FCmvh-kKU/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 </item>
 
