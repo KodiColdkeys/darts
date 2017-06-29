@@ -147,6 +147,14 @@
 </channel>
 
 <channel>
+<name>1999</name>
+<thumbnail>https://i.ytimg.com/vi/f1JumNZIIFo/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2t6e3Ix</externallink>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <name>Darts Channels</name>
 <thumbnail>http://i.imgur.com/Sv4Kgxs.jpg</thumbnail>
 <externallink>http://bit.ly/2tguyRY</externallink>
