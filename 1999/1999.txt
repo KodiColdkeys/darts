@@ -1,0 +1,216 @@
+<item>
+<title>1999 Challenge Match Taylor V van Barneveld</title>
+<utube>|PLvb84YAuY4mNWHO2d2jdTItc2o_UPx5aL</utube>
+<thumbnail>http://i.imgur.com/rBd53NI.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Embassy World Finals - Barneveld V Baxter</title>
+<utube>x5Vww8PFJg4</utube>
+<thumbnail>https://i.ytimg.com/vi/x5Vww8PFJg4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 PDC World Darts Championship Final Taylor V Manley Highlights</title>
+<utube>aKiFCk5aQNo</utube>
+<thumbnail>https://i.ytimg.com/vi/aKiFCk5aQNo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 PDC World Darts Championship R1 Stoddart V Raw part 1</title>
+<utube>kXdDYtxO6wI</utube>
+<thumbnail>https://i.ytimg.com/vi/kXdDYtxO6wI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 PDC World Darts Championship R1 Stoddart V Raw part 2</title>
+<utube>V4lg8KdPjQM</utube>
+<thumbnail>https://i.ytimg.com/vi/V4lg8KdPjQM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 PDC World Matchplay Final Rod Harrington V Peter Manley</title>
+<utube>Lt5dAqWmkZw</utube>
+<thumbnail>https://i.ytimg.com/vi/Lt5dAqWmkZw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 PDC World Matchplay SF Manley V Taylor</title>
+<utube>6UAvLOxMvjM</utube>
+<thumbnail>https://i.ytimg.com/vi/6UAvLOxMvjM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 World Grand Prix Last 16 Deller V Part part 1</title>
+<utube>8rc8WJKqJDI</utube>
+<thumbnail>https://i.ytimg.com/vi/8rc8WJKqJDI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 World Grand Prix Last 16 Deller V Part part 2</title>
+<utube>wItFlopNfCQ</utube>
+<thumbnail>https://i.ytimg.com/vi/wItFlopNfCQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 World Grand Prix Last 16 Deller V Part part 3</title>
+<utube>WNAivuM747A</utube>
+<thumbnail>https://i.ytimg.com/vi/WNAivuM747A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Masters Final Fordham V Jones</title>
+<utube>Bys6v7a3DGU</utube>
+<thumbnail>https://i.ytimg.com/vi/Bys6v7a3DGU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Masters SF Fordham V King</title>
+<utube>T7bZ147FAnA</utube>
+<thumbnail>https://i.ytimg.com/vi/T7bZ147FAnA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Masters SF Jones V Pusa</title>
+<utube>XLADD2Az9-E</utube>
+<thumbnail>https://i.ytimg.com/vi/XLADD2Az9-E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Masters QF King V Ovens</title>
+<utube>xKnyPgKmAEc</utube>
+<thumbnail>https://i.ytimg.com/vi/xKnyPgKmAEc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts Ladies World Masters Final Gulliver V Hoenselaar</title>
+<utube>PxfcKRjLpyk</utube>
+<thumbnail>https://i.ytimg.com/vi/PxfcKRjLpyk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts Girls World Masters Final Gough V Ellis</title>
+<utube>Ps8rc4YAkIY</utube>
+<thumbnail>https://i.ytimg.com/vi/Ps8rc4YAkIY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts Boys World Masters Final Brown V Moreira</title>
+<utube>k-m2QD8RO-c</utube>
+<thumbnail>https://i.ytimg.com/vi/k-m2QD8RO-c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship Final van Barneveld V Baxter</title>
+<utube>EPXCkGiHRVs</utube>
+<thumbnail>https://i.ytimg.com/vi/EPXCkGiHRVs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship SF van Barneveld V Mason</title>
+<utube>DqVs474ZA_k</utube>
+<thumbnail>https://i.ytimg.com/vi/DqVs474ZA_k/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship QF Adams V Mason</title>
+<utube>-Dp7ujvoFFA</utube>
+<thumbnail>https://i.ytimg.com/vi/-Dp7ujvoFFA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R2 Hankey V Mason</title>
+<utube>yURe-uREtow</utube>
+<thumbnail>https://i.ytimg.com/vi/yURe-uREtow/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R2 Duke V James</title>
+<utube>mbBhqZfOyew</utube>
+<thumbnail>https://i.ytimg.com/vi/mbBhqZfOyew/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R2 Scholten V Stompe</title>
+<utube>3hdkgoe-LzA</utube>
+<thumbnail>https://i.ytimg.com/vi/3hdkgoe-LzA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R2 van Barneveld V Wallace</title>
+<utube>gf6naPMiH-M</utube>
+<thumbnail>https://i.ytimg.com/vi/gf6naPMiH-M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 van Barneveld V Palfrey</title>
+<utube>J575XT9REXE</utube>
+<thumbnail>https://i.ytimg.com/vi/J575XT9REXE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Adams V Gregory</title>
+<utube>f1JumNZIIFo</utube>
+<thumbnail>https://i.ytimg.com/vi/f1JumNZIIFo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Fordham V King</title>
+<utube>Lp9EQ6SRz1Q</utube>
+<thumbnail>https://i.ytimg.com/vi/Lp9EQ6SRz1Q/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Mason V Davies</title>
+<utube>2uUvmjp-CfU</utube>
+<thumbnail>https://i.ytimg.com/vi/2uUvmjp-CfU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Hankey V Carter</title>
+<utube>GkpIKfUcbKc</utube>
+<thumbnail>https://i.ytimg.com/vi/GkpIKfUcbKc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Beaton V Duke</title>
+<utube>uJuK12UaC1o</utube>
+<thumbnail>https://i.ytimg.com/vi/uJuK12UaC1o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1999 BDO Darts World Championship R1 Wallace V Cunningham</title>
+<utube>_PlEp3W5fHc</utube>
+<thumbnail>https://i.ytimg.com/vi/_PlEp3W5fHc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
