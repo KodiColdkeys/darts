@@ -1,4 +1,39 @@
 <item>
+<title>1998 World Darts Championship QF Deller V Robinson 1 of 3</title>
+<utube>pE7ItZzVXQY</utube>
+<thumbnail>https://i1.ytimg.com/vi/pE7ItZzVXQY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Darts Championship QF Deller V Robinson 2 of 3</title>
+<utube>DYawGbGXM24</utube>
+<thumbnail>https://i1.ytimg.com/vi/DYawGbGXM24/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Darts Championship QF Deller V Robinson 3 of 3</title>
+<utube>KcWlQ75jKsE</utube>
+<thumbnail>https://i1.ytimg.com/vi/KcWlQ75jKsE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Darts Championship R1 Deller V Stoddart 1 of 2</title>
+<utube>eTs7YyugyeM</utube>
+<thumbnail>https://i1.ytimg.com/vi/eTs7YyugyeM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Darts Championship R1 Deller V Stoddart 2 of 2</title>
+<utube>iPZsJgF7mCc</utube>
+<thumbnail>https://i1.ytimg.com/vi/iPZsJgF7mCc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
 <title>1998 World Matchplay Final Rod Harrington V Ronnie Baxter</title>
 <utube>y6VO8lU21tE</utube>
 <thumbnail>https://i1.ytimg.com/vi/y6VO8lU21tE/hqdefault.jpg</thumbnail>
@@ -20,6 +55,13 @@
 </item>
 
 <item>
+<title>1998 World Matchplay QF Keith Deller V Peter Manley</title>
+<externallink>http://bit.ly/2ty5Ks2</externallink>
+<thumbnail>https://i1.ytimg.com/vi/nz8zJD27WTE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
 <title>1998 World Matchplay QF Ronnie Baxter V Phil Taylor</title>
 <utube>pkNnv2QLDc0</utube>
 <thumbnail>https://i1.ytimg.com/vi/pkNnv2QLDc0/hqdefault.jpg</thumbnail>
@@ -27,16 +69,37 @@
 </item>
 
 <item>
-<title>1998 Winmau World Masters Matches</title>
-<utube>4dFMz_lhQhA</utube>
-<thumbnail>https://i1.ytimg.com/vi/4dFMz_lhQhA/hqdefault.jpg</thumbnail>
+<title>1998 World Matchplay R1 Keith Deller V Peter Evison 1 of 4</title>
+<utube>4GUOyCtliyQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/_fgkDbcZrhE/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
 <item>
-<title>1998 Winmau World Masters Final Wallace V Warriner</title>
-<utube>EhLsRnS3S6s</utube>
-<thumbnail>https://i1.ytimg.com/vi/EhLsRnS3S6s/hqdefault.jpg</thumbnail>
+<title>1998 World Matchplay R1 Keith Deller V Peter Evison 2 of 4</title>
+<utube>Zbqinrjntuk</utube>
+<thumbnail>https://i1.ytimg.com/vi/Zbqinrjntuk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay R1 Keith Deller V Peter Evison 3 of 4</title>
+<utube>U3KaDFRWr4I</utube>
+<thumbnail>https://i1.ytimg.com/vi/U3KaDFRWr4I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay R1 Keith Deller V Peter Evison 4 of 4</title>
+<utube>OjQxc_u6YjA</utube>
+<thumbnail>https://i1.ytimg.com/vi/OjQxc_u6YjA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters Matches</title>
+<utube>4dFMz_lhQhA</utube>
+<thumbnail>https://i1.ytimg.com/vi/4dFMz_lhQhA/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
@@ -55,9 +118,23 @@
 </item>
 
 <item>
+<title>1998 Winmau World Masters Final Wallace V Warriner</title>
+<utube>EhLsRnS3S6s</utube>
+<thumbnail>https://i1.ytimg.com/vi/EhLsRnS3S6s/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
 <title>1998 Winmau World Masters SF Adams V Wallace</title>
 <utube>FMSrB13ab8o</utube>
 <thumbnail>https://i1.ytimg.com/vi/FMSrB13ab8o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters SF Warriner V James</title>
+<utube>uXURHmxTMcE</utube>
+<thumbnail>https://i1.ytimg.com/vi/uXURHmxTMcE/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </item>
 
