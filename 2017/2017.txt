@@ -90,6 +90,34 @@
 </item>
 
 <item>
+<title>2017 Welsh Open Darts</title>
+<utube>jY1XbhToZRU</utube>
+<thumbnail>http://i.imgur.com/RhZZdjo.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Scottish Open Darts</title>
+<utube>Kaz1RC7DhfA</utube>
+<thumbnail>http://i.imgur.com/DPhHCMd.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</item>
+
+<item>
+<title>2017 England Open/National Singles</title>
+<utube>RgWkJ8qYVDU</utube>
+<thumbnail>http://i.imgur.com/4EsqUFI.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</item>
+
+<item>
+<title>2017 England Open Singles</title>
+<utube>oV2IaUJMDX8</utube>
+<thumbnail>http://i.imgur.com/4EsqUFI.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</item>
+
+<item>
 <title>2017 Unibet Masters</title>
 <utube>|PLMYrbKMmyUBlBakIuWm9heMrC0zRatkDB</utube>
 <thumbnail>http://i.imgur.com/57fu0Aq.jpg</thumbnail>
