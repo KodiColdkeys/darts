@@ -41,6 +41,13 @@
 </item>
 
 <item>
+<title>Toe the Oche (1987)</title>
+<utube>NlkQLvXH-v8</utube>
+<thumbnail>https://i.ytimg.com/vi/NlkQLvXH-v8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
 <title>Sid Waddell Documentary</title>
 <utube>Z1mOV2w1Ja4</utube>
 <thumbnail>https://i.ytimg.com/vi/Z1mOV2w1Ja4/hqdefault.jpg</thumbnail>
@@ -142,6 +149,41 @@
 <title>Phil Taylor's The Power and the Glory</title>
 <utube>evjNI_qxGLQ</utube>
 <thumbnail>https://i.ytimg.com/vi/evjNI_qxGLQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>Phil Taylor's New Kids on the Oche Ep 1 of 4</title>
+<utube>AqII4tE3d-o</utube>
+<thumbnail>https://i.ytimg.com/vi/AqII4tE3d-o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>Phil Taylor's New Kids on the Oche Ep 2 of 4</title>
+<utube>hLJJQZY5YeA</utube>
+<thumbnail>https://i.ytimg.com/vi/hLJJQZY5YeA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>Phil Taylor's New Kids on the Oche Ep 3 of 4</title>
+<utube>9GBjo43cchU</utube>
+<thumbnail>https://i.ytimg.com/vi/9GBjo43cchU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>Phil Taylor's New Kids on the Oche Ep 4 of 4</title>
+<utube>u65EiS1Q0Ys</utube>
+<thumbnail>https://i.ytimg.com/vi/u65EiS1Q0Ys/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>You Can't Beat A Bit Of Bully - Bullseye's 35th Year Anniversary</title>
+<utube>wrMjEy6HZh0</utube>
+<thumbnail>https://i.ytimg.com/vi/wrMjEy6HZh0/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
 </item>
 
