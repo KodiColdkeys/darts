@@ -21,7 +21,15 @@
 </channel>
 
 <channel>
-<name>1998 PDC World Darts R1 Keith Deller V Dennis Smith</name>
+<name>1997 PDC World Darts QF Keith Deller V Phil Taylor</name>
+<thumbnail>https://i1.ytimg.com/vi/Cr2cp08ybhY/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2u8bYMc</externallink>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1997 PDC World Darts R1 Keith Deller V Dennis Smith</name>
 <thumbnail>https://i1.ytimg.com/vi/kpVBai2thBM/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2u7LkTD</externallink>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
@@ -32,6 +40,13 @@
 <title>1997 PDC World Pairs Final Barneveld/Scholten V Harrington/Burnett</title>
 <utube>55tHaCu8eZU</utube>
 <thumbnail>https://i1.ytimg.com/vi/55tHaCu8eZU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1997 PDC World Matchplay Final Taylor V Warriner</title>
+<utube>bPMC_buDkeA</utube>
+<thumbnail>https://i1.ytimg.com/vi/bPMC_buDkeA/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </channel>
 
@@ -109,6 +124,13 @@
 <title>1997 BDO World Darts Championship SF King V Wallace</title>
 <utube>H2dvQYJJaPE</utube>
 <thumbnail>https://i1.ytimg.com/vi/H2dvQYJJaPE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1997 BDO World Darts Championship SF James V Beaton</title>
+<utube>p6cpcpETfz4</utube>
+<thumbnail>https://i1.ytimg.com/vi/p6cpcpETfz4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </channel>
 
