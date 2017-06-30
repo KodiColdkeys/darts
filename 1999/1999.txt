@@ -146,6 +146,13 @@
 </item>
 
 <item>
+<title>1999 BDO Darts World Championship QF Baxter V Scholten</title>
+<utube>aze6Jjh6fg8</utube>
+<thumbnail>https://i.ytimg.com/vi/aze6Jjh6fg8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
 <title>1999 BDO Darts World Championship R2 Hankey V Mason</title>
 <utube>yURe-uREtow</utube>
 <thumbnail>https://i.ytimg.com/vi/yURe-uREtow/hqdefault.jpg</thumbnail>
