@@ -1,0 +1,209 @@
+<item>
+<title>1998 World Matchplay Final Rod Harrington V Ronnie Baxter</title>
+<utube>y6VO8lU21tE</utube>
+<thumbnail>https://i1.ytimg.com/vi/y6VO8lU21tE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay SF Harrington V Deller</title>
+<utube>yu-JYbkeZS0</utube>
+<thumbnail>https://i1.ytimg.com/vi/yu-JYbkeZS0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay SF Baxter V Mason</title>
+<utube>yUbE4KdVx7o</utube>
+<thumbnail>https://i1.ytimg.com/vi/yUbE4KdVx7o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Ronnie Baxter V Phil Taylor</title>
+<utube>pkNnv2QLDc0</utube>
+<thumbnail>https://i1.ytimg.com/vi/pkNnv2QLDc0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters Matches</title>
+<utube>4dFMz_lhQhA</utube>
+<thumbnail>https://i1.ytimg.com/vi/4dFMz_lhQhA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters Final Wallace V Warriner</title>
+<utube>EhLsRnS3S6s</utube>
+<thumbnail>https://i1.ytimg.com/vi/EhLsRnS3S6s/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters Ladies Final Gulliver V Smith</title>
+<utube>nAOXcvxX5FA</utube>
+<thumbnail>https://i1.ytimg.com/vi/nAOXcvxX5FA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters Youth Final Higgins V Rooney</title>
+<utube>A271iE_7M6c</utube>
+<thumbnail>https://i1.ytimg.com/vi/A271iE_7M6c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 Winmau World Masters SF Adams V Wallace</title>
+<utube>FMSrB13ab8o</utube>
+<thumbnail>https://i1.ytimg.com/vi/FMSrB13ab8o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship Final van Barneveld V Burnett</title>
+<utube>WPoElBhQgFA</utube>
+<thumbnail>https://i1.ytimg.com/vi/WPoElBhQgFA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship SF van Barneveld V C Monk</title>
+<utube>BuQQ_WD13wI</utube>
+<thumbnail>https://i1.ytimg.com/vi/BuQQ_WD13wI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship QF van Barneveld V Beaton</title>
+<utube>W_tRvqPHG24</utube>
+<thumbnail>https://i1.ytimg.com/vi/W_tRvqPHG24/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship QF Burnett V Johnstone</title>
+<utube>zAbEbMWEfNw</utube>
+<thumbnail>https://i1.ytimg.com/vi/zAbEbMWEfNw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship QF Hankey V Monk</title>
+<utube>lUZNR7HUb0M</utube>
+<thumbnail>https://i1.ytimg.com/vi/lUZNR7HUb0M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Monk V Widdows</title>
+<utube>hLSSPwBunGg</utube>
+<thumbnail>https://i1.ytimg.com/vi/hLSSPwBunGg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Hankey V King</title>
+<utube>y-xX1L4xoAQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/y-xX1L4xoAQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 van Barneveld V Fordham</title>
+<utube>7dJGqPOzTcc</utube>
+<thumbnail>https://i1.ytimg.com/vi/7dJGqPOzTcc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Scholten V Carter</title>
+<utube>AbJ_lzmupp8</utube>
+<thumbnail>https://i1.ytimg.com/vi/AbJ_lzmupp8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Beaton V Wallace</title>
+<utube>psG8FdzTQdE</utube>
+<thumbnail>https://i1.ytimg.com/vi/psG8FdzTQdE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Burnett V Painter</title>
+<utube>PonOg63F8vE</utube>
+<thumbnail>https://i1.ytimg.com/vi/PonOg63F8vE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 George V Palfrey</title>
+<utube>TnHjHKDgsq0</utube>
+<thumbnail>https://i1.ytimg.com/vi/TnHjHKDgsq0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R2 Mason V Johnstone</title>
+<utube>_tKIKGzoWMw</utube>
+<thumbnail>https://i1.ytimg.com/vi/_tKIKGzoWMw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Painter V Clarys</title>
+<utube>sh93gK4D7Kk</utube>
+<thumbnail>https://i1.ytimg.com/vi/sh93gK4D7Kk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Hankey V Weening</title>
+<utube>88-WMYJWEVs</utube>
+<thumbnail>https://i1.ytimg.com/vi/88-WMYJWEVs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Adams V Widdows</title>
+<utube>EzQPQOywPn0</utube>
+<thumbnail>https://i1.ytimg.com/vi/EzQPQOywPn0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Burnett V James</title>
+<utube>3jJsyN2Xw-0</utube>
+<thumbnail>https://i1.ytimg.com/vi/3jJsyN2Xw-0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Baxter V Johnstone</title>
+<utube>0Nhr8w2oo_U</utube>
+<thumbnail>https://i1.ytimg.com/vi/0Nhr8w2oo_U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Monk V Davies</title>
+<utube>v3dfuZCVkws</utube>
+<thumbnail>https://i1.ytimg.com/vi/v3dfuZCVkws/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Beaton V Williams</title>
+<utube>at2yDJ-VTCY</utube>
+<thumbnail>https://i1.ytimg.com/vi/at2yDJ-VTCY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
+
+<item>
+<title>1998 BDO World Darts Championship R1 Mason V Wylie</title>
+<utube>QReGW1SQxNY</utube>
+<thumbnail>https://i1.ytimg.com/vi/QReGW1SQxNY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</item>
