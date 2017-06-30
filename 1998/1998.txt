@@ -55,10 +55,11 @@
 </item>
 
 <item>
-<title>1998 World Matchplay QF Keith Deller V Peter Manley</title>
-<externallink>http://bit.ly/2ty5Ks2</externallink>
+<name>1998 World Matchplay QF Keith Deller V Peter Manley</name>
 <thumbnail>https://i1.ytimg.com/vi/nz8zJD27WTE/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2ty5Ks2</externallink>
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<info>http://www.darts.tv/</info>
 </item>
 
 <item>
