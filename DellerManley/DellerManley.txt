@@ -1,0 +1,48 @@
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 1 of 7</title>
+<utube>-9l88hyLqbo</utube>
+<thumbnail>https://i1.ytimg.com/vi/-9l88hyLqbo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 2 of 7</title>
+<utube>nz8zJD27WTE</utube>
+<thumbnail>https://i1.ytimg.com/vi/nz8zJD27WTE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 3 of 7</title>
+<utube>A-4XhXPcnTA</utube>
+<thumbnail>https://i1.ytimg.com/vi/A-4XhXPcnTA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 4 of 7</title>
+<utube>Hhb5jV-Cl1U</utube>
+<thumbnail>https://i1.ytimg.com/vi/Hhb5jV-Cl1U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 5 of 7</title>
+<utube>cAKVSw3wMis</utube>
+<thumbnail>https://i1.ytimg.com/vi/cAKVSw3wMis/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 6 of 7</title>
+<utube>FBgef8la4jM</utube>
+<thumbnail>https://i1.ytimg.com/vi/FBgef8la4jM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
+
+<item>
+<title>1998 World Matchplay QF Keith Deller v Peter Manley 7 of 7</title>
+<utube>KyYZ_DgqRfw</utube>
+<thumbnail>https://i1.ytimg.com/vi/KyYZ_DgqRfw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/SrvlWd7.jpg</fanart>
+</item>
