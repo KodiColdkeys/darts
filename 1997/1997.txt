@@ -1,0 +1,6 @@
+<item>
+<title>1997 Battle of the Champions</title>
+<utube>|PL47D236D617959E0C</utube>
+<thumbnail>https://i1.ytimg.com/vi/JxBgSJ1iL1I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</item>
