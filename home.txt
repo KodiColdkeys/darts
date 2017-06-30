@@ -187,6 +187,13 @@
 </channel>
 
 <channel>
+<title>Bullseye UK TV</title>
+<utube>|PLprx7V8JHqD_LjnvsaGavlZo7o9pYF3Fb</utube>
+<thumbnail>http://i.imgur.com/B5VORp1.jpg</thumbnail>
+<fanart>http://i.imgur.com/4hNuWcQ.jpg</fanart>
+</channel>
+
+<channel>
 <name>Soft Darts</name>
 <thumbnail>http://i.imgur.com/Lt9IlBq.jpg</thumbnail>
 <externallink>http://bit.ly/2tgv5mQ</externallink>
