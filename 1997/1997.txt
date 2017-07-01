@@ -7,9 +7,23 @@
 </channel>
 
 <channel>
+<title>1997 Battle of the Champions Taylor V Burnett</title>
+<utube>Bmf91LRwwXM</utube>
+<thumbnail>https://i1.ytimg.com/vi/Bmf91LRwwXM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
 <title>1997 PDC World Darts Final Taylor V Priestly</title>
 <utube>Wtcl30is-ks</utube>
 <thumbnail>https://i1.ytimg.com/vi/Wtcl30is-ks/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1997 PDC World Darts SF Bristow V Taylor</title>
+<utube>|PL7599597233FC0C04</utube>
+<thumbnail>https://i1.ytimg.com/vi/16EeNdQHa7w/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </channel>
 
@@ -135,6 +149,13 @@
 </channel>
 
 <channel>
+<title>1997 BDO World Darts Championship QF Scholten V King</title>
+<utube>q2AftuX63Qs</utube>
+<thumbnail>https://i1.ytimg.com/vi/q2AftuX63Qs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
 <title>1997 BDO World Darts Championship R1 Baxter V Jenkins</title>
 <utube>mAuPIA_ZY4Y</utube>
 <thumbnail>https://i1.ytimg.com/vi/mAuPIA_ZY4Y/hqdefault.jpg</thumbnail>
@@ -224,8 +245,5 @@
 <thumbnail>https://i1.ytimg.com/vi/U1_YIKxpRnk/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </channel>
-
-
-
 
 </channels>
