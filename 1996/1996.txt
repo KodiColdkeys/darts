@@ -6,4 +6,132 @@
 <fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
 </channel>
 
+<channel>
+<title>1996 PDC World Pairs Final Taylor/Anderson v Mason/Raw</title>
+<utube>RO81MTzR0WU</utube>
+<thumbnail>https://i1.ytimg.com/vi/RO81MTzR0WU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<name>1996 World Team Championships Taylor/Anderson V Deller/Harvey</name>
+<thumbnail>https://i1.ytimg.com/vi/eiOtgHnFPgU/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2txZTCn</externallink>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley</name>
+<thumbnail>https://i1.ytimg.com/vi/CvwdqBq5Jxo/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2uuFAmi</externallink>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>1996 World Matchplay Final Peter Evison V Dennis Priestley</title>
+<utube>nOIndHUIsFk</utube>
+<thumbnail>https://i1.ytimg.com/vi/nOIndHUIsFk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 World Matchplay SF Dennis Priestley V Bob Anderson</title>
+<utube>IgW1ruSM0q8</utube>
+<thumbnail>https://i1.ytimg.com/vi/IgW1ruSM0q8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 World Matchplay Last 16 Phil Taylor V Peter Evison</title>
+<utube>7LP-zjj4uxE</utube>
+<thumbnail>https://i1.ytimg.com/vi/7LP-zjj4uxE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Masters Final Burnett V Monk</title>
+<utube>q6SVOeadQbg</utube>
+<thumbnail>https://i1.ytimg.com/vi/q6SVOeadQbg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts SF Fordham V Beaton</title>
+<utube>cPpGDoVSWlk</utube>
+<thumbnail>https://i1.ytimg.com/vi/cPpGDoVSWlk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts QF Baxter V Burnett</title>
+<utube>3JBo6J61WKE</utube>
+<thumbnail>https://i1.ytimg.com/vi/3JBo6J61WKE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R2 Fordham V Jenkins 1 of 2</title>
+<utube>3ZsdU-LSDoY</utube>
+<thumbnail>https://i1.ytimg.com/vi/3ZsdU-LSDoY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R2 Fordham V Jenkins 2 of 2</title>
+<utube>7AF9MpZoV7M</utube>
+<thumbnail>https://i1.ytimg.com/vi/7AF9MpZoV7M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R2 Steve Beaton V John Part</title>
+<utube>riuRBvNSFXY</utube>
+<thumbnail>https://i1.ytimg.com/vi/riuRBvNSFXY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 Mike Gregory V Les Wallace</title>
+<utube>GXDesXiXhR4</utube>
+<thumbnail>https://i1.ytimg.com/vi/GXDesXiXhR4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 Painter V Baxter</title>
+<utube>fsLsc-WKVJA</utube>
+<thumbnail>https://i1.ytimg.com/vi/fsLsc-WKVJA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 John Part V Paul Williams</title>
+<utube>RibCdmXLMwQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/RibCdmXLMwQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 Colin Monk V Charlie Gaile</title>
+<utube>kNI_ehorS08</utube>
+<thumbnail>https://i1.ytimg.com/vi/kNI_ehorS08/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 Andy Fordham V Chris Mason</title>
+<utube>L1ff_S22Y5U</utube>
+<thumbnail>https://i1.ytimg.com/vi/L1ff_S22Y5U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1996 BDO World Championship Darts R1 Salmon V Scholten</title>
+<utube>ReNOdEgi6To</utube>
+<thumbnail>https://i1.ytimg.com/vi/ReNOdEgi6To/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
 </channels>
