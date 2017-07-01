@@ -12,7 +12,7 @@
 
 <channel>
 <name>2017</name>
-<thumbnail>https://i.ytimg.com/vi/S7HXyKrMw-A/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/S3jWfzZhWJU/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sU4wUi</externallink>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 <info>http://www.darts.tv/</info>
@@ -20,7 +20,7 @@
 
 <channel>
 <name>2016</name>
-<thumbnail>https://i.ytimg.com/vi/2qFhhFZUfwM/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/a0H4SWqEvP8/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sUlgL9</externallink>
 <fanart>http://i.imgur.com/aHFBYZC.jpg</fanart>
 <info>http://www.darts.tv/</info>
@@ -28,9 +28,9 @@
 
 <channel>
 <name>2015</name>
-<thumbnail>https://i.ytimg.com/vi/stmlGQDBwGk/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/FO9BWtcITdE/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sU1hMy</externallink>
-<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+<fanart>http://i.imgur.com/q984X4l.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -60,7 +60,7 @@
 
 <channel>
 <name>2011</name>
-<thumbnail>https://i.ytimg.com/vi/XvzIlZf6GrY/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/EY5Fp0aXWLc/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sSCgox</externallink>
 <fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
 <info>http://www.darts.tv/</info>
@@ -175,6 +175,30 @@
 <thumbnail>https://i.ytimg.com/vi/62z4_jUaaBQ/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2uqwcQO</externallink>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1996</name>
+<thumbnail>https://i.ytimg.com/vi/Q8ZACZm_L0E/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2u8Eu0l</externallink>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1995</name>
+<thumbnail>https://i.ytimg.com/vi/mR1VpIa4tX0/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2u8B1ic</externallink>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1994</name>
+<thumbnail>https://i.ytimg.com/vi/FVodFww0Z_g/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2u8FnWQ</externallink>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
