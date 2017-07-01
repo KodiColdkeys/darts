@@ -1,0 +1,34 @@
+<item>
+<title>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley 1 of 5</title>
+<utube>rsOgmCR5uD8</utube>
+<thumbnail>https://i1.ytimg.com/vi/rsOgmCR5uD8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pAHfigD.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley 2 of 5</title>
+<utube>CvwdqBq5Jxo</utube>
+<thumbnail>https://i1.ytimg.com/vi/CvwdqBq5Jxo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pAHfigD.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley 3 of 5</title>
+<utube>ypi5QbCQRbs</utube>
+<thumbnail>https://i1.ytimg.com/vi/ypi5QbCQRbs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pAHfigD.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley 4 of 5</title>
+<utube>SLwJHl60Ph0</utube>
+<thumbnail>https://i1.ytimg.com/vi/SLwJHl60Ph0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pAHfigD.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships R2 Deller/Harvey v Bristow/Priestley 5 of 5</title>
+<utube>Xo_-vEIBJoI</utube>
+<thumbnail>https://i1.ytimg.com/vi/Xo_-vEIBJoI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pAHfigD.jpg</fanart>
+</item>
