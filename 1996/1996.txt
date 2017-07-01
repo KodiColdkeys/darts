@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<title>1996 PDC World Darts Final Phil Taylor v Dennis Priestley</title>
+<utube>MWIx2xk9sxs</utube>
+<thumbnail>https://i1.ytimg.com/vi/MWIx2xk9sxs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7mMeXdQ.jpg</fanart>
+</channel>
+
+</channels>
