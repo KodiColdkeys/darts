@@ -1,7 +1,7 @@
 <item>
-<title>2017 Premier League of Darts</title>
-<utube>|PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</utube>
-<thumbnail>http://i.imgur.com/5ChFBin.jpg</thumbnail>
+<title>2017 European Darts Open</title>
+<utube>|PLYJ3r6AEHB6qzTIPT00tk7cFTv9yizxBI</utube>
+<thumbnail>http://i.imgur.com/Dkn7yAN.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </item>
 
@@ -9,6 +9,13 @@
 <title>2017 Austrian Darts Open</title>
 <utube>|PLYJ3r6AEHB6r4Xnzphfgx9rROYeMSC9iI</utube>
 <thumbnail>http://i.imgur.com/eIeYqXi.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</item>
+
+<item>
+<title>2017 Premier League of Darts</title>
+<utube>|PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</utube>
+<thumbnail>http://i.imgur.com/5ChFBin.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </item>
 
