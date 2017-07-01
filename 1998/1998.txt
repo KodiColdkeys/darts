@@ -274,6 +274,20 @@
 </channel>
 
 <channel>
+<title>1998 BDO World Darts Championship R1 Palfrey V Scholten</title>
+<utube>eQTw4VW5dxc</utube>
+<thumbnail>https://i1.ytimg.com/vi/eQTw4VW5dxc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
+<channel>
+<title>1998 BDO World Darts Championship R1 Wallace V Smith</title>
+<utube>-602skDgD8w</utube>
+<thumbnail>https://i1.ytimg.com/vi/-602skDgD8w/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
+<channel>
 <title>1998 BDO World Darts Championship R1 Beaton V Williams</title>
 <utube>at2yDJ-VTCY</utube>
 <thumbnail>https://i1.ytimg.com/vi/at2yDJ-VTCY/hqdefault.jpg</thumbnail>
