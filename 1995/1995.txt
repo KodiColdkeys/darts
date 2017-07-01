@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<title>1995 Butlins World Team Dart Championships</title>
+<utube>|PLEEBE0B7BE563C341</utube>
+<thumbnail>http://i.imgur.com/NCF9WYn.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+</channels>
