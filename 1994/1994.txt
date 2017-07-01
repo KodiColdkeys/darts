@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<title>1994 BDO World Darts Championship Final John Part V Bobby George</title>
+<utube>i-LfrY0kXxw</utube>
+<thumbnail>https://i1.ytimg.com/vi/i-LfrY0kXxw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+</channels>
