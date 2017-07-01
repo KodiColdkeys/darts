@@ -1,0 +1,27 @@
+<item>
+<title>1996 World Team Championships Taylor/Anderson V Deller/Harvey 1 of 4</title>
+<utube>XVrWKgNDYkQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/XVrWKgNDYkQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/PfF7JqX.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships Taylor/Anderson V Deller/Harvey 2 of 4</title>
+<utube>eiOtgHnFPgU</utube>
+<thumbnail>https://i1.ytimg.com/vi/eiOtgHnFPgU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/PfF7JqX.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships Taylor/Anderson V Deller/Harvey 3 of 4</title>
+<utube>PUOI2JiXj2A</utube>
+<thumbnail>https://i1.ytimg.com/vi/PUOI2JiXj2A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/PfF7JqX.jpg</fanart>
+</item>
+
+<item>
+<title>1996 World Team Championships Taylor/Anderson V Deller/Harvey 4 of 4</title>
+<utube>-CUNP0MKq2E</utube>
+<thumbnail>https://i1.ytimg.com/vi/-CUNP0MKq2E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/PfF7JqX.jpg</fanart>
+</item>
