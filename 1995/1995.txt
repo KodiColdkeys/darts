@@ -6,4 +6,106 @@
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
+<channel>
+<title>1995 PDC World Championship Final Rod Harrington V Phil Taylor</title>
+<utube>h5UQvaNAHI4</utube>
+<thumbnail>https://i1.ytimg.com/vi/h5UQvaNAHI4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 PDC World Championship SF Phil Taylor V John Lowe</title>
+<utube>EhxJLojIE_o</utube>
+<thumbnail>https://i1.ytimg.com/vi/EhxJLojIE_o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 Raymond van Barneveld Winning The Finnish Open</title>
+<utube>oLFBLTztFA8</utube>
+<thumbnail>https://i1.ytimg.com/vi/oLFBLTztFA8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<name>1995 European Masters Final Peter Manley V Mike Gregory</name>
+<thumbnail>https://i1.ytimg.com/vi/bsFzt59LW6o/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2uxYiJJ</externallink>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>1995 European Masters QF(final set) Beaton V van Barneveld</title>
+<utube>LCrlDIxrXcQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/LCrlDIxrXcQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 European Masters QF(final set) Beaton V van Barneveld</title>
+<utube>LCrlDIxrXcQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/LCrlDIxrXcQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 European Masters Last 16 Beaton V Eeckelhaert</title>
+<utube>RV6dVeO-3YY</utube>
+<thumbnail>https://i1.ytimg.com/vi/RV6dVeO-3YY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship Final van Barneveld V Burnett</title>
+<utube>T_b3wSb6SAE</utube>
+<thumbnail>https://i1.ytimg.com/vi/T_b3wSb6SAE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship SF Fordham v Burnett,Barneveld v Adams</title>
+<utube>zMsZY5OdUw0</utube>
+<thumbnail>https://i1.ytimg.com/vi/zMsZY5OdUw0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship QF Burnett v Hogan,Fordham v Williams</title>
+<utube>usHX-AXJrVg</utube>
+<thumbnail>https://i1.ytimg.com/vi/usHX-AXJrVg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship QF Adams V Gregory</title>
+<utube>3J_zWQxJa-E</utube>
+<thumbnail>https://i1.ytimg.com/vi/3J_zWQxJa-E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship R2 Fordham V Sharp</title>
+<utube>cECVo9BCAoA</utube>
+<thumbnail>https://i1.ytimg.com/vi/cECVo9BCAoA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship R2 Hogan V Palfrey</title>
+<utube>UwatW8cUla8</utube>
+<thumbnail>https://i1.ytimg.com/vi/UwatW8cUla8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 BDO World Championship R1 Beaton v Askew.Monk v Scholten</title>
+<utube>JaTabu460vk</utube>
+<thumbnail>https://i1.ytimg.com/vi/JaTabu460vk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+
+
+
 </channels>
