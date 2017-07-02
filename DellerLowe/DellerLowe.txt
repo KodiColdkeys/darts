@@ -1,0 +1,35 @@
+<item>
+<title>1995 World Matchplay QF John Lowe V Keith Deller 1 of 6</title>
+<utube>WFdjzDAQ6w8</utube>
+<thumbnail>https://i1.ytimg.com/vi/WFdjzDAQ6w8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/CLHvo4H.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Matchplay QF John Lowe V Keith Deller 2 of 6</title>
+<utube>i9MnVl6d-Fk</utube>
+<thumbnail>https://i1.ytimg.com/vi/i9MnVl6d-Fk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/CLHvo4H.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Matchplay QF John Lowe V Keith Deller 4 of 6</title>
+<utube>SJTfK_TxXwM</utube>
+<thumbnail>https://i1.ytimg.com/vi/SJTfK_TxXwM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/CLHvo4H.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Matchplay QF John Lowe V Keith Deller 5 of 6</title>
+<utube>BPZOAW3yZ8I</utube>
+<thumbnail>https://i1.ytimg.com/vi/BPZOAW3yZ8I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/CLHvo4H.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Matchplay QF John Lowe V Keith Deller 6 of 6</title>
+<utube>QXtEth4yLY8</utube>
+<thumbnail>https://i1.ytimg.com/vi/QXtEth4yLY8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/CLHvo4H.jpg</fanart>
+</item>
+
