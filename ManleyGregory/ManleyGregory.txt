@@ -1,0 +1,20 @@
+<item>
+<title>1995 European Masters Final Peter Manley V Mike Gregory 1 of 3</title>
+<utube>Di-4FcEvsKg</utube>
+<thumbnail>https://i1.ytimg.com/vi/Di-4FcEvsKg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/kcphmh6.jpg</fanart>
+</item>
+
+<item>
+<title>1995 European Masters Final Peter Manley V Mike Gregory 2 of 3</title>
+<utube>bsFzt59LW6o</utube>
+<thumbnail>https://i1.ytimg.com/vi/bsFzt59LW6o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/kcphmh6.jpg</fanart>
+</item>
+
+<item>
+<title>1995 European Masters Final Peter Manley V Mike Gregory 3 of 3</title>
+<utube>wcsr5xfdtv4</utube>
+<thumbnail>https://i1.ytimg.com/vi/wcsr5xfdtv4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/kcphmh6.jpg</fanart>
+</item>
