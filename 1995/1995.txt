@@ -1,10 +1,4 @@
 <channels>
-<channel>
-<title>1995 Butlins World Team Dart Championships</title>
-<utube>|PLEEBE0B7BE563C341</utube>
-<thumbnail>http://i.imgur.com/NCF9WYn.jpg</thumbnail>
-<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
-</channel>
 
 <channel>
 <title>1995 PDC World Championship Final Rod Harrington V Phil Taylor</title>
@@ -52,6 +46,28 @@
 <title>1995 PDC World Matchplay Final Taylor V Priestley</title>
 <utube>S6T5FI0ancI</utube>
 <thumbnail>https://i1.ytimg.com/vi/S6T5FI0ancI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<name>1995 World Matchplay QF John Lowe V Keith Deller</name>
+<thumbnail>https://i1.ytimg.com/vi/QXtEth4yLY8/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2tAXLcQ</externallink>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>1995 World Team Championships Priestley/Bristow V Deller/Harvey</title>
+<utube>|PLEEBE0B7BE563C341</utube>
+<thumbnail>http://i.imgur.com/NCF9WYn.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 World Team Championships SF Deller/Harvey V Lowe/Lazarenko</title>
+<utube>IN74jKDhM00</utube>
+<thumbnail>https://i1.ytimg.com/vi/IN74jKDhM00/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
