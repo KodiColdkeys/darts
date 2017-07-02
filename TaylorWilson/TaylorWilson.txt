@@ -1,0 +1,29 @@
+<item>
+<title>1995 World Team Championships R2 Taylor/Wilson v Deller/Harvey 1 of 4</title>
+<utube>79-2nG9zxmY</utube>
+<thumbnail>https://i1.ytimg.com/vi/79-2nG9zxmY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/oQGEXT9.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Team Championships R2 Taylor/Wilson v Deller/Harvey 2 of 4</title>
+<utube>6kW7yr7mwPo</utube>
+<thumbnail>https://i1.ytimg.com/vi/6kW7yr7mwPo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/oQGEXT9.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Team Championships R2 Taylor/Wilson v Deller/Harvey 3 of 4</title>
+<utube>oAYaJFXy19o</utube>
+<thumbnail>https://i1.ytimg.com/vi/oAYaJFXy19o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/oQGEXT9.jpg</fanart>
+</item>
+
+<item>
+<title>1995 World Team Championships R2 Taylor/Wilson v Deller/Harvey 4 of 4</title>
+<utube>tu5L_mwCFWI</utube>
+<thumbnail>https://i1.ytimg.com/vi/tu5L_mwCFWI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/oQGEXT9.jpg</fanart>
+</item>
+
+
