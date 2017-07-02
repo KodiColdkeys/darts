@@ -60,7 +60,7 @@
 <channel>
 <title>1995 World Team Championships Priestley/Bristow V Deller/Harvey</title>
 <utube>|PLEEBE0B7BE563C341</utube>
-<thumbnail>http://i.imgur.com/NCF9WYn.jpg</thumbnail>
+<thumbnail>https://i1.ytimg.com/vi/To6TSyIHq5M/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
@@ -165,16 +165,23 @@
 </channel>
 
 <channel>
-<title>1995 Winmau Ladies World Masters Final Whatmough V Hjortoft</title>
+<title>1995 Winmau Youth World Masters Final Whatmough V Hjortoft</title>
 <utube>4MkeOmCYgtQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/4MkeOmCYgtQ/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
 <channel>
+<title>1995 Winmau Ladies World Masters SF Hedman V Colclough</title>
+<utube>AinpZZ_yGEU</utube>
+<thumbnail>https://i1.ytimg.com/vi/AinpZZ_yGEU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
 <title>1995 Winmau World Masters SF van Barneveld V Burnett</title>
-<utube>5jxyI-PAEzs</utube>
-<thumbnail>https://i1.ytimg.com/vi/5jxyI-PAEzs/hqdefault.jpg</thumbnail>
+<utube>eed0c7ZQUsE</utube>
+<thumbnail>https://i1.ytimg.com/vi/eed0c7ZQUsE/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
@@ -214,9 +221,23 @@
 </channel>
 
 <channel>
+<title>1995 Winmau World Masters Last 16 Williams V Dalgleish</title>
+<utube>4JSSa3s6E8Q</utube>
+<thumbnail>https://i1.ytimg.com/vi/4JSSa3s6E8Q/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
 <title>1995 Winmau World Masters Last 16 King V Baxter</title>
 <utube>A04vW-y0E28</utube>
 <thumbnail>https://i1.ytimg.com/vi/A04vW-y0E28/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1995 Winmau World Masters Last 16 Gregory V Johansen</title>
+<utube>9qL5k2lR0q8</utube>
+<thumbnail>https://i1.ytimg.com/vi/9qL5k2lR0q8/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/mTjI6mb.jpg</fanart>
 </channel>
 
