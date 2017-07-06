@@ -1,9 +1,68 @@
 <channels>
+
+<channel>
+<title>1994 Skol Quadro Board Tournament</title>
+<utube>lhGpmARvfa0</utube>
+<thumbnail>https://i1.ytimg.com/vi/lhGpmARvfa0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Championships Dennis Priestley Defeats Phil Taylor 6-1 - ONLY KNOWN FOOTAGE</title>
+<utube>zGNokQ9U1CA</utube>
+<thumbnail>https://i1.ytimg.com/vi/zGNokQ9U1CA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
 <channel>
 <title>1994 BDO World Darts Championship Final John Part V Bobby George</title>
 <utube>i-LfrY0kXxw</utube>
 <thumbnail>https://i1.ytimg.com/vi/i-LfrY0kXxw/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
+
+<channel>
+<title>1994 BDO World Darts Championship QF Part V McCollum, Sharp V Rusel</title>
+<utube>D_z67pJykfE</utube>
+<thumbnail>https://i1.ytimg.com/vi/D_z67pJykfE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship QF Adams V Caris</title>
+<utube>C-rGbK1WrG4</utube>
+<thumbnail>https://i1.ytimg.com/vi/C-rGbK1WrG4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R2 Kenny V Gedney, Adams V B Taylor</title>
+<utube>kt84WhDqB34</utube>
+<thumbnail>https://i1.ytimg.com/vi/kt84WhDqB34/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R2 Scholten V Sharp, Monk V McCollum</title>
+<utube>D9ZCyxeXIr0</utube>
+<thumbnail>https://i1.ytimg.com/vi/D9ZCyxeXIr0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Painter V Kenny, Phillips V Herbert</title>
+<utube>pq_JQvUnJ20</utube>
+<thumbnail>https://i1.ytimg.com/vi/pq_JQvUnJ20/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Matches (4)</title>
+<utube>bM47uM3Tg1Y</utube>
+<thumbnail>https://i1.ytimg.com/vi/bM47uM3Tg1Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+
 
 </channels>
