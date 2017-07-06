@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>2016 BDO Gold Cup</title>
+<utube>TttV26k1RZo</utube>
+<thumbnail>http://i.imgur.com/3SIM32J.jpg</thumbnail>
+<fanart>http://i.imgur.com/aHFBYZC.jpg</fanart>
+</item>
+
+<item>
 <title>2016 Unibet European Championships</title>
 <utube>|PLMYrbKMmyUBktIQuQr4doYukbcnGkbLg9</utube>
 <thumbnail>http://i.imgur.com/6svYo7s.jpg</thumbnail>
