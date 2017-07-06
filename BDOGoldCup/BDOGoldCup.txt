@@ -1,0 +1,41 @@
+<item>
+<title>2017 BDO Gold Cup Ladies Singles SF Hedman V Littler</title>
+<utube>4zax8xLS-g8</utube>
+<thumbnail>https://i1.ytimg.com/vi/4zax8xLS-g8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO Gold Cup Ladies and Mens Semi Finals</title>
+<utube>Gs9a--7u_40</utube>
+<thumbnail>https://i1.ytimg.com/vi/Gs9a--7u_40/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO Gold Cup Mens Semi Finals/Ladies Final</title>
+<utube>XHealUxqNUk</utube>
+<thumbnail>https://i1.ytimg.com/vi/XHealUxqNUk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO Gold Cup Mens Final Ryan Joyce V Wayne Warren</title>
+<utube>LOB-zMdZ07g</utube>
+<thumbnail>https://i1.ytimg.com/vi/LOB-zMdZ07g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO Gold Cup Mens Pairs Final Baker/Nicholls V Menzies/McEwan</title>
+<utube>PcK7w3VfCtY</utube>
+<thumbnail>https://i1.ytimg.com/vi/PcK7w3VfCtY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO Gold Cup Ladies Pairs Final Edwards/Jacklin V Sherrock/Blay</title>
+<utube>aWt3jDFs8g4</utube>
+<thumbnail>https://i1.ytimg.com/vi/aWt3jDFs8g4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/9efuCZj.jpg</fanart>
+</item>
