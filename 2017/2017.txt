@@ -1,6 +1,22 @@
 <channels>
 
 <channel>
+<name>2017 BDO Gold Cup</name>
+<thumbnail>http://i.imgur.com/21rLm9U.jpg</thumbnail>
+<externallink>http://bit.ly/2sKzjGQ</externallink>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>2017 Scottish Darts Association</name>
+<thumbnail>http://i.imgur.com/DPhHCMd.jpg</thumbnail>
+<externallink>http://bit.ly/2tuexse</externallink>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <title>2017 European Darts Open</title>
 <utube>|PLYJ3r6AEHB6qzTIPT00tk7cFTv9yizxBI</utube>
 <thumbnail>http://i.imgur.com/Dkn7yAN.jpg</thumbnail>
@@ -33,14 +49,6 @@
 <utube>|PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</utube>
 <thumbnail>http://i.imgur.com/I0esFmP.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</channel>
-
-<channel>
-<name>2017 BDO Gold Cup</name>
-<thumbnail>https://i1.ytimg.com/vi/aWt3jDFs8g4/hqdefault.jpg</thumbnail>
-<externallink>http://bit.ly/2sKzjGQ</externallink>
-<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-<info>http://www.darts.tv/</info>
 </channel>
 
 <channel>
