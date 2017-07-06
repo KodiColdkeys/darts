@@ -1,146 +1,158 @@
-<item>
+<channels>
+
+<channel>
 <title>2017 European Darts Open</title>
 <utube>|PLYJ3r6AEHB6qzTIPT00tk7cFTv9yizxBI</utube>
 <thumbnail>http://i.imgur.com/Dkn7yAN.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Austrian Darts Open</title>
 <utube>|PLYJ3r6AEHB6r4Xnzphfgx9rROYeMSC9iI</utube>
 <thumbnail>http://i.imgur.com/eIeYqXi.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Premier League of Darts</title>
 <utube>|PLYJ3r6AEHB6qTRSF-tLLighLWazCq1o9B</utube>
 <thumbnail>http://i.imgur.com/5ChFBin.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 European Darts Matchplay</title>
 <utube>|PLYJ3r6AEHB6qibOLpF0oNSI9WlUfxWzrc</utube>
 <thumbnail>http://i.imgur.com/QveH7Wm.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 World Cup of Darts</title>
 <utube>|PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</utube>
 <thumbnail>http://i.imgur.com/I0esFmP.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
+<name>2017 BDO Gold Cup</name>
+<thumbnail>https://i1.ytimg.com/vi/aWt3jDFs8g4/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2sKzjGQ</externallink>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <title>2017 EADC Pro Tour</title>
 <utube>|PLZxPj4ksDAujNyt2zXAlZ10ZJGrWBVHzS</utube>
 <thumbnail>http://i.imgur.com/E9AeOZM.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 World Darts Championship EADC Qualifier</title>
 <utube>|PLZxPj4ksDAujowvg1UQ8NSnPsomDRIOIl</utube>
 <thumbnail>http://i.imgur.com/E9AeOZM.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Dubai Duty Free Darts Masters</title>
 <utube>|PLYJ3r6AEHB6o5P-EX3E3PwCQxyCUFcQgO</utube>
 <thumbnail>http://i.imgur.com/HDYIXNn.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Gibraltar Darts Trophy</title>
 <utube>|PLYJ3r6AEHB6pJYJMR5t3baQoyIjJbPO48</utube>
 <thumbnail>http://i.imgur.com/Gm9pt4Q.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 European Darts Grand Prix</title>
 <utube>|PLYJ3r6AEHB6p20SHJoklQ8AzvhfTxGiFB</utube>
 <thumbnail>http://i.imgur.com/bA3RQEh.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 German Darts Masters</title>
 <utube>|PLYJ3r6AEHB6o2Em7O5b1FlWV6KRJeEd3-</utube>
 <thumbnail>http://i.imgur.com/dTIbd1X.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 German Darts Open</title>
 <utube>|PLMYrbKMmyUBkrHsjxXeaz7VfDmN-4yKhk</utube>
 <thumbnail>http://i.imgur.com/u6Dffos.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 German Darts Championship - Hildesheim</title>
 <utube>|PLMYrbKMmyUBm__350nT2Qw6yKVxxu_xdg</utube>
 <thumbnail>http://i.imgur.com/FZHBRh7.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Coral UK Open</title>
 <utube>|PLYJ3r6AEHB6qOvEYM4KFnln9CCWb3Uzet</utube>
 <thumbnail>http://i.imgur.com/bNB47bb.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Welsh Open Darts</title>
 <utube>jY1XbhToZRU</utube>
 <thumbnail>http://i.imgur.com/RhZZdjo.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Scottish Open Darts</title>
 <utube>Kaz1RC7DhfA</utube>
 <thumbnail>http://i.imgur.com/DPhHCMd.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 England Open/National Singles</title>
 <utube>RgWkJ8qYVDU</utube>
 <thumbnail>http://i.imgur.com/4EsqUFI.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 England Open Singles</title>
 <utube>oV2IaUJMDX8</utube>
 <thumbnail>http://i.imgur.com/4EsqUFI.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 Unibet Masters</title>
 <utube>|PLMYrbKMmyUBlBakIuWm9heMrC0zRatkDB</utube>
 <thumbnail>http://i.imgur.com/57fu0Aq.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 BDO World Darts Championship</title>
 <utube>|PLYJ3r6AEHB6p0RlEoUjwwr1oMQEbgYWhd</utube>
 <thumbnail>http://i.imgur.com/gp6YQYN.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <title>2017 William Hill World Darts Championship</title>
 <utube>|PLMYrbKMmyUBlBivReir3eYNkJXo93Pq40</utube>
 <thumbnail>http://i.imgur.com/zyu9rIr.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</item>
+</channel>
+
+</channels>
