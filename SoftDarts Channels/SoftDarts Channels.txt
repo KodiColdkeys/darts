@@ -62,6 +62,13 @@
 </item>
 
 <item>
+<title>Mediapix DartsTV</title>
+<utube>UCfcvrBqKlYlwvpkS0GH62pQ</utube>
+<thumbnail>http://i.imgur.com/O5s4lER.jpg</thumbnail>
+<fanart>http://i.imgur.com/fbnvUrF.jpg</fanart>
+</item>
+
+<item>
 <title>MaeshimagumiTV</title>
 <utube>UCZbYMSjmCLwBXrE2_YwAd2g|</utube>
 <thumbnail>http://i.imgur.com/g5fi9J2.jpg</thumbnail>
