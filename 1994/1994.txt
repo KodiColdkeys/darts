@@ -8,6 +8,97 @@
 </channel>
 
 <channel>
+<title>1994 Darts Gold Cup SF Gedney V Gregory</title>
+<utube>OfHaAQ6BQis</utube>
+<thumbnail>https://i1.ytimg.com/vi/OfHaAQ6BQis/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 Darts Gold Cup QF Beaton V Chaffey</title>
+<utube>_9WmIMx4v6A</utube>
+<thumbnail>https://i1.ytimg.com/vi/_9WmIMx4v6A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Matchplay Final Butler V Priestley</title>
+<utube>hXcGuLJprUw</utube>
+<thumbnail>https://i1.ytimg.com/vi/hXcGuLJprUw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Matchplay R1 Deller V Widmayer</title>
+<utube>yE9m6kDwRIE</utube>
+<thumbnail>https://i1.ytimg.com/vi/yE9m6kDwRIE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters Final Burnett V Beaton</title>
+<utube>LHvLwRL_Jao</utube>
+<thumbnail>https://i1.ytimg.com/vi/LHvLwRL_Jao/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters Ladies and Mens Finals</title>
+<utube>47lt3mZJ-Us</utube>
+<thumbnail>https://i1.ytimg.com/vi/47lt3mZJ-Us/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters Ladies SF Hedman V Reeson</title>
+<utube>MkxAaa2HJo0</utube>
+<thumbnail>https://i1.ytimg.com/vi/MkxAaa2HJo0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters SF Adams V Beaton</title>
+<utube>0B6SyaqjehU</utube>
+<thumbnail>https://i1.ytimg.com/vi/0B6SyaqjehU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters SF Burnett V Fordham</title>
+<utube>gHWvmjefDzo</utube>
+<thumbnail>https://i1.ytimg.com/vi/gHWvmjefDzo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters Mens QF, Ladies SF Solomons V Ernst</title>
+<utube>5LM_4HLWDYE</utube>
+<thumbnail>https://i1.ytimg.com/vi/5LM_4HLWDYE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters QF Fordham V Williams</title>
+<utube>DKcVMzDY6ns</utube>
+<thumbnail>https://i1.ytimg.com/vi/DKcVMzDY6ns/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters QF Burnett V Knapskog</title>
+<utube>rBYvGC0pcJw</utube>
+<thumbnail>https://i1.ytimg.com/vi/rBYvGC0pcJw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 World Masters QF Adams V Doherty</title>
+<utube>uYBOpkqFnQk</utube>
+<thumbnail>https://i1.ytimg.com/vi/uYBOpkqFnQk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
 <title>1994 World Championships Dennis Priestley Defeats Phil Taylor 6-1 - ONLY KNOWN FOOTAGE</title>
 <utube>zGNokQ9U1CA</utube>
 <thumbnail>https://i1.ytimg.com/vi/zGNokQ9U1CA/hqdefault.jpg</thumbnail>
@@ -16,8 +107,22 @@
 
 <channel>
 <title>1994 BDO World Darts Championship Final John Part V Bobby George</title>
-<utube>i-LfrY0kXxw</utube>
-<thumbnail>https://i1.ytimg.com/vi/i-LfrY0kXxw/hqdefault.jpg</thumbnail>
+<utube>gCqcq0iWKEI</utube>
+<thumbnail>https://i1.ytimg.com/vi/gCqcq0iWKEI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship SF George V Caris</title>
+<utube>y1ORmHM-T0k</utube>
+<thumbnail>https://i1.ytimg.com/vi/y1ORmHM-T0k/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship SF Part V Sharp, George V Caris</title>
+<utube>PjX9dmrBpw4</utube>
+<thumbnail>https://i1.ytimg.com/vi/PjX9dmrBpw4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
@@ -29,9 +134,30 @@
 </channel>
 
 <channel>
+<title>1994 BDO World Darts Championship QF George V Kenny</title>
+<utube>MDI9uNhcsgo</utube>
+<thumbnail>https://i1.ytimg.com/vi/MDI9uNhcsgo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
 <title>1994 BDO World Darts Championship QF Adams V Caris</title>
 <utube>C-rGbK1WrG4</utube>
 <thumbnail>https://i1.ytimg.com/vi/C-rGbK1WrG4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R2 George V Phillips</title>
+<utube>gp0Gu4NwfdA</utube>
+<thumbnail>https://i1.ytimg.com/vi/gp0Gu4NwfdA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R2 Caris V Laurens</title>
+<utube>71gWtRsxdGs</utube>
+<thumbnail>https://i1.ytimg.com/vi/71gWtRsxdGs/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
@@ -53,6 +179,41 @@
 <title>1994 BDO World Darts Championship R1 Painter V Kenny, Phillips V Herbert</title>
 <utube>pq_JQvUnJ20</utube>
 <thumbnail>https://i1.ytimg.com/vi/pq_JQvUnJ20/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Baxter V Part</title>
+<utube>Wzd2Zparz70</utube>
+<thumbnail>https://i1.ytimg.com/vi/Wzd2Zparz70/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Scholten V Palfrey</title>
+<utube>2FHWiucJROc</utube>
+<thumbnail>https://i1.ytimg.com/vi/2FHWiucJROc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Brown V Rusel</title>
+<utube>PUKx_p9hvpE</utube>
+<thumbnail>https://i1.ytimg.com/vi/PUKx_p9hvpE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Caris V Weening</title>
+<utube>Zd5qVkY3Y7Y</utube>
+<thumbnail>https://i1.ytimg.com/vi/Zd5qVkY3Y7Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1994 BDO World Darts Championship R1 Matches (4)</title>
+<utube>nP31Bl1RrmQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/nP31Bl1RrmQ/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
