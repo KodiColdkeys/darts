@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1992 BDO Embassy World Final Phil Taylor vs Mike Gregory</title>
+<utube>-sMrO0dVv5g</utube>
+<thumbnail>https://i.ytimg.com/vi/-sMrO0dVv5g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
+</channel>
+
+</channels>
