@@ -212,7 +212,7 @@
 
 <channel>
 <name>1992</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/MkTLzpaq8-Y/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2tBdE0U</externallink>
 <fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
 <info>http://www.darts.tv/</info>
