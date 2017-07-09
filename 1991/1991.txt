@@ -1,0 +1,10 @@
+</channel>
+
+<channel>
+<title>1991 BDO World Championship Final Bristow V Priestley</title>
+<utube>CG4PijPVz10</utube>
+<thumbnail>https://i.ytimg.com/vi/CG4PijPVz10/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+</channel>
