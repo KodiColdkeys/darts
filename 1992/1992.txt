@@ -1,10 +1,199 @@
 <channels>
 
 <channel>
+<title>1992 Winmau World Masters Final Priestley V Gregory</title>
+<utube>PZiDSntIr3Y</utube>
+<thumbnail>https://i.ytimg.com/vi/PZiDSntIr3Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 Winmau World Masters Women's Final Maddock V Greatbatch</title>
+<utube>--H-JVnCgoQ</utube>
+<thumbnail>https://i.ytimg.com/vi/--H-JVnCgoQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 British Matchplay Final Baxter V Phillips</title>
+<utube>KXnfF0IZcHM</utube>
+<thumbnail>https://i.ytimg.com/vi/KXnfF0IZcHM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 British Matchplay SF Baxter V Beaton</title>
+<utube>L168TK265Ts</utube>
+<thumbnail>https://i.ytimg.com/vi/L168TK265Ts/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 British Matchplay SF Phillips V Miller</title>
+<utube>Z7NRVglurjE</utube>
+<thumbnail>https://i.ytimg.com/vi/Z7NRVglurjE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
 <title>1992 BDO Embassy World Final Phil Taylor vs Mike Gregory</title>
 <utube>-sMrO0dVv5g</utube>
 <thumbnail>https://i.ytimg.com/vi/-sMrO0dVv5g/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/0E4rO8vb.jpg</fanart>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World SF Phil Taylor vs John Lowe</title>
+<utube>E8SjlH9xwmU</utube>
+<thumbnail>https://i.ytimg.com/vi/E8SjlH9xwmU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World SF Gregory V Kenny</title>
+<utube>Ymr8V6qJfVE</utube>
+<thumbnail>https://i.ytimg.com/vi/Ymr8V6qJfVE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World QF Taylor V Phillips</title>
+<utube>5AYvWfZq8SU</utube>
+<thumbnail>https://i.ytimg.com/vi/5AYvWfZq8SU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World QF Warriner V Kenny</title>
+<utube>JYpKNKUCucA</utube>
+<thumbnail>https://i.ytimg.com/vi/JYpKNKUCucA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World QF Gregory V Harrington</title>
+<utube>mSy_RHWdeC4</utube>
+<thumbnail>https://i.ytimg.com/vi/mSy_RHWdeC4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World QF Lowe V Miller</title>
+<utube>HSeNghX-Cug</utube>
+<thumbnail>https://i.ytimg.com/vi/HSeNghX-Cug/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Bristow V Phillips</title>
+<utube>ElP0knQ611E</utube>
+<thumbnail>https://i.ytimg.com/vi/ElP0knQ611E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Gregory V Johns - Highlights</title>
+<utube>ADycP96Ud_I</utube>
+<thumbnail>https://i.ytimg.com/vi/ADycP96Ud_I/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Priestley V Warriner</title>
+<utube>dlOn9DsPCMU</utube>
+<thumbnail>https://i.ytimg.com/vi/dlOn9DsPCMU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Kenny V Harvey</title>
+<utube>q4qYTseITKg</utube>
+<thumbnail>https://i.ytimg.com/vi/q4qYTseITKg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Harrington V Sullivan</title>
+<utube>mec1qQUwLsg</utube>
+<thumbnail>https://i.ytimg.com/vi/mec1qQUwLsg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Lowe V Lim</title>
+<utube>fNZab9sDzhk</utube>
+<thumbnail>https://i.ytimg.com/vi/fNZab9sDzhk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R2 Anderson V Miller</title>
+<utube>NzlzPGBjBks</utube>
+<thumbnail>https://i.ytimg.com/vi/NzlzPGBjBks/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Bristow V Hoffmann</title>
+<utube>gmt1RFewhHE</utube>
+<thumbnail>https://i.ytimg.com/vi/gmt1RFewhHE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Whitcombe V Skau</title>
+<utube>5_Xozc0QGwo</utube>
+<thumbnail>https://i.ytimg.com/vi/5_Xozc0QGwo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Lowe V Aaslund</title>
+<utube>Kh3k3FqcD8U</utube>
+<thumbnail>https://i.ytimg.com/vi/Kh3k3FqcD8U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Wilson V Kenny</title>
+<utube>7QTukW2vXqw</utube>
+<thumbnail>https://i.ytimg.com/vi/7QTukW2vXqw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Beaton V Johns</title>
+<utube>x7gIIZe_Vkg</utube>
+<thumbnail>https://i.ytimg.com/vi/x7gIIZe_Vkg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Priestley V Baxter</title>
+<utube>Mr2uvXnsrd0</utube>
+<thumbnail>https://i.ytimg.com/vi/Mr2uvXnsrd0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Anderson V Baxter</title>
+<utube>TF9C1Qo-DtI</utube>
+<thumbnail>https://i.ytimg.com/vi/TF9C1Qo-DtI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Miller V Devooght</title>
+<utube>n5H2MazWSxY</utube>
+<thumbnail>https://i.ytimg.com/vi/n5H2MazWSxY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
+</channel>
+
+<channel>
+<title>1992 BDO Embassy World R1 Taylor V Caris</title>
+<utube>2w8tkFswgWQ</utube>
+<thumbnail>https://i.ytimg.com/vi/2w8tkFswgWQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/QF55bBE.jpg</fanart>
 </channel>
 
 </channels>
