@@ -1,9 +1,57 @@
 <channels>
+<channel>
+<title>1991 BDO Skol World Champions Challenge</title>
+<utube>|PLB6C3DA56B2A1930A</utube>
+<thumbnail>https://i.ytimg.com/vi/DtsdLA73WPs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
 
 <channel>
 <title>1991 Winmau World Masters Final Taylor V Harrington</title>
 <utube>DtsdLA73WPs</utube>
 <thumbnail>https://i.ytimg.com/vi/DtsdLA73WPs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 Winmau World Masters Youth Final Barnard V Maddock</title>
+<utube>B6PdIbWN-24</utube>
+<thumbnail>https://i.ytimg.com/vi/B6PdIbWN-24/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 BDO Home Internationals Final England V Scotland</title>
+<utube>dyT_Bn8Qtb0</utube>
+<thumbnail>https://i.ytimg.com/vi/dyT_Bn8Qtb0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 BDO Home Internationals England V Wales</title>
+<utube>AWW1ez4ft84</utube>
+<thumbnail>https://i.ytimg.com/vi/AWW1ez4ft84/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 BDO Invitational Final Taylor/Wilson V Bristow/Lowe</title>
+<utube>Svqo7XUmCCA</utube>
+<thumbnail>https://i.ytimg.com/vi/Svqo7XUmCCA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 BDO Invitational SF Bristow/Lowe V Priestley/Whitcombe</title>
+<utube>xMI9vrCS2S0</utube>
+<thumbnail>https://i.ytimg.com/vi/xMI9vrCS2S0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 BDO Invitational SF Taylor/Wilson V Anderson/Evison</title>
+<utube>n_eYA2jCZl8</utube>
+<thumbnail>https://i.ytimg.com/vi/n_eYA2jCZl8/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </channel>
 
@@ -25,6 +73,27 @@
 <title>1991 Embassy World Championship R2 Bristow V Gregory</title>
 <utube>JveeVUhn0Nw</utube>
 <thumbnail>https://i.ytimg.com/vi/JveeVUhn0Nw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 Embassy World Championship R2 Wilson V Baxter</title>
+<utube>AJZzMdR6CKA</utube>
+<thumbnail>https://i.ytimg.com/vi/AJZzMdR6CKA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 Embassy World Championship R2 Evison V Kenny</title>
+<utube>Z4L4pjfokZ8</utube>
+<thumbnail>https://i.ytimg.com/vi/Z4L4pjfokZ8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1991 Embassy World Championship R2 Lazarenko V Whitcombe</title>
+<utube>kn450Bwzea4</utube>
+<thumbnail>https://i.ytimg.com/vi/kn450Bwzea4/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </channel>
 
@@ -97,6 +166,5 @@
 <thumbnail>https://i.ytimg.com/vi/RvrNye0XMlw/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
 </channel>
-
 
 </channels>
