@@ -1,9 +1,228 @@
 <channels>
+
+<channel>
+<title>1990 BDO Embassy World Paul Lim 9 Darter!</title>
+<utube>x2w-tbUBgN4</utube>
+<thumbnail>https://i1.ytimg.com/vi/x2w-tbUBgN4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<name>1990 BDO British Youth</name>
+<thumbnail>https://i1.ytimg.com/vi/hZ9Mr9Tmxu0/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2uKdiW8</externallink>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters Youth Final Clancy V Murphy</title>
+<utube>63uiU8Vtm4M</utube>
+<thumbnail>https://i1.ytimg.com/vi/63uiU8Vtm4M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters Women's Final Hedman V Speed</title>
+<utube>RHKB1nR2D0Y</utube>
+<thumbnail>https://i1.ytimg.com/vi/RHKB1nR2D0Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters Final Taylor V Wilson</title>
+<utube>jLfGsnlp1cU</utube>
+<thumbnail>https://i1.ytimg.com/vi/jLfGsnlp1cU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters SF Wilson V Lowe</title>
+<utube>iQ5ZRc16lFc</utube>
+<thumbnail>https://i1.ytimg.com/vi/iQ5ZRc16lFc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters SF Taylor V Priestley</title>
+<utube>kvwi5DxyD8o</utube>
+<thumbnail>https://i1.ytimg.com/vi/kvwi5DxyD8o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters QF Priestley V Gardner</title>
+<utube>J9lgeyY9alQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/J9lgeyY9alQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters QF Taylor V Gregory</title>
+<utube>3ZS6RmeJ7lw</utube>
+<thumbnail>https://i1.ytimg.com/vi/3ZS6RmeJ7lw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters QF Lowe V Simmonds</title>
+<utube>u47UCic09tI</utube>
+<thumbnail>https://i1.ytimg.com/vi/u47UCic09tI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 Winmau World Masters R2 Bristow V Simmonds</title>
+<utube>lxGGmaOOv1Q</utube>
+<thumbnail>https://i1.ytimg.com/vi/lxGGmaOOv1Q/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Bristow V Askew</title>
+<utube>6RCjmODc3A4</utube>
+<thumbnail>https://i1.ytimg.com/vi/6RCjmODc3A4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Warriner V Kenny</title>
+<utube>RAcjIqVccbQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/RAcjIqVccbQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Lowe V Miller</title>
+<utube>6bZWxQFp5LA</utube>
+<thumbnail>https://i1.ytimg.com/vi/6bZWxQFp5LA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Priestley V Evison</title>
+<utube>JfSTCQIvtCg</utube>
+<thumbnail>https://i1.ytimg.com/vi/JfSTCQIvtCg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Gregory V Kane</title>
+<utube>qmQJmZHKV1A</utube>
+<thumbnail>https://i1.ytimg.com/vi/qmQJmZHKV1A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Taylor V Whitcombe</title>
+<utube>L3BgLf7G0Yo</utube>
+<thumbnail>https://i1.ytimg.com/vi/L3BgLf7G0Yo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Masters Anderson V Johns</title>
+<utube>5GDD06t0-6A</utube>
+<thumbnail>https://i1.ytimg.com/vi/5GDD06t0-6A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay Final Anderson V Warriner</title>
+<utube>OqVU4JOj8Ho</utube>
+<thumbnail>https://i1.ytimg.com/vi/OqVU4JOj8Ho/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay SF Anderson V Gregory</title>
+<utube>4d9eThIbKrA</utube>
+<thumbnail>https://i1.ytimg.com/vi/4d9eThIbKrA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay SF Taylor V Warriner</title>
+<utube>awdDYhMkxGc</utube>
+<thumbnail>https://i1.ytimg.com/vi/awdDYhMkxGc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay QF Anderson V Johns</title>
+<utube>l1Dr6EGzxhI</utube>
+<thumbnail>https://i1.ytimg.com/vi/l1Dr6EGzxhI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay QF Bristow V Gregory</title>
+<utube>SEzYPF729bI</utube>
+<thumbnail>https://i1.ytimg.com/vi/SEzYPF729bI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO British Matchplay QF Warriner V Evison</title>
+<utube>shJU-flwpaQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/shJU-flwpaQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
 <channel>
 <title>1990 BDO Embassy World Final Taylor V Bristow</title>
 <utube>Z2Xj__QFg9Q</utube>
 <thumbnail>https://i1.ytimg.com/vi/Z2Xj__QFg9Q/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World SF Bristow V Gregory</title>
+<utube>Ul6eqKDgYdA</utube>
+<thumbnail>https://i1.ytimg.com/vi/Ul6eqKDgYdA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World SF Taylor V Lazarenko</title>
+<utube>UdZru4kO1lY</utube>
+<thumbnail>https://i1.ytimg.com/vi/UdZru4kO1lY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World QF Taylor V Sharp</title>
+<utube>iW01JaGn-k4</utube>
+<thumbnail>https://i1.ytimg.com/vi/iW01JaGn-k4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World R2 Wilson V Whiting</title>
+<utube>aJ-tJ281QAA</utube>
+<thumbnail>https://i1.ytimg.com/vi/aJ-tJ281QAA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World R1 Whitcombe V Whiting</title>
+<utube>weQV8UwJ9xI</utube>
+<thumbnail>https://i1.ytimg.com/vi/weQV8UwJ9xI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World R1 Wilson V Crooks</title>
+<utube>fXdiiWjDNmk</utube>
+<thumbnail>https://i1.ytimg.com/vi/fXdiiWjDNmk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1990 BDO Embassy World R1 Caris V Rantala</title>
+<utube>Z4Z6eEPOPV8</utube>
+<thumbnail>https://i1.ytimg.com/vi/Z4Z6eEPOPV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
 </channel>
 
 </channels>
