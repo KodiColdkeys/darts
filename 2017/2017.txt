@@ -38,6 +38,14 @@
 </channel>
 
 <channel>
+<name>2017 BDO World Trophy</name>
+<thumbnail>http://i.imgur.com/V19Tr3F.jpg</thumbnail>
+<externallink>http://bit.ly/2uKiM3d</externallink>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <title>2017 Austrian Darts Open</title>
 <utube>|PLYJ3r6AEHB6r4Xnzphfgx9rROYeMSC9iI</utube>
 <thumbnail>http://i.imgur.com/eIeYqXi.jpg</thumbnail>
