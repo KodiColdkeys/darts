@@ -1,0 +1,34 @@
+<item>
+<title>2017 BDO World Trophy Day 1 Live</title>
+<utube>Ss9e4JOE3Hw</utube>
+<thumbnail>https://i1.ytimg.com/vi/Ss9e4JOE3Hw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO World Trophy Day 2 Live</title>
+<utube>1tSeEyYIHr8</utube>
+<thumbnail>https://i1.ytimg.com/vi/1tSeEyYIHr8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO World Trophy Day 3 Live</title>
+<utube>na-scB-I1-8</utube>
+<thumbnail>https://i1.ytimg.com/vi/na-scB-I1-8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO World Trophy Day 4 Live</title>
+<utube>aVosvdAhpp0</utube>
+<thumbnail>https://i1.ytimg.com/vi/aVosvdAhpp0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
+
+<item>
+<title>2017 BDO World Trophy Mens Darts Final</title>
+<utube>LTQfqkpv6GY</utube>
+<thumbnail>https://i1.ytimg.com/vi/LTQfqkpv6GY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+</item>
