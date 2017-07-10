@@ -94,7 +94,7 @@
 <name>2007</name>
 <thumbnail>https://i.ytimg.com/vi/uEW4Pm1xEHY/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2rE3w5T</externallink>
-<fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
+<fanart>http://i.imgur.com/Ng2Abn9.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -102,7 +102,7 @@
 <name>2006</name>
 <thumbnail>https://i.ytimg.com/vi/oqWw93DN8V8/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2tQU1kz</externallink>
-<fanart>http://i.imgur.com/80QS8vr.jpg</fanart>
+<fanart>http://i.imgur.com/0bEGZHH.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
