@@ -54,7 +54,7 @@
 <name>2012</name>
 <thumbnail>https://i.ytimg.com/vi/gQ9RAUAzlDU/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sLgHWE</externallink>
-<fanart>https://i1.ytimg.com/vi/wsoSVoWwt4E/maxresdefault.jpg</fanart>
+<fanart>http://i.imgur.com/a38183M.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
