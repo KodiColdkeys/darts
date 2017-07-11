@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1989 BDO Embassy World Final Wilson V Bristow</title>
+<utube>eMI5Zqi5hHU</utube>
+<thumbnail>https://i1.ytimg.com/vi/eMI5Zqi5hHU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
