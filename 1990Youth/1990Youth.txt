@@ -1,4 +1,25 @@
 <item>
+<title>1990 Interview with 16-Year Old Wayne Mardle</title>
+<utube>LdhumGhLBp0</utube>
+<thumbnail>https://i1.ytimg.com/vi/LdhumGhLBp0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
+</item>
+
+<item>
+<title>1990 BDO British Youth SF Mardle V Sheppard</title>
+<utube>tipaag7Slu8</utube>
+<thumbnail>https://i1.ytimg.com/vi/tipaag7Slu8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
+</item>
+
+<item>
+<title>1990 BDO British Youth SF Wilson V Mallett</title>
+<utube>eS7Ys84H6hQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/eS7Ys84H6hQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/hamKvcs.jpg</fanart>
+</item>
+
+<item>
 <title>1990 BDO British Youth QF Beisser V Mallett</title>
 <utube>PLd5cdJGBHI</utube>
 <thumbnail>https://i1.ytimg.com/vi/PLd5cdJGBHI/hqdefault.jpg</thumbnail>
