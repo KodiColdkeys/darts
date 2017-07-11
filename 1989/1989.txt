@@ -154,4 +154,4 @@
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </channel>
 
-<channel>
+</channels>
