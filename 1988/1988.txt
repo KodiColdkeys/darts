@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1988 Winmau World Masters</title>
+<utube>|PL8E0DF272AD6E66FB</utube>
+<thumbnail>https://i.ytimg.com/vi/Npd2DevVB10/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</channel>
+
+</channels>
