@@ -118,7 +118,7 @@
 <name>2004</name>
 <thumbnail>https://i.ytimg.com/vi/f4XjLJmPUjE/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2sI1TFp</externallink>
-<fanart>http://i.imgur.com/v5aWmjE.jpg</fanart>
+<fanart>http://i.imgur.com/4hIqwPG.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
