@@ -68,7 +68,7 @@
 
 <channel>
 <title>2017 World Cup of Darts</title>
-<utube>|PLMYrbKMmyUBnKbM28mfLQaIL1PHTTT3eN</utube>
+<utube>|PLZxPj4ksDAuiz90sxi4ekOBFmBYcsND08</utube>
 <thumbnail>http://i.imgur.com/I0esFmP.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </channel>
