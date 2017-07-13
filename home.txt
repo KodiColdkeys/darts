@@ -158,7 +158,7 @@
 <name>1999</name>
 <thumbnail>https://i.ytimg.com/vi/f1JumNZIIFo/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2t6e3Ix</externallink>
-<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+<fanart>http://i.imgur.com/sTgiJtX.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
