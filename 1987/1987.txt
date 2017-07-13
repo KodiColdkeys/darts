@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1987 World Championship Final Bristow V Lowe</title>
+<utube>XSKNMQcQ1Po</utube>
+<thumbnail>https://i.ytimg.com/vi/XSKNMQcQ1Po/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+</channels>
