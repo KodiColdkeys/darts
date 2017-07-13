@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1986 World Championship Final Bristow V Whitcombe</title>
+<utube>GeMmh9K7bxw</utube>
+<thumbnail>https://i.ytimg.com/vi/GeMmh9K7bxw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+</channels>
