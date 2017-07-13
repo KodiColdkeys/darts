@@ -1,0 +1,111 @@
+<item>
+<title>1986 Home Internationals Bobby George V David Jones England V Wales</title>
+<utube>eyxwWdwoBjQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/eyxwWdwoBjQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals John Lowe V Malcolm Davies England V Wales</title>
+<utube>O07V0I4YY7c</utube>
+<thumbnail>https://i1.ytimg.com/vi/O07V0I4YY7c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Dennis Hickling V Alan Evans England V Wales</title>
+<utube>nrzSmBtbBoY</utube>
+<thumbnail>https://i1.ytimg.com/vi/nrzSmBtbBoY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Bob Anderson V Dai Furnish England V Wales</title>
+<utube>G3CQvMVN8yg</utube>
+<thumbnail>https://i1.ytimg.com/vi/G3CQvMVN8yg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Keith Deller V Stephen Williams England V Wales</title>
+<utube>cvK_v7K4gnM</utube>
+<thumbnail>https://i1.ytimg.com/vi/cvK_v7K4gnM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Cliff Lazarenko V Leighton Rees England V Wales</title>
+<utube>jeOTa3aHr00</utube>
+<thumbnail>https://i1.ytimg.com/vi/jeOTa3aHr00/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Mike Gregory V Gary Wilson England V Wales</title>
+<utube>7S8AbhoRfts</utube>
+<thumbnail>https://i1.ytimg.com/vi/7S8AbhoRfts/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Dave Lee V Peter Locke England V Wales</title>
+<utube>RTWijJyhRbY</utube>
+<thumbnail>https://i1.ytimg.com/vi/RTWijJyhRbY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Alan Glazier V Ken Thomas England V Wales</title>
+<utube>gIoigCjj3E4</utube>
+<thumbnail>https://i1.ytimg.com/vi/gIoigCjj3E4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Jocky Wilson V Eric Bristow Scotland V England</title>
+<utube>3uVqcrToUAU</utube>
+<thumbnail>https://i1.ytimg.com/vi/3uVqcrToUAU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Bob Mackenzie V John Lowe Scotland V England</title>
+<utube>AeKFVmWrpK8</utube>
+<thumbnail>https://i1.ytimg.com/vi/AeKFVmWrpK8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Chris Angel V Keith Deller Scotland V England</title>
+<utube>EAVNM2YVsWo</utube>
+<thumbnail>https://i1.ytimg.com/vi/EAVNM2YVsWo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals G.Macdonald V Mike Gregory Scotland V England</title>
+<utube>199kbCCnGcQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/199kbCCnGcQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Peter Masson V Bob Anderson Scotland V England</title>
+<utube>Wf7NMO1R3XM</utube>
+<thumbnail>https://i1.ytimg.com/vi/Wf7NMO1R3XM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Drew O'Neill V Alan Glazier Scotland V England</title>
+<utube>pKPnTW5Pxbo</utube>
+<thumbnail>https://i1.ytimg.com/vi/pKPnTW5Pxbo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
+
+<item>
+<title>1986 Home Internationals Danny Inglis V Vic Hubbard Scotland V England</title>
+<utube>5egA8yGdQQQ</utube>
+<thumbnail>https://i1.ytimg.com/vi/5egA8yGdQQQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Hv1XzVu.jpg</fanart>
+</item>
