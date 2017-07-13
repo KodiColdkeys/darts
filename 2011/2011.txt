@@ -13,8 +13,36 @@
 </item>
 
 <item>
+<title>2011 World Matchplay Final Taylor V Wade</title>
+<utube>9bY-XtYRbUI</utube>
+<thumbnail>http://i.imgur.com/L6nzUB9.jpg</thumbnail>
+<fanart>http://i.imgur.com/H6b1R4j.jpg</fanart>
+</item>
+
+<item>
 <title>2011 World Matchplay</title>
 <utube>|PLZxPj4ksDAugtH9SVhAqewjpJMrBMnDbQ</utube>
+<thumbnail>http://i.imgur.com/L6nzUB9.jpg</thumbnail>
+<fanart>http://i.imgur.com/H6b1R4j.jpg</fanart>
+</item>
+
+<item>
+<title>2011 World Matchplay R1 Lewis V Painter</title>
+<utube>1qwJ-aL54Ac</utube>
+<thumbnail>http://i.imgur.com/L6nzUB9.jpg</thumbnail>
+<fanart>http://i.imgur.com/H6b1R4j.jpg</fanart>
+</item>
+
+<item>
+<title>2011 World Matchplay R1 van der Voort V Tabern</title>
+<utube>8_k4wRlZasg</utube>
+<thumbnail>http://i.imgur.com/L6nzUB9.jpg</thumbnail>
+<fanart>http://i.imgur.com/H6b1R4j.jpg</fanart>
+</item>
+
+<item>
+<title>2011 World Matchplay R1 Jenkins V Beaton</title>
+<utube>zlpEV3yRbFs</utube>
 <thumbnail>http://i.imgur.com/L6nzUB9.jpg</thumbnail>
 <fanart>http://i.imgur.com/H6b1R4j.jpg</fanart>
 </item>
