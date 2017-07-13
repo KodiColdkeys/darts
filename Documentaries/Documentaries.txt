@@ -146,6 +146,20 @@
 </item>
 
 <item>
+<title>John Lowe celebrates the 30th Anniversary of his historic TV 9-darter</title>
+<utube>jglT_26_1Fg</utube>
+<thumbnail>https://i.ytimg.com/vi/jglT_26_1Fg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
+<title>John Lowe talks about his fantastic career</title>
+<utube>KqZok6Y0gQs</utube>
+<thumbnail>https://i.ytimg.com/vi/KqZok6Y0gQs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
 <title>The World of Phil Taylor</title>
 <utube>|PLKTBUjaZ0EYwCxoe_lHooGqjrGapgFBM4</utube>
 <thumbnail>https://i.ytimg.com/vi/EieDl0OoM-Q/hqdefault.jpg</thumbnail>
