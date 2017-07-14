@@ -3,42 +3,42 @@
 <title>1997 Battle of the Champions</title>
 <utube>|PL47D236D617959E0C</utube>
 <thumbnail>https://i1.ytimg.com/vi/JxBgSJ1iL1I/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 Battle of the Champions Taylor V Burnett</title>
 <utube>Bmf91LRwwXM</utube>
 <thumbnail>https://i1.ytimg.com/vi/Bmf91LRwwXM/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 PDC World Darts Final Taylor V Priestly</title>
 <utube>Wtcl30is-ks</utube>
 <thumbnail>https://i1.ytimg.com/vi/Wtcl30is-ks/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 PDC World Darts SF Bristow V Taylor</title>
 <utube>|PL7599597233FC0C04</utube>
 <thumbnail>https://i1.ytimg.com/vi/16EeNdQHa7w/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 PDC World Darts QF Bristow V Warriner</title>
 <utube>7Kk2Dt9mBLc</utube>
 <thumbnail>https://i1.ytimg.com/vi/7Kk2Dt9mBLc/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <name>1997 PDC World Darts QF Keith Deller V Phil Taylor</name>
 <thumbnail>https://i1.ytimg.com/vi/Cr2cp08ybhY/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2u8bYMc</externallink>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -46,7 +46,7 @@
 <name>1997 PDC World Darts R1 Keith Deller V Dennis Smith</name>
 <thumbnail>https://i1.ytimg.com/vi/kpVBai2thBM/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2u7LkTD</externallink>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -54,196 +54,196 @@
 <title>1997 PDC World Pairs Final Barneveld/Scholten V Harrington/Burnett</title>
 <utube>55tHaCu8eZU</utube>
 <thumbnail>https://i1.ytimg.com/vi/55tHaCu8eZU/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 PDC World Matchplay Final Taylor V Warriner</title>
 <utube>bPMC_buDkeA</utube>
 <thumbnail>https://i1.ytimg.com/vi/bPMC_buDkeA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters Ladies Final Solomons V Greatbatch</title>
 <utube>B7ZUzJa8r0o</utube>
 <thumbnail>https://i1.ytimg.com/vi/B7ZUzJa8r0o/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters Youth Final Turner V Womack</title>
 <utube>8zAmYEozReY</utube>
 <thumbnail>https://i1.ytimg.com/vi/8zAmYEozReY/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters Final Baxter V Hunt</title>
 <utube>HLDEoC63BwQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/HLDEoC63BwQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters SF Hankey V Baxter</title>
 <utube>-Ryd9NderVg</utube>
 <thumbnail>https://i1.ytimg.com/vi/-Ryd9NderVg/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters SF Hunt V Delderfield</title>
 <utube>HqGk5urXBJs</utube>
 <thumbnail>https://i1.ytimg.com/vi/HqGk5urXBJs/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters QF Hankey V Day</title>
 <utube>7Ms-TY4vgcQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/7Ms-TY4vgcQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters QF Hunt V Hinkley</title>
 <utube>xU56zDI-Vks</utube>
 <thumbnail>https://i1.ytimg.com/vi/xU56zDI-Vks/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters QF Hayfield V Delderfield</title>
 <utube>62z4_jUaaBQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/62z4_jUaaBQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 World Masters QF Baxter V Herbert</title>
 <utube>7afE3B4W4MQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/7afE3B4W4MQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship Final Wallace V James</title>
 <utube>0VMzNPP8VU4</utube>
 <thumbnail>https://i1.ytimg.com/vi/0VMzNPP8VU4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship SF King V Wallace</title>
 <utube>H2dvQYJJaPE</utube>
 <thumbnail>https://i1.ytimg.com/vi/H2dvQYJJaPE/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship SF James V Beaton</title>
 <utube>p6cpcpETfz4</utube>
 <thumbnail>https://i1.ytimg.com/vi/p6cpcpETfz4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship QF Scholten V King</title>
 <utube>q2AftuX63Qs</utube>
 <thumbnail>https://i1.ytimg.com/vi/q2AftuX63Qs/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Baxter V Jenkins</title>
 <utube>mAuPIA_ZY4Y</utube>
 <thumbnail>https://i1.ytimg.com/vi/mAuPIA_ZY4Y/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Fordham V Clark</title>
 <utube>Maj_usYxkFQ</utube>
 <thumbnail>https://i1.ytimg.com/vi/Maj_usYxkFQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Gregory V Scholten</title>
 <utube>NIY1Er3_qnc</utube>
 <thumbnail>https://i1.ytimg.com/vi/NIY1Er3_qnc/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Burnett V Hinkley</title>
 <utube>s96lPq6F_ak</utube>
 <thumbnail>https://i1.ytimg.com/vi/s96lPq6F_ak/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 George V Brooks</title>
 <utube>bMEUZcXqZXM</utube>
 <thumbnail>https://i1.ytimg.com/vi/bMEUZcXqZXM/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Part V Brown</title>
 <utube>jwbQmNmEOfI</utube>
 <thumbnail>https://i1.ytimg.com/vi/jwbQmNmEOfI/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Smith V Wylie</title>
 <utube>2aNbvrga5Nk</utube>
 <thumbnail>https://i1.ytimg.com/vi/2aNbvrga5Nk/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 James V Burksfield</title>
 <utube>AnCne7hGoxU</utube>
 <thumbnail>https://i1.ytimg.com/vi/AnCne7hGoxU/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 King V Hunt</title>
 <utube>fARM4AsRN3I</utube>
 <thumbnail>https://i1.ytimg.com/vi/fARM4AsRN3I/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Beaton V Mercer</title>
 <utube>P4n2nfZ1BRo</utube>
 <thumbnail>https://i1.ytimg.com/vi/P4n2nfZ1BRo/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Davies V Laurens</title>
 <utube>NdG__hJ6ilA</utube>
 <thumbnail>https://i1.ytimg.com/vi/NdG__hJ6ilA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship R1 Adams V Carter (NO AUDIO)</title>
 <utube>Lx2btNpLuvM</utube>
 <thumbnail>https://i1.ytimg.com/vi/Lx2btNpLuvM/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 <channel>
 <title>1997 BDO World Darts Championship Round 1 Matches</title>
 <utube>U1_YIKxpRnk</utube>
 <thumbnail>https://i1.ytimg.com/vi/U1_YIKxpRnk/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+<fanart>http://i.imgur.com/FbD4Az3.jpg</fanart>
 </channel>
 
 </channels>
