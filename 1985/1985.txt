@@ -1,14 +1,6 @@
 <channels>
 
 <channel>
-<name>1985</name>
-<thumbnail>https://i1.ytimg.com/vi/G3CQvMVN8yg/hqdefault.jpg</thumbnail>
-<externallink>http://bit.ly/2sUevJ2</externallink>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
-<info>http://www.darts.tv/</info>
-</channel>
-
-<channel>
 <title>1985 World Matchplay Final Bristow V Anderson</title>
 <utube>ntbgbXOWCRA</utube>
 <thumbnail>https://i.ytimg.com/vi/ntbgbXOWCRA/hqdefault.jpg</thumbnail>
