@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1983 Embassy World Final Eric Bristow v Keith Deller</title>
+<utube>Gg6fngPcP0g</utube>
+<thumbnail>https://i.ytimg.com/vi/Gg6fngPcP0g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+</channels>
