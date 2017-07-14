@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1984 Embassy World Final Eric Bristow v Dave Whitcombe</title>
+<utube>vnrq6dkyVTA</utube>
+<thumbnail>https://i.ytimg.com/vi/vnrq6dkyVTA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+</channels>
