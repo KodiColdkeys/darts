@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1982 Embassy World Final Lowe v Wilson</title>
+<utube>2YRIP60cusg</utube>
+<thumbnail>https://i.ytimg.com/vi/2YRIP60cusg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+</channels>
