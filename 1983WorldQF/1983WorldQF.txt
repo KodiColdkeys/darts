@@ -1,0 +1,90 @@
+<item>
+<title>1983 Embassy World QF Tony Brown V Stefan Lord 1 of 2</title>
+<utube>a9eM8l6xtpI</utube>
+<thumbnail>https://i.ytimg.com/vi/a9eM8l6xtpI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Tony Brown V Stefan Lord 2 of 2</title>
+<utube>RwseKBSM1Ds</utube>
+<thumbnail>https://i.ytimg.com/vi/RwseKBSM1Ds/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Keith Deller V John Lowe 1 of 4</title>
+<utube>k2k2c78T_hU</utube>
+<thumbnail>https://i.ytimg.com/vi/k2k2c78T_hU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Keith Deller V John Lowe 2 of 4</title>
+<utube>7WA19fPdrOo</utube>
+<thumbnail>https://i.ytimg.com/vi/7WA19fPdrOo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Keith Deller V John Lowe 3 of 4</title>
+<utube>sk0EFJ53-4c</utube>
+<thumbnail>https://i.ytimg.com/vi/sk0EFJ53-4c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Keith Deller V John Lowe 4 of 4</title>
+<utube>5tO4oO3-Ihw</utube>
+<thumbnail>https://i.ytimg.com/vi/5tO4oO3-Ihw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Eric Bristow v Dave Whitcombe 1 of 3</title>
+<utube>V0ZO_oq-wg4</utube>
+<thumbnail>https://i.ytimg.com/vi/V0ZO_oq-wg4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Eric Bristow v Dave Whitcombe 2 of 3</title>
+<utube>ubeW4IqS9w8</utube>
+<thumbnail>https://i.ytimg.com/vi/ubeW4IqS9w8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Eric Bristow v Dave Whitcombe 3 of 3</title>
+<utube>jW2oZv60Jq8</utube>
+<thumbnail>https://i.ytimg.com/vi/jW2oZv60Jq8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Jocky Wilson V Cliff Lazarenko 1 of 4</title>
+<utube>23cCnWNz0ps</utube>
+<thumbnail>https://i.ytimg.com/vi/23cCnWNz0ps/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Jocky Wilson V Cliff Lazarenko 2 of 4</title>
+<utube>oSB5b-vKqVk</utube>
+<thumbnail>https://i.ytimg.com/vi/oSB5b-vKqVk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Jocky Wilson V Cliff Lazarenko 3 of 4</title>
+<utube>U6nKE4vyO3g</utube>
+<thumbnail>https://i.ytimg.com/vi/U6nKE4vyO3g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World QF Jocky Wilson V Cliff Lazarenko 4 of 4</title>
+<utube>asCXVm5FlmA</utube>
+<thumbnail>https://i.ytimg.com/vi/asCXVm5FlmA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/0E4rO8v.jpg</fanart>
+</item>

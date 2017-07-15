@@ -1,0 +1,76 @@
+<item>
+<title>1983 Embassy World SF Eric Bristow V Tony Brown 1 of 4</title>
+<utube>XS4SQhwqyOw</utube>
+<thumbnail>https://i.ytimg.com/vi/XS4SQhwqyOw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Eric Bristow V Tony Brown 2 of 4</title>
+<utube>IC0MhdPj8pk</utube>
+<thumbnail>https://i.ytimg.com/vi/IC0MhdPj8pk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Eric Bristow V Tony Brown 3 of 4</title>
+<utube>5SdR3oGE6vc</utube>
+<thumbnail>https://i.ytimg.com/vi/5SdR3oGE6vc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Eric Bristow V Tony Brown 4 of 4</title>
+<utube>xQGAFhJdgNM</utube>
+<thumbnail>https://i.ytimg.com/vi/xQGAFhJdgNM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 1 of 7</title>
+<utube>PWTtIXO5AMM</utube>
+<thumbnail>https://i.ytimg.com/vi/PWTtIXO5AMM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 2 of 7</title>
+<utube>mlyPCHpsR-Y</utube>
+<thumbnail>https://i.ytimg.com/vi/mlyPCHpsR-Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 3 of 7</title>
+<utube>mJwtJDev-rY</utube>
+<thumbnail>https://i.ytimg.com/vi/mJwtJDev-rY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 4 of 7</title>
+<utube>oDT98WoAvLU</utube>
+<thumbnail>https://i.ytimg.com/vi/oDT98WoAvLU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 5 of 7</title>
+<utube>1J1EhWyrmgo</utube>
+<thumbnail>https://i.ytimg.com/vi/1J1EhWyrmgo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 6 of 7</title>
+<utube>3-0jJDNyQTs</utube>
+<thumbnail>https://i.ytimg.com/vi/3-0jJDNyQTs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
+
+<item>
+<title>1983 Embassy World SF Keith Deller V Jocky Wilson 7 of 7</title>
+<utube>cf6v4JN9mVs</utube>
+<thumbnail>https://i.ytimg.com/vi/cf6v4JN9mVs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</item>
