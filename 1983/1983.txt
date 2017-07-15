@@ -1,9 +1,116 @@
 <channels>
 
 <channel>
+<title>1983 BDO Butlins Grand Masters Final Bristow v Wilson</title>
+<utube>0pbzHy74SZQ</utube>
+<thumbnail>https://i.ytimg.com/vi/0pbzHy74SZQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 BDO British Open SF Mike Gregory V John Lowe</title>
+<utube>nRQuNr5ynEA</utube>
+<thumbnail>https://i.ytimg.com/vi/nRQuNr5ynEA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
 <title>1983 Embassy World Final Eric Bristow v Keith Deller</title>
 <utube>Gg6fngPcP0g</utube>
 <thumbnail>https://i.ytimg.com/vi/Gg6fngPcP0g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<name>1983 Embassy World Semi Finals</name>
+<thumbnail>https://i.ytimg.com/vi/xQGAFhJdgNM/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2v3soGp</externallink>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1983 Embassy World Quarter Finals</name>
+<thumbnail>https://i.ytimg.com/vi/V0ZO_oq-wg4/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2v3FNOB</externallink>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>1983 Embassy World L16 Eric Bristow v Dave Lee</title>
+<utube>e770Nlx5Urs</utube>
+<thumbnail>https://i.ytimg.com/vi/e770Nlx5Urs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Eric Bristow V Peter Masson</title>
+<utube>O9dh3ciI0eM</utube>
+<thumbnail>https://i.ytimg.com/vi/O9dh3ciI0eM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 John Lowe V Alan Evans</title>
+<utube>-ktiaCo9y0c</utube>
+<thumbnail>https://i.ytimg.com/vi/-ktiaCo9y0c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Tony Brown V Bobby George</title>
+<utube>kGIaF1eDvHY</utube>
+<thumbnail>https://i.ytimg.com/vi/kGIaF1eDvHY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Keith Deller V Nicky Virachkul</title>
+<utube>0374EYznKlA</utube>
+<thumbnail>https://i.ytimg.com/vi/0374EYznKlA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Stefan Lord V K C Mullaney</title>
+<utube>kGsFpefEH-A</utube>
+<thumbnail>https://i.ytimg.com/vi/kGsFpefEH-A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Terry O'Dea V Peter Locke</title>
+<utube>VXYwa1774oM</utube>
+<thumbnail>https://i.ytimg.com/vi/VXYwa1774oM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Dave Whitcombe V Andy Green</title>
+<utube>1Cfsnq0CiPk</utube>
+<thumbnail>https://i.ytimg.com/vi/1Cfsnq0CiPk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Les Capewell V Stuart Holden</title>
+<utube>MTq5UrObg-E</utube>
+<thumbnail>https://i.ytimg.com/vi/MTq5UrObg-E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Tony Ridler V Finn Jensen</title>
+<utube>itJe34EzypY</utube>
+<thumbnail>https://i.ytimg.com/vi/itJe34EzypY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Luc Marreel V Ceri Morgan</title>
+<utube>vXzgL-2JWUQ</utube>
+<thumbnail>https://i.ytimg.com/vi/vXzgL-2JWUQ/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
