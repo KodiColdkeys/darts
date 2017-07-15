@@ -8,9 +8,107 @@
 </channel>
 
 <channel>
+<title>1983 Blackthorn Cider Masters Final Bristow v Lowe</title>
+<utube>ff_AL8Nw0HY</utube>
+<thumbnail>https://i.ytimg.com/vi/ff_AL8Nw0HY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Blackthorn Cider Masters SF Bristow v Lazarenko</title>
+<utube>MTtd2sm6Bho</utube>
+<thumbnail>https://i.ytimg.com/vi/MTtd2sm6Bho/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Blackthorn Cider Masters SF Lowe V Wilson</title>
+<utube>YUsloX3Hlng</utube>
+<thumbnail>https://i.ytimg.com/vi/YUsloX3Hlng/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Winmau World Masters L16 Bristow V Crook</title>
+<utube>aglwV7USO28</utube>
+<thumbnail>https://i.ytimg.com/vi/aglwV7USO28/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 BDO British Open Final Eric Bristow V Mike Gregory</title>
+<utube>XHiIk210f-o</utube>
+<thumbnail>https://i.ytimg.com/vi/XHiIk210f-o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 BDO British Open SF Bob Anderson V Eric Bristow</title>
+<utube>D-cIMp1-x60</utube>
+<thumbnail>https://i.ytimg.com/vi/D-cIMp1-x60/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
 <title>1983 BDO British Open SF Mike Gregory V John Lowe</title>
 <utube>nRQuNr5ynEA</utube>
 <thumbnail>https://i.ytimg.com/vi/nRQuNr5ynEA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Team Final England V Scotland</title>
+<utube>dz7jlyQJrrA</utube>
+<thumbnail>https://i.ytimg.com/vi/dz7jlyQJrrA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Pairs Final England V Scotland</title>
+<utube>LLJO0yKCNCg</utube>
+<thumbnail>https://i.ytimg.com/vi/LLJO0yKCNCg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Singles Final England V Scotland</title>
+<utube>SoIp4JlrJJ4</utube>
+<thumbnail>https://i.ytimg.com/vi/SoIp4JlrJJ4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Singles SF Bristow V Lowe</title>
+<utube>XhBX8TcYMK8</utube>
+<thumbnail>https://i.ytimg.com/vi/XhBX8TcYMK8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Singles SF Whitcombe V Wilson</title>
+<utube>3JVju33P_3o</utube>
+<thumbnail>https://i.ytimg.com/vi/3JVju33P_3o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Singles QF England V Scotland</title>
+<utube>S-8Z3UCYnow</utube>
+<thumbnail>https://i.ytimg.com/vi/S-8Z3UCYnow/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Women's Singles Final America V Wales</title>
+<utube>xgmBArZzp_o</utube>
+<thumbnail>https://i.ytimg.com/vi/xgmBArZzp_o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 WDF World Cup Women's Pairs Final England V Canada</title>
+<utube>-rtTUftqo_w</utube>
+<thumbnail>https://i.ytimg.com/vi/-rtTUftqo_w/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
@@ -111,6 +209,13 @@
 <title>1983 Embassy World R1 Luc Marreel V Ceri Morgan</title>
 <utube>vXzgL-2JWUQ</utube>
 <thumbnail>https://i.ytimg.com/vi/vXzgL-2JWUQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/k73cprC.jpg</fanart>
+</channel>
+
+<channel>
+<title>1983 Embassy World R1 Dave Lee V Tony Holyoake</title>
+<utube>vdumPPBF_EU</utube>
+<thumbnail>https://i.ytimg.com/vi/vdumPPBF_EU/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/k73cprC.jpg</fanart>
 </channel>
 
