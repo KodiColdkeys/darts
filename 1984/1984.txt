@@ -1,9 +1,247 @@
 <channels>
 
 <channel>
-<title>1984 Embassy World Final Eric Bristow v Dave Whitcombe</title>
+<title>1984 News of the World Final Eric Bristow v Ian Robertson</title>
+<utube>SFQGC_CvJec</utube>
+<thumbnail>https://i.ytimg.com/vi/SFQGC_CvJec/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 News of the World SF Eric Bristow V Paul Reynolds</title>
+<utube>Fh54K4RsUU8</utube>
+<thumbnail>https://i.ytimg.com/vi/Fh54K4RsUU8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 News of the World QF Eric Bristow V George Hyde</title>
+<utube>wnamhs_-HjI</utube>
+<thumbnail>https://i.ytimg.com/vi/wnamhs_-HjI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay Final Lowe V Lazarenko</title>
+<utube>zdwBD5B_XuM</utube>
+<thumbnail>https://i.ytimg.com/vi/zdwBD5B_XuM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay SF Lazarenko V Whitcombe</title>
+<utube>rtslVqVdoV8</utube>
+<thumbnail>https://i.ytimg.com/vi/rtslVqVdoV8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay SF Anderson V Lowe</title>
+<utube>HhCwPKDqWkw</utube>
+<thumbnail>https://i.ytimg.com/vi/HhCwPKDqWkw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay QF Lazarenko V O'Dea</title>
+<utube>hYIDWWhXT7E</utube>
+<thumbnail>https://i.ytimg.com/vi/hYIDWWhXT7E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay QF Anderson V Lee</title>
+<utube>EKBg807-LkM</utube>
+<thumbnail>https://i.ytimg.com/vi/EKBg807-LkM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay QF Whitcombe V Stewart</title>
+<utube>0bQn5SzmI2g</utube>
+<thumbnail>https://i.ytimg.com/vi/0bQn5SzmI2g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay QF John Lowe 9 Darter! V Keith Deller</title>
+<utube>CoiufNAeQpk</utube>
+<thumbnail>https://i.ytimg.com/vi/CoiufNAeQpk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay QF Lowe  V Deller</title>
+<utube>x2y430GIGLc</utube>
+<thumbnail>https://i.ytimg.com/vi/x2y430GIGLc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay L16 Bristow V O'Dea</title>
+<utube>IPXKkjLLQQs</utube>
+<thumbnail>https://i.ytimg.com/vi/IPXKkjLLQQs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay L16 Wilson V Anderson</title>
+<utube>OdGZVmSMCis</utube>
+<thumbnail>https://i.ytimg.com/vi/OdGZVmSMCis/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO World Matchplay L16 Gregory V Stewart</title>
+<utube>QuvnKaRkDi4</utube>
+<thumbnail>https://i.ytimg.com/vi/QuvnKaRkDi4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Unipart British Professional Final Gregory V Lowe</title>
+<utube>h0LG6QWPMmI</utube>
+<thumbnail>https://i.ytimg.com/vi/h0LG6QWPMmI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO British Open Final Lazarenko V Noble</title>
+<utube>MChudc2ZXFo</utube>
+<thumbnail>https://i.ytimg.com/vi/MChudc2ZXFo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO British Open SF Lazarenko V Wilson</title>
+<utube>GHCk2j_vQoE</utube>
+<thumbnail>https://i.ytimg.com/vi/GHCk2j_vQoE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO British Open SF Eric Bristow V Barry Noble</title>
+<utube>Wwe305kv2dY</utube>
+<thumbnail>https://i.ytimg.com/vi/Wwe305kv2dY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 BDO International Wales V England Thomas V Whitcombe</title>
+<utube>AiUagdMaU-E</utube>
+<thumbnail>https://i.ytimg.com/vi/AiUagdMaU-E/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters Final Bristow V Lowe</title>
+<utube>ZgeWi2Bzfvo</utube>
+<thumbnail>https://i.ytimg.com/vi/ZgeWi2Bzfvo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters SF Lowe V Wilson</title>
+<utube>SVcIxGd-_6U</utube>
+<thumbnail>https://i.ytimg.com/vi/SVcIxGd-_6U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters QF Bristow V Murphy</title>
+<utube>51qqhHPGAgM</utube>
+<thumbnail>https://i.ytimg.com/vi/51qqhHPGAgM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters QF Lowe V Masson</title>
+<utube>WaZIAli6Qnw</utube>
+<thumbnail>https://i.ytimg.com/vi/WaZIAli6Qnw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters QF Locke V Lazarenko</title>
+<utube>r4OzQivhdps</utube>
+<thumbnail>https://i.ytimg.com/vi/r4OzQivhdps/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters QF Wilson V George</title>
+<utube>YQi0w1EgE2o</utube>
+<thumbnail>https://i.ytimg.com/vi/YQi0w1EgE2o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Dry Blackthorn Cider Masters L16 Lowe V Hickling</title>
+<utube>_jcKhV3_dDE</utube>
+<thumbnail>https://i.ytimg.com/vi/_jcKhV3_dDE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters Women's Final Wones V Earnshaw</title>
+<utube>xDTBCJtx8OI</utube>
+<thumbnail>https://i.ytimg.com/vi/xDTBCJtx8OI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters Women's QF Coombes V Goddard</title>
+<utube>Ox5PnH7Iljk</utube>
+<thumbnail>https://i.ytimg.com/vi/Ox5PnH7Iljk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters Final Bristow V Deller</title>
+<utube>qJSOT1d_7kg</utube>
+<thumbnail>https://i.ytimg.com/vi/qJSOT1d_7kg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters SF Bristow V McMullan</title>
+<utube>1ADECCISfxk</utube>
+<thumbnail>https://i.ytimg.com/vi/1ADECCISfxk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters SF Deller V Walls</title>
+<utube>SNbtUU6FHAQ</utube>
+<thumbnail>https://i.ytimg.com/vi/SNbtUU6FHAQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters L16 Bristow V Morgan</title>
+<utube>nVlaVUf5qVA</utube>
+<thumbnail>https://i.ytimg.com/vi/nVlaVUf5qVA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Winmau World Masters L16 Wilson V McMullan</title>
+<utube>IoLhVQmjEHU</utube>
+<thumbnail>https://i.ytimg.com/vi/IoLhVQmjEHU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Embassy World Final Bristow V Whitcombe</title>
 <utube>vnrq6dkyVTA</utube>
 <thumbnail>https://i.ytimg.com/vi/vnrq6dkyVTA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1984 Embassy World SF Wilson V Whitcombe</title>
+<utube>0zTaS0nAQlI</utube>
+<thumbnail>https://i.ytimg.com/vi/0zTaS0nAQlI/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Pl4N7UZ.jpg</fanart>
 </channel>
 
