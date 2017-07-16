@@ -1,0 +1,17 @@
+<channels>
+
+<channel>
+<title>1981 BDO World Masters Final Bristow V Lowe</title>
+<utube>s0G0WVzxQY8</utube>
+<thumbnail>https://i.ytimg.com/vi/s0G0WVzxQY8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Embassy World Final Bristow V George</title>
+<utube>hdnytVPYkbI</utube>
+<thumbnail>https://i.ytimg.com/vi/hdnytVPYkbI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+</channels>
