@@ -2,13 +2,6 @@
 
 
 <channels>
-<channel>
-<name>Documentaries</name>
-<thumbnail>https://i.ytimg.com/vi/KFnqA4JgPH8/hqdefault.jpg</thumbnail>
-<externallink>http://bit.ly/2uqWjXA</externallink>
-<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
-<info>http://www.darts.tv/</info>
-</channel>
 
 <channel>
 <name>2017</name>
@@ -246,7 +239,7 @@
 <name>1988</name>
 <thumbnail>https://i.ytimg.com/vi/Npd2DevVB10/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2v9WeYM</externallink>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -308,9 +301,17 @@
 
 <channel>
 <name>1980</name>
-<thumbnail>https://i.ytimg.com/vi/k2v7IXiLfZ8/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/L1RunZYRogw/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2uqpFt8</externallink>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>1979</name>
+<thumbnail>https://i.ytimg.com/vi/B1P4_cr1eIw/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2ur0zdv</externallink>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -319,6 +320,14 @@
 <thumbnail>http://i.imgur.com/Sv4Kgxs.jpg</thumbnail>
 <externallink>http://bit.ly/2tguyRY</externallink>
 <fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<name>Documentaries</name>
+<thumbnail>https://i.ytimg.com/vi/KFnqA4JgPH8/hqdefault.jpg</thumbnail>
+<externallink>http://bit.ly/2uqWjXA</externallink>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
