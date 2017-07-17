@@ -1,6 +1,125 @@
 <channels>
 
 <channel>
+<title>1978 Winmau World Masters Final Davis V Brown</title>
+<utube>a8xMx1wmUW0</utube>
+<thumbnail>https://i.ytimg.com/vi/a8xMx1wmUW0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Winmau World Masters SF Lazarenko V Davis</title>
+<utube>W-5qScOO39A</utube>
+<thumbnail>https://i.ytimg.com/vi/W-5qScOO39A/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Winmau World Masters SF Brown V Sontag</title>
+<utube>kaSsT3EZa2c</utube>
+<thumbnail>https://i.ytimg.com/vi/kaSsT3EZa2c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 BDO British Matchplay - John Lowe Winning</title>
+<utube>ZZHXM6DHlBw</utube>
+<thumbnail>https://i.ytimg.com/vi/ZZHXM6DHlBw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Final Sweden V Ireland (801)</title>
+<utube>viRG3BFupi0</utube>
+<thumbnail>https://i.ytimg.com/vi/viRG3BFupi0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Triples Final Sweden V Ireland (801)</title>
+<utube>_YHmYj9vNaA</utube>
+<thumbnail>https://i.ytimg.com/vi/_YHmYj9vNaA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Final Lord V O'Brien (Sweden V Ireland)</title>
+<utube>Ncbv9XHvs4g</utube>
+<thumbnail>https://i.ytimg.com/vi/Ncbv9XHvs4g/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Final Enqvist V McQuillan (Sweden V Ireland)</title>
+<utube>ssj7OXKzMJA</utube>
+<thumbnail>https://i.ytimg.com/vi/ssj7OXKzMJA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Final Ohlson V Byrne (Sweden V Ireland)</title>
+<utube>8WRZPTxC9HY</utube>
+<thumbnail>https://i.ytimg.com/vi/8WRZPTxC9HY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF America V Ireland</title>
+<utube>6H8aLxedZBM</utube>
+<thumbnail>https://i.ytimg.com/vi/6H8aLxedZBM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF O'Brien V Daniels (America V Ireland)</title>
+<utube>ZyVW5a5HD74</utube>
+<thumbnail>https://i.ytimg.com/vi/ZyVW5a5HD74/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF Byrne V Melchiorre (America V Ireland)</title>
+<utube>zN9OiUBoMdA</utube>
+<thumbnail>https://i.ytimg.com/vi/zN9OiUBoMdA/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF England V Sweden</title>
+<utube>fKG9Iis_KtE</utube>
+<thumbnail>https://i.ytimg.com/vi/fKG9Iis_KtE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup Triples SF England V Sweden</title>
+<utube>sGRfh0J8XJI</utube>
+<thumbnail>https://i.ytimg.com/vi/sGRfh0J8XJI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF Lazarenko V Enqvist (England V Sweden)</title>
+<utube>dLuCcwQJAxM</utube>
+<thumbnail>https://i.ytimg.com/vi/dLuCcwQJAxM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Nations Cup SF Lennard V Ohlson (England V Sweden)</title>
+<utube>vW0xHrjibhk</utube>
+<thumbnail>https://i.ytimg.com/vi/vW0xHrjibhk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Embassy World Rees V Lowe (final leg)</title>
+<utube>0fbEe-82d7o</utube>
+<thumbnail>https://i.ytimg.com/vi/0fbEe-82d7o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
 <title>1978 Embassy World Championship 01</title>
 <utube>mJ9luqQ6lac</utube>
 <thumbnail>https://i.ytimg.com/vi/mJ9luqQ6lac/hqdefault.jpg</thumbnail>
