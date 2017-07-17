@@ -1,9 +1,135 @@
 <channels>
 
 <channel>
-<title>1981 BDO World Masters Final Bristow V Lowe</title>
+<title>1981 BDO British Masters Final Bristow V Gosling</title>
+<utube>sSmxnIh1ASU</utube>
+<thumbnail>https://i.ytimg.com/vi/sSmxnIh1ASU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Winmau World Masters Final Bristow V Lowe</title>
 <utube>s0G0WVzxQY8</utube>
 <thumbnail>https://i.ytimg.com/vi/s0G0WVzxQY8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Winmau World Masters Final Bristow V Lowe</title>
+<utube>O8y617clZi4</utube>
+<thumbnail>https://i.ytimg.com/vi/O8y617clZi4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Winmau World Masters SF Lowe V Lord</title>
+<utube>BQ3mMS63_70</utube>
+<thumbnail>https://i.ytimg.com/vi/BQ3mMS63_70/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Winmau World Masters SF Bristow V Whitcombe</title>
+<utube>J8DGaCWzvJk</utube>
+<thumbnail>https://i.ytimg.com/vi/J8DGaCWzvJk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 British Open Women's Final Davies V Simpson</title>
+<utube>aPMKJFdL5Co</utube>
+<thumbnail>https://i.ytimg.com/vi/aPMKJFdL5Co/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 British Open Final Bristow V Rees</title>
+<utube>IiTNi0z7OvY</utube>
+<thumbnail>https://i.ytimg.com/vi/IiTNi0z7OvY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 British Open SF Bristow V Brown</title>
+<utube>3WvCkv5hnqM</utube>
+<thumbnail>https://i.ytimg.com/vi/3WvCkv5hnqM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 British Open SF Rees V Lumley</title>
+<utube>tVpQpFEYWJg</utube>
+<thumbnail>https://i.ytimg.com/vi/tVpQpFEYWJg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 British Professional Final(close) Wilson V Lowe</title>
+<utube>3oIwiS6tyD0</utube>
+<thumbnail>https://i.ytimg.com/vi/3oIwiS6tyD0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup Final England V Scotland</title>
+<utube>FgHM7JgUvWs</utube>
+<thumbnail>https://i.ytimg.com/vi/FgHM7JgUvWs/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup Final Wilson V Lowe</title>
+<utube>U-wEkc9ueHg</utube>
+<thumbnail>https://i.ytimg.com/vi/U-wEkc9ueHg/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup Final Lazarenko V Ross</title>
+<utube>S2nuGSCs6H8</utube>
+<thumbnail>https://i.ytimg.com/vi/S2nuGSCs6H8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup Final Lazarenko V Smith</title>
+<utube>6VptOIejraQ</utube>
+<thumbnail>https://i.ytimg.com/vi/6VptOIejraQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup Final Bristow V Rab Smith</title>
+<utube>ocXFAa1vFTo</utube>
+<thumbnail>https://i.ytimg.com/vi/ocXFAa1vFTo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Arctic Life Nations Cup SF England V Wales</title>
+<utube>cL3W86BfCck</utube>
+<thumbnail>https://i.ytimg.com/vi/cL3W86BfCck/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 BDO Gold Cup Final Tony Skuse V John Corfe</title>
+<utube>oTPB9Ai2wAk</utube>
+<thumbnail>https://i.ytimg.com/vi/oTPB9Ai2wAk/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 BDO Gold Cup SF Ralph Flatt V John Corfe</title>
+<utube>2AVK_AkWHLc</utube>
+<thumbnail>https://i.ytimg.com/vi/2AVK_AkWHLc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 BDO Gold Cup SF Tony Skuse V Clive Pearce</title>
+<utube>rKt1-khQlOY</utube>
+<thumbnail>https://i.ytimg.com/vi/rKt1-khQlOY/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
 </channel>
 
@@ -11,6 +137,20 @@
 <title>1981 Embassy World Final Bristow V George</title>
 <utube>hdnytVPYkbI</utube>
 <thumbnail>https://i.ytimg.com/vi/hdnytVPYkbI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Embassy World Bristow V Lowe (Final leg)</title>
+<utube>NMf_w8GhCa0</utube>
+<thumbnail>https://i.ytimg.com/vi/NMf_w8GhCa0/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
+</channel>
+
+<channel>
+<title>1981 Embassy World R2 Lazarenko V Umberger</title>
+<utube>DKngReaasOk</utube>
+<thumbnail>https://i.ytimg.com/vi/DKngReaasOk/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/bGUsy16.jpg</fanart>
 </channel>
 
