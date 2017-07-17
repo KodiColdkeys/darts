@@ -1,0 +1,38 @@
+<channels>
+
+<channel>
+<title>1977 WDF World Cup Team Final Wales V England</title>
+<utube>rRpTtBCso0U</utube>
+<thumbnail>https://i.ytimg.com/vi/rRpTtBCso0U/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1977 WDF World Cup Singles Final Wales V England</title>
+<utube>TO5fJzLXUlU</utube>
+<thumbnail>https://i.ytimg.com/vi/TO5fJzLXUlU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1977 WDF World Cup Pairs Final England V Wales</title>
+<utube>9qZcFda4RHI</utube>
+<thumbnail>https://i.ytimg.com/vi/9qZcFda4RHI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1977 Indoor League Mixed Pairs Semi Final 2</title>
+<utube>XYl5AtR3AFI</utube>
+<thumbnail>https://i.ytimg.com/vi/XYl5AtR3AFI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+<channel>
+<title>1977 Winmau World Masters - Eric Bristoe Winning</title>
+<utube>T6x7uprwnKo</utube>
+<thumbnail>https://i.ytimg.com/vi/T6x7uprwnKo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/MjYBfVZ.jpg</fanart>
+</channel>
+
+</channels>
