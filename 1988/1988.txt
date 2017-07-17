@@ -4,231 +4,231 @@
 <title>1988 Winmau World Masters Final Anderson V Lowe</title>
 <utube>ALEdwWZA6qI</utube>
 <thumbnail>https://i.ytimg.com/vi/ALEdwWZA6qI/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters</title>
 <utube>|PL8E0DF272AD6E66FB</utube>
 <thumbnail>https://i.ytimg.com/vi/Npd2DevVB10/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters SF Anderson V Gregory</title>
 <utube>rURLp9QT_Y0</utube>
 <thumbnail>https://i.ytimg.com/vi/rURLp9QT_Y0/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters QF Anderson V Baxter</title>
 <utube>tawpwGYW8Ew</utube>
 <thumbnail>https://i.ytimg.com/vi/tawpwGYW8Ew/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters Lim V Gregory</title>
 <utube>Uf86ehG8y8M</utube>
 <thumbnail>https://i.ytimg.com/vi/Uf86ehG8y8M/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters Anderson V Caris</title>
 <utube>qU4cFN-qRSQ</utube>
 <thumbnail>https://i.ytimg.com/vi/qU4cFN-qRSQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters Bristow V Sinnaeve</title>
 <utube>ZQ7ZtbNNy68</utube>
 <thumbnail>https://i.ytimg.com/vi/ZQ7ZtbNNy68/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Winmau World Masters Taylor V Stewart</title>
 <utube>gO9_cVZm4FU</utube>
 <thumbnail>https://i.ytimg.com/vi/gO9_cVZm4FU/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 MFI World Pairs Final Wilson/Gardner V Gregory/Karlsson</title>
 <utube>Eycl-HO5Hvg</utube>
 <thumbnail>https://i.ytimg.com/vi/0gTEkzz0z_8/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 MFI World Matchplay Final Bristow V Sinnaeve 1 of 2</title>
 <utube>Azax7uQv99w</utube>
 <thumbnail>https://i.ytimg.com/vi/Azax7uQv99w/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 MFI World Matchplay Final Bristow V Sinnaeve 2 of 2</title>
 <utube>GgU5jWTLtNo</utube>
 <thumbnail>https://i.ytimg.com/vi/GgU5jWTLtNo/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO Nations Cup Final England V Sweden</title>
 <utube>T9riPMiKnN0</utube>
 <thumbnail>https://i.ytimg.com/vi/T9riPMiKnN0/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO Nations Cup SF Sweden V Belgium</title>
 <utube>6b7mUAyZrjE</utube>
 <thumbnail>https://i.ytimg.com/vi/6b7mUAyZrjE/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO Nations Cup SF England V Northern Ireland</title>
 <utube>8653URMgLtA</utube>
 <thumbnail>https://i.ytimg.com/vi/8653URMgLtA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 Canadian Open Final Taylor V Anderson</title>
 <utube>gzIrqadPdUI</utube>
 <thumbnail>https://i.ytimg.com/vi/gzIrqadPdUI/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 World Mixed Pairs Final Lowe/Branthwaite V Anderson/Kempster</title>
 <utube>Ha6tisrV7D4</utube>
 <thumbnail>https://i.ytimg.com/vi/Ha6tisrV7D4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 World Mixed Pairs SF Bristow/Reitan V Anderson/Kempster</title>
 <utube>qX2eImrRLTE</utube>
 <thumbnail>https://i.ytimg.com/vi/qX2eImrRLTE/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 World Mixed Pairs SF Lowe/Branthwaite V Stewart/Ono</title>
 <utube>XnulREoMyeQ</utube>
 <thumbnail>https://i.ytimg.com/vi/XnulREoMyeQ/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO British Professional Final Wilson V Battye</title>
 <utube>0Zljcwyv4Ww</utube>
 <thumbnail>https://i.ytimg.com/vi/0Zljcwyv4Ww/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO British Professional SF Anderson V Battye</title>
 <utube>0Ga4gkngZ_M</utube>
 <thumbnail>https://i.ytimg.com/vi/0Ga4gkngZ_M/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO British Professional QF Wilson V Rees</title>
 <utube>9JdLdeaq2gc</utube>
 <thumbnail>https://i.ytimg.com/vi/9JdLdeaq2gc/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO British Professional QF Deller V Whitcombe</title>
 <utube>BfiQ3S7gM7Y</utube>
 <thumbnail>https://i.ytimg.com/vi/BfiQ3S7gM7Y/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO British Professional QF Battye V Smith</title>
 <utube>1h1XVG3BAw0</utube>
 <thumbnail>https://i.ytimg.com/vi/1h1XVG3BAw0/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship Final Anderson V Lowe</title>
 <utube>rA-vD5Qw3JY</utube>
 <thumbnail>https://i.ytimg.com/vi/rA-vD5Qw3JY/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship SF Bristow V Lowe</title>
 <utube>9-_OGUtJSW8</utube>
 <thumbnail>https://i.ytimg.com/vi/9-_OGUtJSW8/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship SF Anderson V Ney</title>
 <utube>5Zal5UdJ0is</utube>
 <thumbnail>https://i.ytimg.com/vi/5Zal5UdJ0is/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship QF Bristow V Wilson</title>
 <utube>nTBsTM6bfx0</utube>
 <thumbnail>https://i.ytimg.com/vi/nTBsTM6bfx0/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship QF Anderson V Evison</title>
 <utube>D6tfRQCrl5Q</utube>
 <thumbnail>https://i.ytimg.com/vi/D6tfRQCrl5Q/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship R2 Lowe V Lim</title>
 <utube>nulQhUw4xc4</utube>
 <thumbnail>https://i.ytimg.com/vi/nulQhUw4xc4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship R2 Bristow V Gardner</title>
 <utube>dK4_hGgG4ls</utube>
 <thumbnail>https://i.ytimg.com/vi/dK4_hGgG4ls/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship R2 Matches</title>
 <utube>_vtqj5owZbA</utube>
 <thumbnail>https://i.ytimg.com/vi/_vtqj5owZbA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship R1 Bristow V Farrell</title>
 <utube>WVLAjq6PhrA</utube>
 <thumbnail>https://i.ytimg.com/vi/WVLAjq6PhrA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 <channel>
 <title>1988 BDO World Championship R1 Wilson V O'Dea</title>
 <utube>yi7sNju6xwc</utube>
 <thumbnail>https://i.ytimg.com/vi/yi7sNju6xwc/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+<fanart>http://i.imgur.com/cPod43J.jpg</fanart>
 </channel>
 
 </channels>
