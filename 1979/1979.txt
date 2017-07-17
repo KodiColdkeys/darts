@@ -1,0 +1,24 @@
+<channels>
+
+<channel>
+<title>1979 John Thompson beats Leighton Rees</title>
+<utube>w1ZNZY340zQ</utube>
+<thumbnail>https://i.ytimg.com/vi/w1ZNZY340zQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</channel>
+
+<channel>
+<title>1979 News of the World Final George V Glazier</title>
+<utube>aH42Jyg4vhw</utube>
+<thumbnail>https://i.ytimg.com/vi/aH42Jyg4vhw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</channel>
+
+<channel>
+<title>1979 Embassy World Final Rees V Lowe (final leg)</title>
+<utube>B1P4_cr1eIw</utube>
+<thumbnail>https://i.ytimg.com/vi/B1P4_cr1eIw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/1YObI8a.jpg</fanart>
+</channel>
+
+</channels>
