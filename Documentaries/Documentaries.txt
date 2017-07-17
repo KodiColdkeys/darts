@@ -90,6 +90,13 @@
 </item>
 
 <item>
+<title>Vinnie Jones interviews Eric Bristow</title>
+<utube>5MFEaiNqNyI</utube>
+<thumbnail>https://i.ytimg.com/vi/5MFEaiNqNyI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/3Q5k1sy.jpg</fanart>
+</item>
+
+<item>
 <title>Eric Bristow's Golden Arrows</title>
 <utube>I6UYLS5_0FQ</utube>
 <thumbnail>https://i.ytimg.com/vi/I6UYLS5_0FQ/hqdefault.jpg</thumbnail>
