@@ -1,9 +1,58 @@
 <channels>
 
 <channel>
-<title>1980 Embassy World Final Bristow V George</title>
-<utube>k2v7IXiLfZ8</utube>
-<thumbnail>https://i.ytimg.com/vi/k2v7IXiLfZ8/hqdefault.jpg</thumbnail>
+<title>1980 News of the World Final Stefan Lord V Dave Whitcombe</title>
+<utube>L1RunZYRogw</utube>
+<thumbnail>https://i.ytimg.com/vi/L1RunZYRogw/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World SF Lowe V Lord</title>
+<utube>r45x6UC0-qQ</utube>
+<thumbnail>https://i.ytimg.com/vi/r45x6UC0-qQ/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World SF Whitcombe V Kiely</title>
+<utube>5xvV05DrvcE</utube>
+<thumbnail>https://i.ytimg.com/vi/5xvV05DrvcE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World QF Lowe V George</title>
+<utube>VBgT0LnTUew</utube>
+<thumbnail>https://i.ytimg.com/vi/VBgT0LnTUew/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World Lord V Forrest</title>
+<utube>SBEJvhD9Wug</utube>
+<thumbnail>https://i.ytimg.com/vi/SBEJvhD9Wug/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World Lowe V Bowers</title>
+<utube>tDAd-TYCbFY</utube>
+<thumbnail>https://i.ytimg.com/vi/tDAd-TYCbFY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 News of the World Whitcombe V Ney</title>
+<utube>ST5cTag1ioE</utube>
+<thumbnail>https://i.ytimg.com/vi/ST5cTag1ioE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 Nations Cup Final England V America</title>
+<utube>SKw0fN4EZMY</utube>
+<thumbnail>https://i.ytimg.com/vi/SKw0fN4EZMY/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </channel>
 
@@ -11,6 +60,20 @@
 <title>1980 Golden Darts Final Ceri Morgan V Eric Bristow</title>
 <utube>2Yme8HV2U2c</utube>
 <thumbnail>https://i.ytimg.com/vi/2Yme8HV2U2c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 Golden Darts SF Eric Bristow V Stefan Lord</title>
+<utube>hE-8SIy_hAo</utube>
+<thumbnail>https://i.ytimg.com/vi/hE-8SIy_hAo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 Embassy World Final Bristow V George</title>
+<utube>k2v7IXiLfZ8</utube>
+<thumbnail>https://i.ytimg.com/vi/k2v7IXiLfZ8/hqdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
 </channel>
 
