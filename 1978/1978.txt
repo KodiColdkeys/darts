@@ -1,0 +1,24 @@
+<channels>
+
+<channel>
+<title>1978 Embassy World Championship 01</title>
+<utube>mJ9luqQ6lac</utube>
+<thumbnail>https://i.ytimg.com/vi/mJ9luqQ6lac/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Embassy World Championship 02</title>
+<utube>kGa0i4UtnA4</utube>
+<thumbnail>https://i.ytimg.com/vi/kGa0i4UtnA4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+<channel>
+<title>1978 Embassy World Championship 03</title>
+<utube>xKurjfosUWE</utube>
+<thumbnail>https://i.ytimg.com/vi/xKurjfosUWE/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/B56f8Qh.jpg</fanart>
+</channel>
+
+</channels>
