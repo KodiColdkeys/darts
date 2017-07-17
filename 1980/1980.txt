@@ -1,0 +1,17 @@
+<channels>
+
+<channel>
+<title>1980 Embassy World Final Bristow V George</title>
+<utube>k2v7IXiLfZ8</utube>
+<thumbnail>https://i.ytimg.com/vi/k2v7IXiLfZ8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+<channel>
+<title>1980 Golden Darts Final Ceri Morgan V Eric Bristow</title>
+<utube>2Yme8HV2U2c</utube>
+<thumbnail>https://i.ytimg.com/vi/2Yme8HV2U2c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/e7qHwmp.jpg</fanart>
+</channel>
+
+</channels>
