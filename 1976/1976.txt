@@ -1,0 +1,17 @@
+<channels>
+
+<channel>
+<title>1976 News of the World Final Rees V Lennard</title>
+<utube>070OfzZDvgI</utube>
+<thumbnail>https://i.ytimg.com/vi/070OfzZDvgI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
+<channel>
+<title>1976 Indoor League Final Ellix V Rees</title>
+<utube>LfUx4VgiwS4</utube>
+<thumbnail>https://i.ytimg.com/vi/LfUx4VgiwS4/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
+</channels>
