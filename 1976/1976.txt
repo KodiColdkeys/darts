@@ -14,4 +14,18 @@
 <fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
 </channel>
 
+<channel>
+<title>1976 Indoor League Ladies Final Lally V Dickinson</title>
+<utube>NbTEXN4zj0o</utube>
+<thumbnail>https://i.ytimg.com/vi/NbTEXN4zj0o/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
+<channel>
+<title>1976 John Lowe Winning the Winmau World Masters</title>
+<utube>JBlnLAqM6SI</utube>
+<thumbnail>https://i.ytimg.com/vi/JBlnLAqM6SI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+</channel>
+
 </channels>
