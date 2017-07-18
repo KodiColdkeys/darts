@@ -1,0 +1,10 @@
+<channels>
+
+<channel>
+<title>1974 News of the World Championship</title>
+<utube>oW3eE2gRh04</utube>
+<thumbnail>https://i.ytimg.com/vi/oW3eE2gRh04/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
+</channel>
+
+</channels>
