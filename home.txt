@@ -127,7 +127,7 @@
 <name>2002</name>
 <thumbnail>https://i.ytimg.com/vi/V7HsS529AGU/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2tl1I5F</externallink>
-<fanart>http://i.imgur.com/ZTV5Ra9.jpg</fanart>
+<fanart>http://i.imgur.com/ZZcW1Jw.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
@@ -271,7 +271,7 @@
 <name>1984</name>
 <thumbnail>https://i.ytimg.com/vi/vnrq6dkyVTA/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2upDmsz</externallink>
-<fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
+<fanart>http://i.imgur.com/9Qgv7BA.jpg</fanart>
 <info>http://www.darts.tv/</info>
 </channel>
 
