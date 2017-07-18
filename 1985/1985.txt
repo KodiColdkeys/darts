@@ -4,224 +4,224 @@
 <title>1985 World Matchplay Final Bristow V Anderson</title>
 <utube>ntbgbXOWCRA</utube>
 <thumbnail>https://i.ytimg.com/vi/ntbgbXOWCRA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters Women's Final Ralphs V Barnett</title>
 <utube>82qCO9D7CY0</utube>
 <thumbnail>https://i.ytimg.com/vi/82qCO9D7CY0/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters Final Whitcombe V Farrell</title>
 <utube>2zmq2__wjew</utube>
 <thumbnail>https://i.ytimg.com/vi/2zmq2__wjew/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters SF Farrell V Payne</title>
 <utube>xqRE5CyGwU4</utube>
 <thumbnail>https://i.ytimg.com/vi/xqRE5CyGwU4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters SF Anderson V Whitcombe</title>
 <utube>YYlO-XOGMik</utube>
 <thumbnail>https://i.ytimg.com/vi/YYlO-XOGMik/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters L16 Stewart V Bristow</title>
 <utube>gI8g7_XYUiM</utube>
 <thumbnail>https://i.ytimg.com/vi/gI8g7_XYUiM/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters L16 Anderson V Haxtall</title>
 <utube>dmB1vvHTfKs</utube>
 <thumbnail>https://i.ytimg.com/vi/dmB1vvHTfKs/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters L16 Lowe V Gardner</title>
 <utube>nCs1J7VB7-I</utube>
 <thumbnail>https://i.ytimg.com/vi/nCs1J7VB7-I/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters L16 Gregory V Lim</title>
 <utube>ekf9TYTxe3k</utube>
 <thumbnail>https://i.ytimg.com/vi/ekf9TYTxe3k/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Winmau World Masters L16 Whitcombe V Lee</title>
 <utube>BAvyKYRItZU</utube>
 <thumbnail>https://i.ytimg.com/vi/BAvyKYRItZU/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 MFI British Open Women's Final Flowers V Batten</title>
 <utube>Xd7qiC7oi8U</utube>
 <thumbnail>https://i.ytimg.com/vi/Xd7qiC7oi8U/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 MFI British Open Final Cosnett V Locke</title>
 <utube>_FPFil1B8oI</utube>
 <thumbnail>https://i.ytimg.com/vi/_FPFil1B8oI/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 MFI British Open QF Wilson V Whitcombe</title>
 <utube>VULtVokrf4I</utube>
 <thumbnail>https://i.ytimg.com/vi/VULtVokrf4I/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 MFI British Open QF Locke V Stewart</title>
 <utube>B85_TQCXCb4</utube>
 <thumbnail>https://i.ytimg.com/vi/B85_TQCXCb4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Dry Blackthorn Cider Masters Final Bristow V Lowe</title>
 <utube>T2JVqo17YEw</utube>
 <thumbnail>https://i.ytimg.com/vi/T2JVqo17YEw/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Dry Blackthorn Cider Masters QF Lowe V Summers</title>
 <utube>bU1oLMnytEE</utube>
 <thumbnail>https://i.ytimg.com/vi/bU1oLMnytEE/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Dry Blackthorn Cider Masters QF Lazarenko V Reynolds</title>
 <utube>yslYpmPOkRA</utube>
 <thumbnail>https://i.ytimg.com/vi/yslYpmPOkRA/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Dry Blackthorn Cider Masters L16 Bristow V Varney</title>
 <utube>J0XADbAD1io</utube>
 <thumbnail>https://i.ytimg.com/vi/J0XADbAD1io/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Dry Blackthorn Cider Masters L16 Wilson V Down</title>
 <utube>K5FOe0UCGbo</utube>
 <thumbnail>https://i.ytimg.com/vi/K5FOe0UCGbo/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 Greene King Challenge England V The Rest of the World</title>
 <utube>imPFyGu447I</utube>
 <thumbnail>https://i.ytimg.com/vi/imPFyGu447I/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Women's Final England V New Zealand</title>
 <utube>ZXSaP5SIpdg</utube>
 <thumbnail>https://i.ytimg.com/vi/ZXSaP5SIpdg/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Women's Pairs Final England V Scotland</title>
 <utube>bHJ-5WtgMe4</utube>
 <thumbnail>https://i.ytimg.com/vi/bHJ-5WtgMe4/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Team Final America V Australia</title>
 <utube>vaNuwfnBi6U</utube>
 <thumbnail>https://i.ytimg.com/vi/vaNuwfnBi6U/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Team SF Scotland V Australia</title>
 <utube>F_N9up3H14Q</utube>
 <thumbnail>https://i.ytimg.com/vi/F_N9up3H14Q/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Team SF America V England</title>
 <utube>UKm4KJHCuBw</utube>
 <thumbnail>https://i.ytimg.com/vi/UKm4KJHCuBw/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Pairs Final England V Australia</title>
 <utube>3T_s6QK_rEU</utube>
 <thumbnail>https://i.ytimg.com/vi/3T_s6QK_rEU/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Singles Final England V America</title>
 <utube>3HRXCFe3y-s</utube>
 <thumbnail>https://i.ytimg.com/vi/3HRXCFe3y-s/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 WDF World Cup Singles SF America V Ireland</title>
 <utube>aiuTE4NVafo</utube>
 <thumbnail>https://i.ytimg.com/vi/aiuTE4NVafo/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 BDO Nations Cup Final Finland V England</title>
 <utube>6947Q7_QDas</utube>
 <thumbnail>https://i.ytimg.com/vi/6947Q7_QDas/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 World Championship Final Bristow V Lowe</title>
 <utube>NSK6n7uqj0Q</utube>
 <thumbnail>https://i.ytimg.com/vi/NSK6n7uqj0Q/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 World Championship R2 Glazier V Brennan</title>
 <utube>w96TmTydppM</utube>
 <thumbnail>https://i.ytimg.com/vi/w96TmTydppM/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 <channel>
 <title>1985 World Championship R2 Deller V Marreel</title>
 <utube>II9C9MlTV6c</utube>
 <thumbnail>https://i.ytimg.com/vi/II9C9MlTV6c/hqdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/J4S9iPs.jpg</fanart>
+<fanart>http://i.imgur.com/3VjRHb5.jpg</fanart>
 </channel>
 
 </channels>
