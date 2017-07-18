@@ -7,4 +7,11 @@
 <fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
 </channel>
 
+<channel>
+<title>1974 News of the World QF Chapman V Brown</title>
+<utube>oTdap-FJxxU</utube>
+<thumbnail>https://i.ytimg.com/vi/oTdap-FJxxU/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/pwatHdt.jpg</fanart>
+</channel>
+
 </channels>
