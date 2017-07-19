@@ -356,6 +356,14 @@
 </channel>
 
 <channel>
+<name>Mixed Bag</name>
+<thumbnail>http://i.imgur.com/ydJnAqo.jpg</thumbnail>
+<externallink>http://bit.ly/2vi9MT1</externallink>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+<info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
 <name>Documentaries</name>
 <thumbnail>https://i.ytimg.com/vi/KFnqA4JgPH8/hqdefault.jpg</thumbnail>
 <externallink>http://bit.ly/2uqWjXA</externallink>
