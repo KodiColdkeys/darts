@@ -8,6 +8,13 @@
 </channel>
 
 <channel>
+<title>2017 North American Championship</title>
+<utube>|PLYJ3r6AEHB6pD9vU29GHfwOHvQlUK2Xsl</utube>
+<thumbnail>http://i.imgur.com/sInfPAj.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
 <title>2017 Shanghai Darts Open QF, SF and Final</title>
 <utube>|PLvgHUsW2gXvTQ8ZTaVHlLiUImlxss6tw5</utube>
 <thumbnail>http://i.imgur.com/SfvVFj4.jpg</thumbnail>
@@ -18,6 +25,13 @@
 <title>2017 Shanghai Darts Open Round 1</title>
 <utube>|PLYJ3r6AEHB6oxfix8fgZMEkt33Iq7uxwL</utube>
 <thumbnail>http://i.imgur.com/SfvVFj4.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>2017 Ladies World Trophy</title>
+<utube>|PLX-HhpM9NyTSggZ52hBsQC06XvgJ9Uq4d</utube>
+<thumbnail>http://i.imgur.com/V19Tr3F.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </channel>
 
