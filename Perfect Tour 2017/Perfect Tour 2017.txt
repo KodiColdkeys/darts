@@ -95,3 +95,31 @@
 <thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
 <fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
 </item>
+
+<item>
+<title>2017 PERFECT Tour Round 15 Oita</title>
+<utube>|PLlbpunow7plg2uVNx8-vJRzgXiknQmvdI</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 16 Okinawa</title>
+<utube>|PLlbpunow7pli8vaLxSsb0-EB999QpnCN8</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 17 Tokyo</title>
+<utube>|PLlbpunow7pliAGVYIpBCzE_M9nwVt-uCd</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 18 Tokyo</title>
+<utube>|PLlbpunow7pljUFH8CovNMGJNCSUa82CVM</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
