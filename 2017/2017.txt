@@ -2,7 +2,7 @@
 
 <channel>
 <title>2017 World Matchplay</title>
-<utube>|PLZxPj4ksDAug43Ce72v7LcUhCuqNa1K9k</utube>
+<utube>|PLmi24L9-CqbE_skWFohigt0jZ_iYD2WMj</utube>
 <thumbnail>http://i.imgur.com/K8uvmPJ.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </channel>
@@ -95,23 +95,9 @@
 </channel>
 
 <channel>
-<title>2017 World Cup of Darts</title>
-<utube>|PLZxPj4ksDAuiz90sxi4ekOBFmBYcsND08</utube>
+<title>2017 World Cup of Darts (Dutch)</title>
+<utube>|PLHeZX6P_DIZq47wR9z_TvvHhq7Hz33Qwf</utube>
 <thumbnail>http://i.imgur.com/I0esFmP.jpg</thumbnail>
-<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</channel>
-
-<channel>
-<title>2017 EADC Pro Tour</title>
-<utube>|PLZxPj4ksDAujNyt2zXAlZ10ZJGrWBVHzS</utube>
-<thumbnail>http://i.imgur.com/E9AeOZM.jpg</thumbnail>
-<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</channel>
-
-<channel>
-<title>2017 World Darts Championship EADC Qualifier</title>
-<utube>|PLZxPj4ksDAujowvg1UQ8NSnPsomDRIOIl</utube>
-<thumbnail>http://i.imgur.com/E9AeOZM.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </channel>
 
