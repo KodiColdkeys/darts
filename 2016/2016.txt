@@ -216,8 +216,15 @@
 </item>
 
 <item>
+<title>2016 PDC Unibet Masters Final van Gerwen V Chisnall</title>
+<utube>lFz-_fqzvwA</utube>
+<thumbnail>http://i.imgur.com/0YkN66e.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 PDC Unibet Masters</title>
-<utube>|PLZxPj4ksDAuh6bM-EkdIV3-Z-IeRnhHhp</utube>
+<utube>|PLqeJQVNr6CBjS0lwU_SWsV4rLD3j3LefA</utube>
 <thumbnail>http://i.imgur.com/0YkN66e.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
