@@ -1,13 +1,13 @@
 <item>
 <title>2016 Cash Converters Players Championship Finals</title>
-<utube>|PLMYrbKMmyUBm7rdbeVt1BVY4UbLlsM8Nc</utube>
+<utube>|PLd27TDeJ9d5riSBTZ8iO9S7elC1LUtnE9</utube>
 <thumbnail>http://i.imgur.com/TKFgQ0f.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
-<title>2016 Singha Beer Grand Slam Of Darts</title>
-<utube>|PLMYrbKMmyUBl5K-lBfxaTUKrBkXTipNp-</utube>
+<title>2016 Singha Beer Grand Slam Of Darts Final</title>
+<utube>ENcbZV2h5TE</utube>
 <thumbnail>http://i.imgur.com/9ADTa6V.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
@@ -20,8 +20,8 @@
 </item>
 
 <item>
-<title>2016 Unibet European Championships</title>
-<utube>|PLMYrbKMmyUBktIQuQr4doYukbcnGkbLg9</utube>
+<title>2016 Unibet European Championships Michael van Gerwen wins</title>
+<utube>Fluw-i8HQK8</utube>
 <thumbnail>http://i.imgur.com/6svYo7s.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
@@ -76,8 +76,8 @@
 </item>
 
 <item>
-<title>2016 Champions League of Darts</title>
-<utube>|PLMYrbKMmyUBlvn1VtYmlwwYrn88fe9x6d</utube>
+<title>2016 Champions League of Darts Final</title>
+<utube>E5Z4ptAcECA</utube>
 <thumbnail>http://i.imgur.com/dg5rHFj.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
@@ -97,43 +97,57 @@
 </item>
 
 <item>
+<title>2016 PDC International Darts Open Final</title>
+<utube>tc9qqgcw1Xk</utube>
+<thumbnail>http://i.imgur.com/9yD7O25.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 PDC International Darts Open</title>
-<utube>|PLMYrbKMmyUBkgDtDrdaPzRgh8wWAxF9ui</utube>
+<utube>|PLXWum3jYBlHPFAtES2nYoaYvkQjZpXaoc</utube>
 <thumbnail>http://i.imgur.com/9yD7O25.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
 <title>2016 Perth Darts Masters</title>
-<utube>|PLMYrbKMmyUBlGDfxGj4WXy1MDjkywoceO</utube>
+<utube>|PLFsmk4rkNRwg48Lyf86HNlZeiUUUIJcv4</utube>
 <thumbnail>http://i.imgur.com/iCquX8e.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
+<title>2016 Sydney Darts Masters Final</title>
+<utube>-vuUR3aiTIg</utube>
+<thumbnail>http://i.imgur.com/bwKJxhR.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 Sydney Darts Masters</title>
-<utube>|PLMYrbKMmyUBlT5eRkXqZgFxTsCf5BNxSz</utube>
+<utube>|PLXWum3jYBlHN_srlE3MlY2AIkIp2glvWH</utube>
 <thumbnail>http://i.imgur.com/bwKJxhR.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
 <title>2016 World Matchplay</title>
-<utube>|PLMYrbKMmyUBmNcw8PDvZucgJHZLhWaEl9</utube>
+<utube>|PLqeJQVNr6CBgd9GtqvePXzEANzrmxisUh</utube>
 <thumbnail>http://i.imgur.com/K8uvmPJ.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
-<title>2016 Tokyo Darts Masters</title>
-<utube>|PLMYrbKMmyUBli2ejPxgGFHiHsmkgkuKe4</utube>
+<title>2016 Tokyo Darts Masters Final</title>
+<utube>FeR7p4TcJds</utube>
 <thumbnail>http://i.imgur.com/QErxQA6.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
-<title>2016 Shanghai Darts Masters</title>
-<utube>|PLMYrbKMmyUBmb20K6pD0Hg54DqNSQRtt1</utube>
+<title>2016 Shanghai Darts Masters Final</title>
+<utube>327pJ5b1Sfw</utube>
 <thumbnail>http://i.imgur.com/goClADT.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
@@ -146,29 +160,43 @@
 </item>
 
 <item>
+<title>2016 Auckland Darts Masters Final</title>
+<utube>GcSIre35b7k</utube>
+<thumbnail>http://i.imgur.com/rF8sURb.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 Auckland Darts Masters</title>
-<utube>|PLMYrbKMmyUBlnvhd6LG4HmgmqrGDEiuE6</utube>
+<utube>|PLqPkxm0zS42pb6-tPpKErrSYd6V8-nIv9</utube>
 <thumbnail>http://i.imgur.com/rF8sURb.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
 <title>2016 Austrian Darts Open</title>
-<utube>|PLMYrbKMmyUBl0CBmx7n4byhMl6VQ0GgOV</utube>
+<utube>|PLYJ3r6AEHB6p4veCKyomM_bj-ROdQa-pk</utube>
 <thumbnail>http://i.imgur.com/bDArigK.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
 <title>2016 World Cup Of Darts</title>
-<utube>|PLMYrbKMmyUBkZl3XFb5vKW3yeir3ibmjI</utube>
+<utube>|PLqeJQVNr6CBiwBao-1fbUTu7v3QhaqaRE</utube>
 <thumbnail>http://i.imgur.com/3cjCTnp.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
+<title>2016 Dubai Duty Free Darts Masters Final</title>
+<utube>VG7LFrOLUjg</utube>
+<thumbnail>http://i.imgur.com/HDYIXNn.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 Dubai Duty Free Darts Masters</title>
-<utube>|PLMYrbKMmyUBkFXCdb7knq6LYIf3FgQOtf</utube>
+<utube>|PLXWum3jYBlHPgw3gax1fg8trCjQY0VDBq</utube>
 <thumbnail>http://i.imgur.com/HDYIXNn.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
@@ -182,14 +210,14 @@
 
 <item>
 <title>2016 Premier League</title>
-<utube>|PLMYrbKMmyUBkk1g5q7pf-25FhdeBhl4_v</utube>
+<utube>|PLqeJQVNr6CBjBiq9teSStPSRIC0zc_C8W</utube>
 <thumbnail>http://i.imgur.com/CjjyfjU.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
 
 <item>
 <title>2016 Coral UK Open</title>
-<utube>|PLMYrbKMmyUBnv8HYHpRc6nM4cNvE0a4pe</utube>
+<utube>|PLqeJQVNr6CBh1neqQs7gwdi1_jm4-o20t</utube>
 <thumbnail>http://i.imgur.com/wBWRiIh.jpg</thumbnail>
 <fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
 </item>
