@@ -91,7 +91,7 @@
 
 <item>
 <title>DartsFab HD</title>
-<utube>UCjHoi5SAV3tykmeDnr-Npxg|</utube>
+<utube>UC47lBUxbtS-QzxMevdWj5Iw|</utube>
 <thumbnail>http://i.imgur.com/uKgcajH.jpg</thumbnail>
 <fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
 </item>
@@ -121,13 +121,6 @@
 <title>Tipperary Darts Masters TV</title>
 <utube>UC8aV10WcKgECtrfSx8wwxaw|</utube>
 <thumbnail>http://i.imgur.com/pn0jfaM.jpg</thumbnail>
-<fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
-</item>
-
-<item>
-<title>toller77</title>
-<utube>UCiX05yXRUWO7_TT4XSNIpcg|</utube>
-<thumbnail>http://i.imgur.com/gcfdBq0.jpg</thumbnail>
 <fanart>http://i.imgur.com/OAHAvMF.jpg</fanart>
 </item>
 
