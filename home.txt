@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>Darting Years 2016 - 1974</name>
+<name>Darting Years 1974 - 2016</name>
 <thumbnail>http://i.imgur.com/rAaoABP.jpg</thumbnail>
 <externallink>http://bit.ly/2tSmmvd</externallink>
 <fanart>http://i.imgur.com/7NJtnDZ.jpg</fanart>
@@ -33,6 +33,104 @@
 <externallink>http://bit.ly/2vi9MT1</externallink>
 <fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
 <info>http://www.darts.tv/</info>
+</channel>
+
+<channel>
+<title>PDC World Darts Championship Years 1999 - 2015</title>
+<utube>|PLYJ3r6AEHB6pjShbyOAd9awiCcAqgSMTM</utube>
+<thumbnail>http://i.imgur.com/hUPMctD.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Mega Mix of Matches (200+)</title>
+<utube>|PLvb84YAuY4mNhn7YylkyxAuPkFvjFSHmS</utube>
+<thumbnail>http://i.imgur.com/Jn1bjpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Full Matches/Tournaments</title>
+<utube>|PL152bjytsMC7E4QL9yJv3TaXOyYeZWAmb</utube>
+<thumbnail>http://i.imgur.com/vL5QlW1.png</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Womens Darts</title>
+<utube>|PL152bjytsMC6Dty0wlSwL2kc_MlkX9orS</utube>
+<thumbnail>http://i.imgur.com/bJxThKJ.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Paul Nicholson's Darts School</title>
+<utube>|PLDs_qr8Y1PLz7Z-HQ4o2RLOMnYdHfv6oR</utube>
+<thumbnail>http://i.imgur.com/5b67XzU.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Darts Walk on Songs</title>
+<utube>|PL0S9lXWhMeorIQoiPP5oTW7BMdaL3HEJX</utube>
+<thumbnail>http://i.imgur.com/4O46cfK.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Every Televised 9-Dart Finish</title>
+<utube>|PLX3-irgqvucrHuiVV95uy3ParE6xfrBCm</utube>
+<thumbnail>http://i.imgur.com/r0HsPK9.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>High Finishes</title>
+<utube>|PLjRz4dgLORZ7Sk9hFOISk4hZlaFrDtVwv</utube>
+<thumbnail>http://i.imgur.com/rxJ9uZu.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Darts Fails</title>
+<utube>|PL_nbbb4E41pgipSJroe1pamYXt3I8183t</utube>
+<thumbnail>http://i.imgur.com/Za6vaN5.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Darts Incidents</title>
+<utube>|PLvb84YAuY4mNTZkEWmhv7VSvURFB2fiU_</utube>
+<thumbnail>http://i.imgur.com/kHYf4di.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Darts Throws</title>
+<utube>|PLvb84YAuY4mNhUNZFFMlsEcSvbnGRveXG</utube>
+<thumbnail>http://i.imgur.com/JqADGWh.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>Its All About Darts</title>
+<utube>|PL152bjytsMC53tUup7EsvBq1l19m1YTLx</utube>
+<thumbnail>http://i.imgur.com/UTxlvgW.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>2017 The Darts Show</title>
+<utube>|PLYJ3r6AEHB6qFh9RgvFF-RyRAKkpeFzWy</utube>
+<thumbnail>http://i.imgur.com/4HZmnGm.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
+</channel>
+
+<channel>
+<title>John McDonald's A to Z of Darts</title>
+<utube>|PLDs_qr8Y1PLwczvtxigK9A-oXcph8LGlG</utube>
+<thumbnail>http://i.imgur.com/kQ8dGKl.jpg</thumbnail>
+<fanart>http://i.imgur.com/51X1xLa.jpg</fanart>
 </channel>
 
 <channel>
