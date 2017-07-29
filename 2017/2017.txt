@@ -9,7 +9,7 @@
 
 <channel>
 <title>2017 US Darts Masters</title>
-<utube>|PLvgHUsW2gXvTUObnAYWkO4v2dR76HkW9C</utube>
+<utube>|PLYJ3r6AEHB6qzj1Aofj46_tg-1KnkHlc2</utube>
 <thumbnail>http://i.imgur.com/Qrubekb.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
 </channel>
@@ -22,14 +22,7 @@
 </channel>
 
 <channel>
-<title>2017 Shanghai Darts Open QF, SF and Final</title>
-<utube>|PLvgHUsW2gXvTQ8ZTaVHlLiUImlxss6tw5</utube>
-<thumbnail>http://i.imgur.com/SfvVFj4.jpg</thumbnail>
-<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
-</channel>
-
-<channel>
-<title>2017 Shanghai Darts Open Round 1</title>
+<title>2017 Shanghai Darts Open</title>
 <utube>|PLYJ3r6AEHB6oxfix8fgZMEkt33Iq7uxwL</utube>
 <thumbnail>http://i.imgur.com/SfvVFj4.jpg</thumbnail>
 <fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
