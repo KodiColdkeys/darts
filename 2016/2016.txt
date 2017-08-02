@@ -258,6 +258,41 @@
 </item>
 
 <item>
+<title>2016 Scottish Open</title>
+<utube>r0KEmnuFKQM</utube>
+<thumbnail>https://i.imgbox.com/F7rXqOaH.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Welsh Open</title>
+<utube>n_6TcwvwOeM</utube>
+<thumbnail>https://i.imgbox.com/di0yiVto.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Denmark Open</title>
+<utube>|PL6omfCeRs64PNqYvZ0hZpP1t4wHx02eeI</utube>
+<thumbnail>https://i.imgbox.com/6MqsBERC.jpg</thumbnail>
+<fanart>http://i.imgur.com/q984X4l.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Denmark Masters</title>
+<utube>|PL6omfCeRs64PoY2YfjPP45YjHeZEHDijD</utube>
+<thumbnail>https://i.imgbox.com/uVNSBJAj.jpg</thumbnail>
+<fanart>http://i.imgur.com/q984X4l.jpg</fanart>
+</item>
+
+<item>
+<title>2016 Czech Open</title>
+<utube>of33lBepmPc</utube>
+<thumbnail>https://i.imgbox.com/bcCwMZ9Y.jpg</thumbnail>
+<fanart>http://i.imgur.com/SWvaazc.jpg</fanart>
+</item>
+
+<item>
 <title>2016 Thessaloniki Masters</title>
 <utube>|PLG53mTKhOlXKe73Y8nBk78B-V1UJlbceu</utube>
 <thumbnail>http://i.imgur.com/uY46vTU.jpg</thumbnail>
