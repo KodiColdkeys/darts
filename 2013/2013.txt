@@ -13,9 +13,23 @@
 </item>
 
 <item>
+<title>2013 Winmau World Masters</title>
+<utube>|PLooSwFEppWvRzJr-Ozm2csTJC4NSjjHYv</utube>
+<thumbnail>https://i.imgbox.com/zSMiMCvd.jpg</thumbnail>
+<fanart>http://bit.ly/2vhgY4z</fanart>
+</item>
+
+<item>
 <title>2013 Dutch Open Darts</title>
 <utube>|PLdyudnNs1n2BS3Rxb4BV_29CsbpouATa2</utube>
 <thumbnail>http://i.imgur.com/q0yXHtV.jpg</thumbnail>
+<fanart>http://i.imgur.com/UKkcP8z.jpg</fanart>
+</item>
+
+<item>
+<title>2013 Dutch Masters</title>
+<utube>|PLDs_qr8Y1PLxiFbRt02lNlEBp3rkIq5mp</utube>
+<thumbnail>http://i.imgur.com/bthg043.jpg</thumbnail>
 <fanart>http://i.imgur.com/UKkcP8z.jpg</fanart>
 </item>
 
