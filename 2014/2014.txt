@@ -112,7 +112,7 @@
 
 <item>
 <title>2014 Dutch Darts Masters</title>
-<utube>|PLZxPj4ksDAugzmBqPFLmn8Ik90m4tF4fP</utube>
+<utube>|PLWwTAoA4hNqOSaq0pylYAzs5eFVLFf_c7</utube>
 <thumbnail>http://i.imgur.com/bthg043.jpg</thumbnail>
 <fanart>http://i.imgur.com/DhVLuv6.jpg</fanart>
 </item>
@@ -132,9 +132,9 @@
 </item>
 
 <item>
-<title>2014 BDO England Open</title>
-<utube>|PLZxPj4ksDAuiR28mfdMx-RjpIDmmTSgNZ</utube>
-<thumbnail>http://i.imgur.com/RwisMGo.jpg</thumbnail>
+<title>2014 BDO British Open</title>
+<utube>|PLiRrgTbeMG_pufGXMHupxL5aX6BIhg2ml</utube>
+<thumbnail>https://i.imgbox.com/6CxX6Ou0.jpg</thumbnail>
 <fanart>http://i.imgur.com/DhVLuv6.jpg</fanart>
 </item>
 
@@ -147,7 +147,7 @@
 
 <item>
 <title>2014 Premier League</title>
-<utube>|PLZxPj4ksDAugGe30BNuL0qGzkmZoscRR_</utube>
+<utube>|PLWwTAoA4hNqMFOmGXWhKpRZ61isXqSJmp</utube>
 <thumbnail>http://i.imgur.com/WmsCeES.jpg</thumbnail>
 <fanart>http://i.imgur.com/DhVLuv6.jpg</fanart>
 </item>
@@ -167,6 +167,20 @@
 </item>
 
 <item>
+<title>2014 Denmark Open</title>
+<utube>|PL6omfCeRs64Nd5fOuVYuTtQftEwbyRWSt</utube>
+<thumbnail>https://i.imgbox.com/6MqsBERC.jpg</thumbnail>
+<fanart>http://i.imgur.com/q984X4l.jpg</fanart>
+</item>
+
+<item>
+<title>2014 Denmark Masters</title>
+<utube>|PL6omfCeRs64OiYl0G9xOrkHRhFqlTXUM3</utube>
+<thumbnail>https://i.imgbox.com/uVNSBJAj.jpg</thumbnail>
+<fanart>http://i.imgur.com/q984X4l.jpg</fanart>
+</item>
+
+<item>
 <title>2014 World Championship</title>
 <utube>|PLZxPj4ksDAuh7ERIMYRjkQgLhg3MyN9Tb</utube>
 <thumbnail>http://i.imgur.com/zyu9rIr.jpg</thumbnail>
@@ -182,7 +196,7 @@
 
 <item>
 <title>2014 Coral UK Open</title>
-<utube>|PLZxPj4ksDAuiKvPjYqabVqRQxMKltDsDN</utube>
+<utube>|PLWwTAoA4hNqM_aPH-zx2M6lT0xY8pv8M2</utube>
 <thumbnail>http://i.imgur.com/bNB47bb.jpg</thumbnail>
 <fanart>http://i.imgur.com/DhVLuv6.jpg</fanart>
 </item>
@@ -196,7 +210,7 @@
 
 <item>
 <title>2014 German Darts Masters</title>
-<utube>|PLZxPj4ksDAuj_73muzdjrCCp5BKm5pdI_</utube>
+<utube>|PLWwTAoA4hNqN-n2YEFTw7Fwq6kr0cYqlu</utube>
 <thumbnail>http://i.imgur.com/dTIbd1X.jpg</thumbnail>
 <fanart>http://i.imgur.com/DhVLuv6.jpg</fanart>
 </item>
