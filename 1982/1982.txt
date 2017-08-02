@@ -8,6 +8,41 @@
 </channel>
 
 <channel>
+<title>1982 WDF Europe Cup Final England V Wales</title>
+<utube>W-ijoK6VNB8</utube>
+<thumbnail>https://i.ytimg.com/vi/W-ijoK6VNB8/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1982 WDF Europe Cup Pairs Final Sweden V Scotland</title>
+<utube>_ovRe_Ly3lc</utube>
+<thumbnail>https://i.ytimg.com/vi/_ovRe_Ly3lc/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1982 WDF Europe Cup Singles Final George V Bristow</title>
+<utube>ty2mK2i6DMI</utube>
+<thumbnail>https://i.ytimg.com/vi/ty2mK2i6DMI/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1982 WDF Europe Cup Women's Final Gibb V Davies</title>
+<utube>YjYi_IXC_4s</utube>
+<thumbnail>https://i.ytimg.com/vi/YjYi_IXC_4s/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
+<title>1982 BDO Gold Cup Women's Final Earnshaw V Gibson</title>
+<utube>Iwqu8mztW-Y</utube>
+<thumbnail>https://i.ytimg.com/vi/Iwqu8mztW-Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/7MSScgb.jpg</fanart>
+</channel>
+
+<channel>
 <title>1982 Unipart British Professional Final Bristow V Lowe</title>
 <utube>r4z_Q3Q_RC4</utube>
 <thumbnail>https://i.ytimg.com/vi/r4z_Q3Q_RC4/hqdefault.jpg</thumbnail>
