@@ -20,6 +20,14 @@
 </channel>
 
 <channel>
+<name>Daily Motion Darts</name>
+<thumbnail>http://bit.ly/2uZ4NII</thumbnail>
+<externallink>http://bit.ly/2uZeW8a</externallink>
+<fanart>http://bit.ly/2uYKZFh</fanart>
+<info>http://www.dailymotion.com/gb</info>
+</channel>
+
+<channel>
 <name>Darts Channels</name>
 <thumbnail>http://i.imgur.com/Sv4Kgxs.jpg</thumbnail>
 <externallink>http://bit.ly/2tguyRY</externallink>
