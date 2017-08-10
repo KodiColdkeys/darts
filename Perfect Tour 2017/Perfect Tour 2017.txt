@@ -123,3 +123,24 @@
 <thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
 <fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
 </item>
+
+<item>
+<title>2017 PERFECT Tour Round 19 Yamaguchi</title>
+<utube>|PLlbpunow7plimd_QlyG0jY-pZJ55HwBWU</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 20 Yokohama</title>
+<utube>|PLlbpunow7pljefYbMca3DJiofQkV4tNP9</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 21 Niigata</title>
+<utube>|PLlbpunow7plg_T96RhkkMLJyhlGRZj1tx</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
