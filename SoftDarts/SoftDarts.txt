@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>2017 DARTSLIVE.TV Taichung Open</title>
+<utube>|PLBL_wH2OnFc0_w8cBLr1T7igP96F-tQdi</utube>
+<thumbnail>https://i.ytimg.com/vi/hSg3RfXfArY/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/prvcqRM.jpg</fanart>
+</item>
+
+<item>
 <title>2017 DARTSLIVE.TV USA Open</title>
 <utube>|PLBL_wH2OnFc2NazKDijz5hIprgixlVv9O</utube>
 <thumbnail>https://i.ytimg.com/vi/SfE9yl0yoYk/hqdefault.jpg</thumbnail>
