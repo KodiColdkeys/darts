@@ -1,6 +1,13 @@
 <channels>
 
 <channel>
+<title>2017 Melbourne Darts Masters</title>
+<utube>|PLYJ3r6AEHB6odYrK00crj7MFHYGMIWexs</utube>
+<thumbnail>http://i.imgur.com/NmbwpMJ.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
 <title>2017 Auckland Darts Masters</title>
 <utube>|PLYJ3r6AEHB6rhA9xnTlDX7Xp5TKm2XtTQ</utube>
 <thumbnail>http://i.imgur.com/rF8sURb.jpg</thumbnail>
