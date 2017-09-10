@@ -1,6 +1,27 @@
 <channels>
 
 <channel>
+<title>2017 German Darts Grand Prix</title>
+<utube>|PLYJ3r6AEHB6rGqsaglkDvj2RsWPXQGDSy</utube>
+<thumbnail>https://images.imgbox.com/2a/cf/dECoLhus_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>2017 Dutch Darts Masters</title>
+<utube>|PLYJ3r6AEHB6paMmuiv0ckum6XXkUvW-Ox</utube>
+<thumbnail>https://images.imgbox.com/9d/39/lFeuKhTq_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
+<title>2017 Dutch Darts Masters</title>
+<utube>|PLYJ3r6AEHB6paMmuiv0ckum6XXkUvW-Ox</utube>
+<thumbnail>https://images.imgbox.com/9d/39/lFeuKhTq_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/MMHXIvQ.jpg</fanart>
+</channel>
+
+<channel>
 <title>2017 Melbourne Darts Masters</title>
 <utube>|PLYJ3r6AEHB6odYrK00crj7MFHYGMIWexs</utube>
 <thumbnail>http://i.imgur.com/NmbwpMJ.jpg</thumbnail>
