@@ -144,3 +144,24 @@
 <thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
 <fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
 </item>
+
+<item>
+<title>2017 PERFECT Tour Round 22 Tokyo</title>
+<utube>|PLlbpunow7plgf2-ZCtgXCFbTJM0gn-nBM</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 23 Kyoto</title>
+<utube>|PLlbpunow7pljbFvNyHGHOs7BxhlvIqULT</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
+
+<item>
+<title>2017 PERFECT Tour Round 24 Sapporo</title>
+<utube>|PLlbpunow7pli9jd2b_St3helECS2Mibe2</utube>
+<thumbnail>http://i.imgur.com/ZtOMmpO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DK5ecWW.jpg</fanart>
+</item>
